@@ -1,0 +1,355 @@
+nohup: ignoring input
+Exception in thread Thread-15:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-16:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-17:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Settings: Finished reading settings file!
+Allow new users: True
+Chat: Starting...
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+Server started.
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.209.193', 58855)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.209.193', 58856)
+Sign in info: ['Info', 'Picasso', '679158', 'sign in', 'ERieeYPjRVmTcYw', '']
+Server has connections
+Detected New Users
+Name: Picasso  IP: ('137.112.209.193', 58856)
+['q']
+Picasso was not ready
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+User connected with address: ('172.168.157.233', 34592)
+Client gave invalid sign in packet
+User connected with address: ('198.235.24.237', 65350)
+Client gave invalid sign in packet
+User connected with address: ('35.203.211.173', 63120)
+Client gave invalid sign in packet
+User connected with address: ('198.235.24.196', 65436)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('87.236.176.231', 50955)
+Leaderboard: User connected with address: ('167.94.145.111', 33278)
+Leaderboard: User connected with address: ('167.94.145.111', 40502)
+User connected with address: ('40.83.135.153', 56602)
+Client gave invalid sign in packet
+Auth Server: User connected with: ('71.64.199.65', 61544)
+Auth Server: Client cleared for play
+User connected with address: ('71.64.199.65', 61545)
+Sign in info: ['Info', 'Picasso', '679158', 'sign in', 'MuWZjBNpMuwIDDa', '']
+Server has connections
+Detected New Users
+Name: Picasso  IP: ('71.64.199.65', 61545)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+1075 credits available
+
+Table||Dealer:J-H||Picasso:K-S,J-D:10:20||
+Hand Split.
+Original Hand now: K-S,9-H (19)
+Second Hand is: J-D,K-H (20)
+[19]
+[20]
+Hand Split.
+Original Hand now: J-D,4-S (14)
+Second Hand is: K-H,K-D (20)
+[19]
+[14]
+[20]
+Picasso: J-D,4-S,A-S
+Picasso now has: 15
+[19]
+[15]
+[20]
+Picasso: J-D,4-S,A-S,9-C
+Picasso now has: BUST
+[19]
+[24]
+[20]
+Hand Split.
+Original Hand now: K-H,J-D (20)
+Second Hand is: K-D,6-H (16)
+[19]
+[0]
+[20]
+[16]
+Dealer:J-H,9-H(19)
+Picasso hand 1 push
+Picasso hand 2 loses
+Picasso hand 3 wins
+Picasso hand 4 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1065 credits available
+
+Table||Dealer:8-H||Picasso:7-S,3-D:10:10||
+Picasso: 7-S,3-D,7-S
+Picasso now has: 17
+[17]
+Dealer:8-H,9-C(17)
+Picasso hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1065 credits available
+
+Table||Dealer:5-S||Picasso:K-C,J-C:10:20||
+Dealer:5-S,3-C(8)
+Dealer Hits, Pulled: K-H (18)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1075 credits available
+
+Table||Dealer:5-H||Picasso:J-D,10-C:10:20||
+Hand Split.
+Original Hand now: J-D,Q-C (20)
+Second Hand is: 10-C,9-D (19)
+[20]
+[19]
+Hand Split.
+Original Hand now: J-D,5-C (15)
+Second Hand is: Q-C,K-D (20)
+[15]
+[19]
+[20]
+Dealer:5-H,A-S(6|16)
+Dealer Hits, Pulled: K-C (16)
+Dealer Hits, Pulled: 9-D (BUST)
+Picasso hand 1 wins
+Picasso hand 2 wins
+Picasso hand 3 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1105 credits available
+
+Table||Dealer:7-D||Picasso:A-H,9-H:10:10|20||
+Picasso: A-H,9-H,6-D
+Picasso now has: 16
+[16]
+Dealer:7-D,6-S(13)
+Dealer Hits, Pulled: Q-H (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1115 credits available
+
+Table||Dealer:4-H||Picasso:4-C,A-S:10:5|15||
+Picasso: 4-C,A-S,6-S
+Picasso now has: 11|21
+[11, 21]
+Dealer:4-H,A-C(5|15)
+Dealer Hits, Pulled: 5-H (10|20)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1125 credits available
+
+Table||Dealer:10-D||Picasso:6-S,J-S:10:16||
+Picasso: 6-S,J-S,4-C
+Picasso now has: 20
+[20]
+Dealer:10-D,8-D(18)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1135 credits available
+
+Table||Dealer:K-H||Picasso:Q-H,6-D:10:16||
+Dealer has blackjack
+1125 credits available
+Chat: Connected with ('71.64.199.65', 61885)
+Chat: User connected with: Picasso
+Chat: Picasso chat error, removing...\s[Errno 104] Connection reset by peer
+
+Table||Dealer:2-S||Picasso:7-S,A-D:10:8|18||
+Chat: Connected with ('71.64.199.65', 61890)
+Chat: User connected with: Picasso
+Dealer:2-S,A-S(3|13)
+Dealer Hits, Pulled: 6-C (9|19)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1115 credits available
+
+Table||Dealer:2-S||Picasso:3-D,K-S:10:13||
+Dealer:2-S,Q-D(12)
+Dealer Hits, Pulled: 6-H (18)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1105 credits available
+
+Table||Dealer:9-D||Picasso:10-H,2-C:10:12||
+Picasso: 10-H,2-C,Q-S
+Picasso now has: BUST
+[22]
+Dealer:9-D,10-H(19)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1095 credits available
+
+Table||Dealer:10-D||Picasso:8-H,3-S:10:11||
+Picasso: 8-H,3-S,4-D
+Picasso now has: 15
+[15]
+Dealer:10-D,8-D(18)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1075 credits available
+
+Table||Dealer:7-D||Picasso:6-H,2-D:10:8||
+Picasso: 6-H,2-D,10-S
+Picasso now has: 18
+[18]
+Dealer:7-D,Q-D(17)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1085 credits available
+
+Table||Dealer:J-S||Picasso:A-D,8-C:10:9|19||
+Dealer:J-S,8-D(18)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1095 credits available
+
+Table||Dealer:5-C||Picasso:5-D,2-C:10:7||
+Picasso: 5-D,2-C,8-S
+Picasso now has: 15
+[15]
+Dealer:5-C,6-C(11)
+Dealer Hits, Pulled: K-C (3 card 21)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1085 credits available
+
+Table||Dealer:7-D||Picasso:6-C,J-S:10:16||
+Picasso: 6-C,J-S,Q-S
+Picasso now has: BUST
+[26]
+Dealer:7-D,4-S(11)
+Dealer Hits, Pulled: 10-D (3 card 21)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1075 credits available
+
+Table||Dealer:Q-S||Picasso:3-S,2-D:10:5||
+Picasso: 3-S,2-D,7-H
+Picasso now has: 12
+[12]
+Picasso: 3-S,2-D,7-H,2-S
+Picasso now has: 14
+[14]
+Picasso: 3-S,2-D,7-H,2-S,J-D
+Picasso now has: BUST
+[24]
+Dealer:Q-S,8-S(18)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1065 credits available
+
+Table||Dealer:6-D||Picasso:9-S,9-S:10:18||
+Hand Split.
+Original Hand now: 9-S,3-D (12)
+Second Hand is: 9-S,8-C (17)
+[12]
+[17]
+Picasso: 9-S,3-D,J-S
+Picasso now has: BUST
+[22]
+[17]
+Dealer:6-D,5-C(11)
+Dealer Hits, Pulled: 8-C (19)
+Picasso hand 1 loses
+Picasso hand 2 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1045 credits available
+
+Table||Dealer:2-H||Picasso:A-H,7-S:10:8|18||
+Dealer:2-H,8-S(10)
+Dealer Hits, Pulled: 10-S (20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1035 credits available
+
+Table||Dealer:7-C||Picasso:K-H,3-S:10:13||
+Picasso: K-H,3-S,4-H
+Picasso now has: 17
+[17]
+Dealer:7-C,J-C(17)
+Picasso hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1035 credits available
+
+Table||Dealer:7-H||Picasso:Q-C,2-C:10:12||
+Picasso: Q-C,2-C,7-H
+Picasso now has: 19
+[19]
+Dealer:7-H,Q-S(17)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1045 credits available
+
+Table||Dealer:3-H||Picasso:A-H,K-D:10:BLACKJACK||
+Dealer:3-H,Q-C(13)
+Dealer Hits, Pulled: Q-H (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1050 credits available
+
+Table||Dealer:3-D||Picasso:4-C,K-D:10:14||
+Dealer:3-D,6-S(9)
+Dealer Hits, Pulled: 8-S (17)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1040 credits available
+
+Table||Dealer:7-C||Picasso:9-H,9-S:10:18||
+Dealer:7-C,J-C(17)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users

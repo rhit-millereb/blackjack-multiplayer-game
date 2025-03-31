@@ -1,0 +1,28 @@
+2024-11-07 16:11:03.529 [info] Name: Python Debugger
+2024-11-07 16:11:03.529 [info] Module: debugpy
+2024-11-07 16:16:18.494 [info] Debugging using the editor button 'Debug in terminal'
+2024-11-07 16:16:18.664 [info] Getting configurations for workspace
+2024-11-07 16:16:18.667 [info] Using configuration in workspace
+2024-11-07 16:16:19.606 [info] Using the only workspaceFolder found:  /home/blackjack
+2024-11-07 16:16:19.745 [info] Resolving launch configuration with substituted variables
+2024-11-07 16:16:19.745 [info] Using the only workspaceFolder found:  /home/blackjack
+2024-11-07 16:16:20.039 [info] DAP Server launched with command: /usr/bin/python /home/blackjack/.vscode-server/extensions/ms-python.debugpy-2024.12.0-linux-armhf/bundled/libs/debugpy/adapter
+2024-11-07 16:16:20.669 [info] Received 'debugpySockets' event from debugpy.
+2024-11-07 16:16:20.876 [info] Received 'debugpySockets' event from debugpy.
+2024-11-07 16:16:20.876 [info] Received 'debugpySockets' event from debugpy.
+2024-11-07 16:16:24.963 [info] Received 'debugpySockets' event from debugpy.
+2024-11-07 16:16:26.398 [info] Received 'debugpySockets' event from debugpy.
+2024-11-07 16:16:26.450 [info] Received 'debugpySockets' event from debugpy.
+2024-11-07 16:16:29.373 [info] Debugging using the editor button 'Debug in terminal'
+2024-11-07 16:16:29.389 [info] Getting configurations for workspace
+2024-11-07 16:16:29.391 [info] Using configuration in workspace
+2024-11-07 16:16:29.878 [info] Using the only workspaceFolder found:  /home/blackjack
+2024-11-07 16:16:29.992 [info] Resolving launch configuration with substituted variables
+2024-11-07 16:16:29.992 [info] Using the only workspaceFolder found:  /home/blackjack
+2024-11-07 16:16:30.107 [info] DAP Server launched with command: /usr/bin/python /home/blackjack/.vscode-server/extensions/ms-python.debugpy-2024.12.0-linux-armhf/bundled/libs/debugpy/adapter
+2024-11-07 16:16:30.602 [info] Received 'debugpySockets' event from debugpy.
+2024-11-07 16:16:30.643 [info] Received 'debugpySockets' event from debugpy.
+2024-11-07 16:16:30.643 [info] Received 'debugpySockets' event from debugpy.
+2024-11-07 16:16:32.655 [info] Received 'debugpySockets' event from debugpy.
+2024-11-07 16:21:35.260 [info] Received 'debugpySockets' event from debugpy.
+2024-11-07 16:21:35.316 [info] Received 'debugpySockets' event from debugpy.

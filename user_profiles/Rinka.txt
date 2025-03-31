@@ -1,0 +1,1 @@
+name:Rink|code:696969|bank:11000|wins:156|losses:142|pushes:20

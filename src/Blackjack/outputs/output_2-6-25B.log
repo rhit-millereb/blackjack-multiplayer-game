@@ -1,0 +1,397 @@
+nohup: ignoring input
+Exception in thread Thread-25:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 101, in _handleAskingQuestion
+    self.message = self.waitForMessage()
+  File "/home/blackjack/src/Blackjack/server.py", line 125, in waitForMessage
+    return self.s.recv(2048).decode()
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-69:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-73:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xee in position 4: invalid continuation byte
+Exception in thread Thread-74:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xca in position 4: invalid continuation byte
+Exception in thread Thread-78:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-79:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-84:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-86:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-87:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-92:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xee in position 4: invalid continuation byte
+Exception in thread Thread-93:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-94:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-96:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-97:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-111:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-114:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-115:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Settings: Finished reading settings file!
+Allow new users: True
+Chat: Starting...
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+Server started.
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.26', 52657)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.26', 52658)
+Sign in info: ['Info', 'Picasso', '679158', 'sign in', 'CnUYQHjmpxfvKPn', '']
+Server has connections
+Detected New Users
+Name: Picasso  IP: ('137.112.208.26', 52658)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+3040 credits available
+
+Table||Dealer:4-D||Picasso:8-S,3-H:2:11||
+Picasso: 8-S,3-H,J-H
+Picasso now has: 3 card 21
+[21]
+Dealer:4-D,6-S(10)
+Dealer Hits, Pulled: 8-C (18)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+3044 credits available
+
+Table||Dealer:Q-D||Picasso:9-C,4-S:2:13||
+Picasso: 9-C,4-S,10-C
+Picasso now has: BUST
+[23]
+Dealer:Q-D,2-S(12)
+Dealer Hits, Pulled: K-D (BUST)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+3042 credits available
+
+Table||Dealer:K-H||Picasso:4-D,Q-C:2:14||
+Picasso: 4-D,Q-C,4-S
+Picasso now has: 18
+[18]
+Dealer:K-H,6-D(16)
+Dealer Hits, Pulled: 8-C (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+3044 credits available
+Chat: Connected with ('137.112.208.26', 52670)
+Chat: User connected with: Picasso
+Picasso response timeout
+Detected dropped client by exception: Picasso
+Error: Unable to send quit message. User likely timed out...
+Removing: Picasso
+Couldn't quit: Picasso
+Couldn't remove: Picasso
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Chat: Picasso chat error, removing...\s[Errno 104] Connection reset by peer
+Auth Server: User connected with: ('137.112.208.26', 52705)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.26', 52706)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'XuWBGLSLJnDmffh', '']
+Server has connections
+Detected New Users
+Name: user 1  IP: ('137.112.208.26', 52706)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+372 credits available
+
+Table||Dealer:10-C||user 1:3-S,A-S:1:4|14||
+user 1: 3-S,A-S,A-S
+user 1 now has: 5|15
+[5, 15]
+Dealer:10-C,K-C(20)
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+371 credits available
+Removing: user 1
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.26', 52746)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.26', 52747)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'jUPdiqbFHoXdSsG', '']
+Server has connections
+Detected New Users
+Name: user 1  IP: ('137.112.208.26', 52747)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+371 credits available
+
+Table||Dealer:K-D||user 1:Q-C,5-C:1:15||
+Dealer:K-D,9-C(19)
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+370 credits available
+user 1 response timeout
+Detected dropped client by exception: user 1
+Error: Unable to send quit message. User likely timed out...
+Removing: user 1
+Couldn't quit: user 1
+Couldn't remove: user 1
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.26', 52801)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.26', 52802)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'clzhmqouMyZirCr', '']
+Server has connections
+Detected New Users
+Name: user 1  IP: ('137.112.208.26', 52802)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+370 credits available
+
+Table||Dealer:K-H||user 1:6-D,3-S:1:9||
+user 1: 6-D,3-S,8-D
+user 1 now has: 17
+[17]
+Dealer:K-H,6-D(16)
+Dealer Hits, Pulled: 10-S (BUST)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+371 credits available
+Removing: user 1
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('148.113.208.45', 41706)
+Leaderboard: User connected with address: ('103.56.61.136', 35354)
+Auth Server: User connected with: ('148.113.208.45', 57820)
+User connected with address: ('172.168.158.70', 43822)
+Client gave invalid sign in packet
+Auth Server: User connected with: ('148.113.208.45', 48814)
+Leaderboard: User connected with address: ('147.185.132.193', 64246)
+Leaderboard: User connected with address: ('147.185.132.193', 64250)
+Auth Server: User connected with: ('148.113.208.45', 48218)
+Auth Server: User connected with: ('148.113.208.45', 38954)
+Auth Server: User connected with: ('148.113.208.45', 45532)
+Leaderboard: User connected with address: ('206.168.34.212', 56590)
+Leaderboard: User connected with address: ('206.168.34.212', 56678)
+User connected with address: ('199.45.154.133', 58440)
+Error: Unable to parse client request
+User connected with address: ('199.45.154.133', 58524)
+Error: Unable to parse client request
+Auth Server: User connected with: ('148.113.208.45', 45970)
+User connected with address: ('20.118.69.96', 45280)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('64.23.232.77', 41650)
+User connected with address: ('147.185.132.40', 60804)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('206.168.34.124', 56824)
+Leaderboard: User connected with address: ('206.168.34.124', 51610)
+User connected with address: ('167.94.138.116', 36682)
+Error: Unable to parse client request
+User connected with address: ('167.94.138.116', 47552)
+Error: Unable to parse client request
+User connected with address: ('57.152.75.127', 36234)
+Client gave invalid sign in packet
+User connected with address: ('48.217.212.13', 53938)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('47.251.90.213', 38182)
+Leaderboard: User connected with address: ('47.251.90.213', 31602)
+Leaderboard: User connected with address: ('47.251.90.213', 58422)
+Auth Server: User connected with: ('185.242.226.28', 41896)
+Leaderboard: User connected with address: ('199.45.155.69', 44580)
+Leaderboard: User connected with address: ('199.45.155.69', 45596)
+User connected with address: ('35.203.210.168', 61224)
+Client gave invalid sign in packet
+User connected with address: ('167.94.138.195', 54644)
+Error: Unable to parse client request
+User connected with address: ('167.94.138.195', 53838)
+Error: Unable to parse client request
+User connected with address: ('162.142.125.196', 53698)
+Error: Unable to parse client request
+User connected with address: ('162.142.125.196', 53708)
+Error: Unable to parse client request
+User connected with address: ('162.142.125.196', 53710)
+Error: Unable to parse client request
+User connected with address: ('162.142.125.196', 55882)
+Error: Unable to parse client request
+User connected with address: ('206.168.34.65', 56150)
+Error: Unable to parse client request
+User connected with address: ('206.168.34.65', 37996)
+Error: Unable to parse client request
+User connected with address: ('199.45.155.68', 55090)
+Error: Unable to parse client request
+User connected with address: ('199.45.155.68', 55160)
+Error: Unable to parse client request
+User connected with address: ('172.169.111.133', 53356)
+Client gave invalid sign in packet
+User connected with address: ('52.189.75.192', 46166)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('45.130.145.6', 64442)
+User connected with address: ('199.45.155.64', 50328)
+Error: Unable to parse client request
+User connected with address: ('199.45.155.64', 36034)
+Error: Unable to parse client request
+Leaderboard: User connected with address: ('162.142.125.117', 59440)
+Leaderboard: User connected with address: ('162.142.125.117', 45760)
+User connected with address: ('45.130.145.5', 63052)Exception in thread Thread-117:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-119:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte

@@ -1,0 +1,35 @@
+2024-11-08 16:06:10.980 [info] [main] Log level: Info
+2024-11-08 16:06:10.980 [info] [main] Validating found git in: "git"
+2024-11-08 16:06:10.980 [info] [main] Using git "2.30.2" from "git"
+2024-11-08 16:06:10.980 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-08 16:06:10.980 [info] > git rev-parse --show-toplevel [1350ms]
+2024-11-08 16:06:10.980 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-08 16:06:10.980 [info] > git rev-parse --show-toplevel [461ms]
+2024-11-08 16:06:10.980 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-08 16:06:11.036 [info] > git rev-parse --show-toplevel [59ms]
+2024-11-08 16:06:11.036 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-08 16:06:11.616 [info] > git rev-parse --show-toplevel [456ms]
+2024-11-08 16:06:11.616 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-08 16:06:11.746 [info] > git rev-parse --show-toplevel [34ms]
+2024-11-08 16:06:11.747 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-08 16:06:11.772 [info] > git rev-parse --show-toplevel [11ms]
+2024-11-08 16:06:11.772 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-08 16:06:11.799 [info] > git rev-parse --show-toplevel [13ms]
+2024-11-08 16:06:11.800 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-08 16:06:11.828 [info] > git rev-parse --show-toplevel [16ms]
+2024-11-08 16:06:11.828 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-08 16:06:11.856 [info] > git rev-parse --show-toplevel [12ms]
+2024-11-08 16:06:11.856 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-08 16:06:11.889 [info] > git rev-parse --show-toplevel [14ms]
+2024-11-08 16:06:11.889 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-08 16:06:12.217 [info] > git rev-parse --show-toplevel [309ms]
+2024-11-08 16:06:12.217 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-08 16:06:12.245 [info] > git rev-parse --show-toplevel [13ms]
+2024-11-08 16:06:12.245 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-08 16:06:12.261 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-08 16:06:34.144 [info] > git rev-parse --show-toplevel [185ms]
+2024-11-08 16:06:34.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-08 16:06:52.606 [info] > git rev-parse --show-toplevel [2196ms]
+2024-11-08 16:06:52.620 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-08 16:08:28.503 [info] > git rev-parse --show-toplevel [11ms]
+2024-11-08 16:08:28.504 [info] fatal: not a git repository (or any of the parent directories): .git

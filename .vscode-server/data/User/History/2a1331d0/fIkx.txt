@@ -1,0 +1,4 @@
+allowNewUsers:1:
+maxAccounts:40:
+maxConnectedUsers:6:
+riggedShuffle:1:

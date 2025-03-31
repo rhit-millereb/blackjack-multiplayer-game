@@ -1,0 +1,1 @@
+name:Ham|code:1013|bank:1000|wins:5|losses:3

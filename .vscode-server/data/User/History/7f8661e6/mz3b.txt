@@ -1,0 +1,1 @@
+name:user 1|code:1234|bank:100|wins:0|losses:0

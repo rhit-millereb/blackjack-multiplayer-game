@@ -1,0 +1,17 @@
+2024-11-04 21:37:53.503 [info] Starting Python Locator /home/blackjack/.vscode-server/extensions/ms-python.python-2024.18.0-linux-armhf/python-env-tools/bin/pet server
+2024-11-04 21:37:58.756 [info] Discovered env: /bin/python
+2024-11-04 21:37:58.760 [info] Discovered env: /usr/bin/python
+2024-11-04 21:37:58.842 [info] Locator Conda took 1.030579036s
+2024-11-04 21:37:58.843 [info] Locator Homebrew took 9.260459ms
+2024-11-04 21:37:58.844 [info] Locator LinuxGlobal took 881.089519ms
+2024-11-04 21:37:58.844 [info] Locator PipEnv took 434.888µs
+2024-11-04 21:37:58.845 [info] Locator Poetry took 12.79623ms
+2024-11-04 21:37:58.846 [info] Locator PyEnv took 41.848054ms
+2024-11-04 21:37:58.846 [info] Locator Venv took 102.185µs
+2024-11-04 21:37:58.846 [info] Locator VirtualEnv took 481.397µs
+2024-11-04 21:37:58.847 [info] Locator VirtualEnvWrapper took 2.105171ms
+2024-11-04 21:37:58.847 [info] Locator GlobalVirtualEnvs took 2.761669ms
+2024-11-04 21:37:58.848 [info] Locator Locators took 1.033575753s
+2024-11-04 21:37:58.848 [info] Locator Path took 1.186947077s
+2024-11-04 21:37:58.849 [info] Locator Workspaces took 81.418025ms
+2024-11-04 21:37:58.851 [info] Refresh completed in 1187ms

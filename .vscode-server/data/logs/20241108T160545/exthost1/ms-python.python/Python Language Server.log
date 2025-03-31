@@ -1,0 +1,25 @@
+2024-11-08 16:06:12.333 [info] (Client) Pylance async client (2024.11.1) started with python extension (2024.18.0)
+2024-11-08 16:06:19.149 [info] [Info  - 4:06:18 PM] (6678) Server root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.1/dist
+2024-11-08 16:06:19.164 [info] [Info  - 4:06:19 PM] (6678) Pylance language server 2024.11.1 (pyright version 1.1.386, commit 4180fa21) starting
+2024-11-08 16:06:19.166 [info] [Info  - 4:06:19 PM] (6678) Starting service instance "blackjack"
+2024-11-08 16:06:19.851 [info] [Info  - 4:06:19 PM] (6678) Setting environmentName for service "blackjack": "3.9.2 (global)"
+2024-11-08 16:06:19.939 [info] [Info  - 4:06:19 PM] (6678) Setting pythonPath for service "blackjack": "/usr/bin/python"
+2024-11-08 16:06:19.959 [info] [Info  - 4:06:19 PM] (6678) No include entries specified; assuming /home/blackjack
+2024-11-08 16:06:19.961 [info] [Info  - 4:06:19 PM] (6678) Auto-excluding **/node_modules
+2024-11-08 16:06:19.962 [info] [Info  - 4:06:19 PM] (6678) Auto-excluding **/__pycache__
+2024-11-08 16:06:19.962 [info] [Info  - 4:06:19 PM] (6678) Auto-excluding **/.*
+2024-11-08 16:06:20.452 [info] [Info  - 4:06:20 PM] (6678) Assuming Python version 3.9.2.final.0
+2024-11-08 16:06:23.823 [info] [Info  - 4:06:23 PM] (6678) Found 12 source files
+2024-11-08 16:06:32.161 [info] [Info  - 4:06:32 PM] (6678) [FG] Long operation: binding: file:///home/blackjack/src/Blackjack/table.py (2066ms)
+2024-11-08 16:06:32.200 [info] [Info  - 4:06:32 PM] (6678) [FG] Long operation: binding: file:///home/blackjack/src/Blackjack/game.py (2336ms)
+2024-11-08 16:06:32.403 [info] [Info  - 4:06:32 PM] (6678) Background analysis(1) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.1/dist
+2024-11-08 16:06:32.404 [info] [Info  - 4:06:32 PM] (6678) Background analysis(1) started
+2024-11-08 16:06:32.583 [info] [Info  - 4:06:32 PM] (6678) Indexer background runner(2) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.1/dist (index)
+2024-11-08 16:06:32.584 [info] [Info  - 4:06:32 PM] (6678) Indexing(2) started
+2024-11-08 16:06:35.405 [info] [Info  - 4:06:35 PM] (6678) [BG(1)] Long operation: indexing: file:///home/blackjack/src/create_keys.py (2462ms)
+2024-11-08 16:06:45.272 [info] [Info  - 4:06:45 PM] (6678) [IDX(2)] Long operation: scan packages file:///home/blackjack (11916ms)
+2024-11-08 16:06:45.276 [info] [Info  - 4:06:45 PM] (6678) scanned(2) 125 files over 1 exec env
+2024-11-08 16:06:49.781 [info] [Info  - 4:06:49 PM] (6678) [BG(1)] Long operation: checking: file:///home/blackjack/src/Blackjack/game.py (10761ms)
+2024-11-08 16:06:49.782 [info] [Info  - 4:06:49 PM] (6678) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/game.py (11124ms)
+2024-11-08 16:06:50.055 [info] [Info  - 4:06:50 PM] (6678) indexed(2) 125 files over 1 exec env
+2024-11-08 16:06:50.415 [info] [Info  - 4:06:50 PM] (6678) Indexing finished(2).

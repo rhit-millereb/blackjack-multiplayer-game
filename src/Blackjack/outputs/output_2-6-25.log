@@ -1,0 +1,287 @@
+nohup: ignoring input
+Settings: Finished reading settings file!
+Allow new users: True
+Chat: Starting...
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+Server started.
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.26', 52210)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.26', 52211)
+Sign in info: ['Info', 'Picasso', '679158', 'sign in', 'acxADgKlIMZZNKY', '']
+Server has connections
+Detected New Users
+Name: Picasso  IP: ('137.112.208.26', 52211)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+2100 credits available
+
+Table||Dealer:7-H||Picasso:Q-H,10-H:2:20||
+Dealer:7-H,4-C(11)
+Dealer Hits, Pulled: 2-H (13)
+Dealer Hits, Pulled: 4-H (17)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+2102 credits available
+
+Table||Dealer:Q-S||Picasso:3-C,10-S:2:13||
+Picasso: 3-C,10-S,Q-D
+Picasso now has: BUST
+[23]
+Dealer:Q-S,7-C(17)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+2100 credits available
+
+Table||Dealer:9-S||Picasso:Q-S,9-D:2:19||
+Dealer:9-S,3-H(12)
+Dealer Hits, Pulled: J-C (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+2102 credits available
+
+Table||Dealer:5-S||Picasso:9-D,K-C:2:19||
+Dealer:5-S,3-C(8)
+Dealer Hits, Pulled: Q-H (18)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+2104 credits available
+
+Table||Dealer:J-S||Picasso:8-H,J-H:2:18||
+Dealer has blackjack
+2102 credits available
+
+Table||Dealer:5-D||Picasso:K-C,4-C:2:14||
+Dealer:5-D,5-D(10)
+Dealer Hits, Pulled: 10-D (20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+2100 credits available
+
+Table||Dealer:2-C||Picasso:A-C,9-H:2:10|20||
+Dealer:2-C,10-C(12)
+Dealer Hits, Pulled: 10-S (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+2102 credits available
+
+Table||Dealer:5-H||Picasso:9-D,3-H:2:12||
+Dealer:5-H,Q-C(15)
+Dealer Hits, Pulled: J-S (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+2104 credits available
+
+Table||Dealer:9-H||Picasso:2-H,8-C:2:10||
+Picasso: 2-H,8-C,8-S
+Picasso now has: 18
+[18]
+Dealer:9-H,7-S(16)
+Dealer Hits, Pulled: 5-C (3 card 21)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+2100 credits available
+
+Table||Dealer:A-D||Picasso:K-D,3-D:2:13||
+Dealer:A-D,3-D(4|14)
+Dealer Hits, Pulled: 6-D (10|20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+2098 credits available
+
+Table||Dealer:J-D||Picasso:10-H,2-D:2:12||
+Picasso: 10-H,2-D,K-C
+Picasso now has: BUST
+[22]
+Dealer:J-D,Q-C(20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+2096 credits available
+
+Table||Dealer:7-D||Picasso:6-S,8-H:50:14||
+Dealer:7-D,4-D(11)
+Dealer Hits, Pulled: K-H (3 card 21)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+2046 credits available
+
+Table||Dealer:3-C||Picasso:3-S,J-D:1000:13||
+Dealer:3-C,2-S(5)
+Dealer Hits, Pulled: 8-H (13)
+Dealer Hits, Pulled: J-D (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+3046 credits available
+
+Table||Dealer:A-H||Picasso:5-C,A-S:2:6|16||
+Picasso: 5-C,A-S,A-H
+Picasso now has: 7|17
+[7, 17]
+Dealer:A-H,4-S(5|15)
+Dealer Hits, Pulled: 7-H (12)
+Dealer Hits, Pulled: 9-H (4 card 21)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+3044 credits available
+
+Table||Dealer:A-S||Picasso:A-C,3-S:2:4|14||
+Dealer has blackjack
+3042 credits available
+
+Table||Dealer:9-H||Picasso:10-C,4-D:2:14||
+Picasso: 10-C,4-D,K-H
+Picasso now has: BUST
+[24]
+Dealer:9-H,10-S(19)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+3040 credits available
+
+Table||Dealer:8-S||Picasso:3-S,J-D:2:13||
+Picasso: 3-S,J-D,3-D
+Picasso now has: 16
+[16]
+Picasso: 3-S,J-D,3-D,9-S
+Picasso now has: BUST
+[25]
+Dealer:8-S,7-S(15)
+Dealer Hits, Pulled: 6-H (3 card 21)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+3038 credits available
+
+Table||Dealer:J-H||Picasso:2-S,6-H:2:8||
+Picasso: 2-S,6-H,Q-H
+Picasso now has: 18
+[18]
+Dealer:J-H,7-D(17)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+3040 credits available
+
+Table||Dealer:A-D||Picasso:6-H,4-H:2:10||
+Picasso: 6-H,4-H,7-D
+Picasso now has: 17
+[17]
+Dealer:A-D,6-S(7|17)
+Dealer Hits, Pulled: K-S (17)
+Picasso hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+3040 credits available
+
+Table||Dealer:5-C||Picasso:K-C,Q-S:2:20||
+Dealer:5-C,A-C(6|16)
+Dealer Hits, Pulled: 10-H (16)
+Dealer Hits, Pulled: 8-S (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+3042 credits available
+
+Table||Dealer:9-C||Picasso:J-C,3-C:2:13||
+Picasso response timeout
+Detected dropped client by exception: Picasso
+Dealer:9-C,5-D(14)
+Dealer Hits, Pulled: 6-C (20)
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.26', 52329)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.26', 52331)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'rdCofWUtdyytSBO', '']
+Server has connections
+Detected New Users
+Name: user 1  IP: ('137.112.208.26', 52331)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+357 credits available
+
+Table||Dealer:4-D||user 1:2-C,8-D:10:10||
+Split not allowed
+user 1: 2-C,8-D,J-D
+user 1 now has: 20
+[20]
+Dealer:4-D,J-H(14)
+Dealer Hits, Pulled: 8-D (BUST)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+367 credits available
+
+Table||Dealer:8-C||user 1:5-H,3-S:5:8||
+user 1: 5-H,3-S,7-S
+user 1 now has: 15
+[15]
+user 1: 5-H,3-S,7-S,6-S
+user 1 now has: 4 card 21
+[21]
+Dealer:8-C,A-H(9|19)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+372 credits available
+Leaderboard: User connected with address: ('137.112.208.26', 52359)
+Leaderboard: User connected to feed: rdCofWUtdyytSBO
+Leaderboard: Send data on 26 users to: <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.208.26', 52359)>
+Leaderboard: Send data on 26 users to: <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.208.26', 52359)>
+user 1 response timeout
+Detected dropped client by exception: user 1
+///////////////Exception During Game////////////////
+	No User: No user with this name was found
+
+Traceback (most recent call last):
+  File "/home/blackjack/src/Blackjack/main.py", line 56, in <module>
+    game.begin()
+  File "/home/blackjack/src/Blackjack/game.py", line 39, in begin
+    self.gameLoop() # nothing below this line will run
+  File "/home/blackjack/src/Blackjack/game.py", line 74, in gameLoop
+    self.server.sendMessageToUser(user.data.name, "Message||Leaving game...")
+  File "/home/blackjack/src/Blackjack/server.py", line 394, in sendMessageToUser
+    client = self.getClientFromName(name)
+  File "/home/blackjack/src/Blackjack/server.py", line 430, in getClientFromName
+    raise Exception("No User: No user with this name was found")
+Exception: No User: No user with this name was found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/blackjack/src/Blackjack/main.py", line 59, in <module>
+    print(e.with_traceback())
+TypeError: BaseException.with_traceback() takes exactly one argument (0 given)
+Exception in thread Thread-122:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 88, in userMessage
+    msg = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer

@@ -1,0 +1,16 @@
+2024-11-04 21:37:39.495 [info] Extension host with pid 8673 started
+2024-11-04 21:37:39.974 [info] Lock '/home/blackjack/.vscode-server/data/User/workspaceStorage/9bca88e4c3bff3dc461c44d989168a4c/vscode.lock': Lock acquired.
+2024-11-04 21:37:40.075 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-11-04 21:37:40.081 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-04 21:37:40.084 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-11-04 21:37:40.087 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-11-04 21:37:46.608 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-11-04 21:37:46.612 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-11-04 21:37:49.209 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-11-04 21:37:49.211 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-11-04 21:37:52.878 [info] Eager extensions activated
+2024-11-04 21:37:52.880 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-04 21:37:52.883 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-05 03:04:19.530 [info] Extension host terminating: renderer disconnected for too long (1)
+2024-11-05 03:04:19.580 [info] Lock '/home/blackjack/.vscode-server/data/User/workspaceStorage/9bca88e4c3bff3dc461c44d989168a4c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-11-05 03:04:20.525 [info] Extension host with pid 8673 exiting with code 0

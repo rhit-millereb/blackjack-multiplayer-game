@@ -1,0 +1,1 @@
+name:lostitall|code:1234|bank:50|wins:13|losses:12|pushes:2

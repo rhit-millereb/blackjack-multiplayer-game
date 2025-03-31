@@ -1,0 +1,721 @@
+nohup: ignoring input
+Settings: Finished reading settings file!
+Allow new users: True
+Chat: Starting...
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+Server started.
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+User connected with address: ('198.235.24.17', 57422)
+Client gave invalid sign in packet
+Auth Server: User connected with: ('137.112.207.159', 63699)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.207.159', 63700)
+Sign in info: ['Info', 'Ham', '1013', 'sign in', 'ViypvyWENbzClsp', '']
+Server has connections
+Detected New Users
+Name: Ham  IP: ('137.112.207.159', 63700)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+590 credits available
+
+Table||Dealer:A-S||Ham:6-C,4-S:10:10||
+Dealer has blackjack
+580 credits available
+
+Table||Dealer:Q-S||Ham:7-S,5-S:10:12||
+Ham: 7-S,5-S,A-S
+Ham now has: 13
+[13]
+Ham: 7-S,5-S,A-S,7-S
+Ham now has: 20
+[20]
+Dealer:Q-S,K-S(20)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+580 credits available
+
+Table||Dealer:2-C||Ham:3-C,4-C:10:7||
+Ham: 3-C,4-C,4-C
+Ham now has: 11
+[11]
+Ham: 3-C,4-C,4-C,A-D
+Ham now has: 12
+[12]
+Ham: 3-C,4-C,4-C,A-D,Q-H
+Ham now has: BUST
+[22]
+Dealer:2-C,2-H(4)
+Dealer Hits, Pulled: 3-H (7)
+Dealer Hits, Pulled: 9-S (16)
+Dealer Hits, Pulled: 10-C (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+570 credits available
+
+Table||Dealer:2-D||Ham:8-D,Q-S:10:18||
+Dealer:2-D,5-C(7)
+Dealer Hits, Pulled: 6-H (13)
+Dealer Hits, Pulled: 6-D (19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+560 credits available
+
+Table||Dealer:8-H||Ham:5-D,K-H:40:15||
+Ham: 5-D,K-H,10-D
+Ham now has: BUST
+[25]
+Dealer:8-H,5-S(13)
+Dealer Hits, Pulled: 9-C (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+520 credits available
+
+Table||Dealer:9-S||Ham:9-H,10-H:20:19||
+Dealer:9-S,A-C(10|20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+500 credits available
+
+Table||Dealer:6-H||Ham:4-C,8-S:10:12||
+Dealer:6-H,K-D(16)
+Dealer Hits, Pulled: 2-S (18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+490 credits available
+
+Table||Dealer:10-C||Ham:7-C,4-C:10:11||
+Ham: 7-C,4-C,5-H
+Ham now has: 16
+[16]
+Dealer:10-C,2-C(12)
+Dealer Hits, Pulled: 10-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+510 credits available
+
+Table||Dealer:9-C||Ham:4-D,10-S:10:14||
+Ham: 4-D,10-S,7-H
+Ham now has: 3 card 21
+[21]
+Dealer:9-C,K-S(19)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+520 credits available
+
+Table||Dealer:6-S||Ham:9-H,K-H:10:19||
+Dealer:6-S,9-S(15)
+Dealer Hits, Pulled: 3-C (18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+530 credits available
+
+Table||Dealer:J-C||Ham:2-S,10-C:20:12||
+Ham: 2-S,10-C,8-D
+Ham now has: 20
+[20]
+Dealer:J-C,K-H(20)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+530 credits available
+
+Table||Dealer:J-H||Ham:K-C,J-S:20:20||
+Dealer has blackjack
+510 credits available
+
+Table||Dealer:6-D||Ham:A-D,7-H:10:8|18||
+Dealer:6-D,8-S(14)
+Dealer Hits, Pulled: 10-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+520 credits available
+
+Table||Dealer:6-H||Ham:2-D,5-H:10:7||
+Ham: 2-D,5-H,5-S
+Ham now has: 12
+[12]
+Dealer:6-H,3-D(9)
+Dealer Hits, Pulled: Q-C (19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+510 credits available
+
+Table||Dealer:A-H||Ham:3-C,J-H:10:13||
+Ham: 3-C,J-H,10-S
+Ham now has: BUST
+[23]
+Dealer:A-H,6-S(7|17)
+Dealer Hits, Pulled: J-H (17)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+500 credits available
+
+Table||Dealer:A-S||Ham:A-H,2-S:10:3|13||
+Ham: A-H,2-S,Q-D
+Ham now has: 13
+[13]
+Ham: A-H,2-S,Q-D,6-C
+Ham now has: 19
+[19]
+Dealer:A-S,8-C(9|19)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+500 credits available
+
+Table||Dealer:7-D||Ham:8-C,4-H:10:12||
+Ham: 8-C,4-H,7-C
+Ham now has: 19
+[19]
+Dealer:7-D,10-S(17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+510 credits available
+
+Table||Dealer:A-C||Ham:10-D,6-H:10:16||
+Dealer has blackjack
+500 credits available
+
+Table||Dealer:5-D||Ham:Q-D,10-D:10:20||
+Dealer:5-D,J-S(15)
+Dealer Hits, Pulled: 8-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+510 credits available
+
+Table||Dealer:2-C||Ham:3-H,4-D:10:7||
+Ham: 3-H,4-D,3-H
+Ham now has: 10
+[10]
+Ham: 3-H,4-D,3-H,8-D
+Ham now has: 18
+[18]
+Dealer:2-C,9-D(11)
+Dealer Hits, Pulled: 8-C (19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+500 credits available
+
+Table||Dealer:8-H||Ham:10-H,2-C:10:12||
+Ham: 10-H,2-C,A-S
+Ham now has: 13
+[13]
+Ham: 10-H,2-C,A-S,6-S
+Ham now has: 19
+[19]
+Dealer:8-H,K-C(18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+510 credits available
+
+Table||Dealer:3-C||Ham:7-D,9-H:20:16||
+Dealer:3-C,J-D(13)
+Dealer Hits, Pulled: 4-H (17)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+490 credits available
+
+Table||Dealer:8-H||Ham:Q-D,9-S:10:19||
+Dealer:8-H,Q-D(18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+500 credits available
+
+Table||Dealer:6-D||Ham:8-C,2-D:20:10||
+Ham: 8-C,2-D,Q-C
+Ham now has: 20
+[20]
+Dealer:6-D,K-S(16)
+Dealer Hits, Pulled: J-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+540 credits available
+
+Table||Dealer:9-H||Ham:3-D,8-D:20:11||
+Ham: 3-D,8-D,J-C
+Ham now has: 3 card 21
+[21]
+Dealer:9-H,J-C(19)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+580 credits available
+
+Table||Dealer:5-D||Ham:5-S,6-D:20:11||
+Ham: 5-S,6-D,4-S
+Ham now has: 15
+[15]
+Dealer:5-D,6-C(11)
+Dealer Hits, Pulled: 9-D (20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+540 credits available
+
+Table||Dealer:4-H||Ham:J-C,7-D:20:17||
+Dealer:4-H,5-D(9)
+Dealer Hits, Pulled: 4-H (13)
+Dealer Hits, Pulled: 3-H (16)
+Dealer Hits, Pulled: J-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+560 credits available
+
+Table||Dealer:4-S||Ham:J-S,7-H:40:17||
+Dealer:4-S,7-D(11)
+Dealer Hits, Pulled: 9-C (20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+520 credits available
+
+Table||Dealer:6-S||Ham:Q-H,3-S:10:13||
+Dealer:6-S,K-D(16)
+Dealer Hits, Pulled: 2-H (18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+510 credits available
+
+Table||Dealer:7-C||Ham:2-H,9-D:10:11||
+Ham: 2-H,9-D,Q-C
+Ham now has: 3 card 21
+[21]
+Dealer:7-C,7-H(14)
+Dealer Hits, Pulled: 3-S (17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+530 credits available
+
+Table||Dealer:7-S||Ham:2-S,10-H:10:12||
+Ham: 2-S,10-H,K-H
+Ham now has: BUST
+[22]
+Dealer:7-S,A-D(8|18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+520 credits available
+
+Table||Dealer:9-C||Ham:J-S,Q-S:10:20||
+Dealer:9-C,7-S(16)
+Dealer Hits, Pulled: 5-H (3 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+510 credits available
+
+Table||Dealer:10-D||Ham:5-C,8-S:10:13||
+Ham: 5-C,8-S,A-H
+Ham now has: 14
+[14]
+Ham: 5-C,8-S,A-H,10-S
+Ham now has: BUST
+[24]
+Dealer:10-D,5-C(15)
+Dealer Hits, Pulled: K-D (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+500 credits available
+
+Table||Dealer:7-C||Ham:K-C,2-H:10:12||
+Ham: K-C,2-H,Q-S
+Ham now has: BUST
+[22]
+Dealer:7-C,5-C(12)
+Dealer Hits, Pulled: Q-C (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+490 credits available
+
+Table||Dealer:4-D||Ham:K-D,3-S:10:13||
+Dealer:4-D,2-D(6)
+Dealer Hits, Pulled: 4-S (10)
+Dealer Hits, Pulled: Q-H (20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+480 credits available
+
+Table||Dealer:J-H||Ham:3-D,Q-H:10:13||
+Ham: 3-D,Q-H,5-H
+Ham now has: 18
+[18]
+Dealer:J-H,3-S(13)
+Dealer Hits, Pulled: 3-D (16)
+Dealer Hits, Pulled: 8-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+490 credits available
+
+STACK OUT: RESHUFFLING
+
+Creating stack with: 4 decks
+
+Table||Dealer:10-H||Ham:8-D,2-H:40:10||
+Ham: 8-D,2-H,4-H
+Ham now has: 14
+[14]
+Ham: 8-D,2-H,4-H,5-S
+Ham now has: 19
+[19]
+Dealer:10-H,10-C(20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+450 credits available
+
+Table||Dealer:5-S||Ham:7-H,4-H:10:11||
+Ham: 7-H,4-H,7-D
+Ham now has: 18
+[18]
+Dealer:5-S,7-D(12)
+Dealer Hits, Pulled: 7-S (19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+430 credits available
+
+Table||Dealer:Q-S||Ham:5-C,7-H:10:12||
+Ham: 5-C,7-H,3-D
+Ham now has: 15
+[15]
+Ham: 5-C,7-H,3-D,A-C
+Ham now has: 16
+[16]
+Dealer:Q-S,5-H(15)
+Dealer Hits, Pulled: 10-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+440 credits available
+
+Table||Dealer:K-C||Ham:2-S,Q-C:10:12||
+Ham: 2-S,Q-C,6-S
+Ham now has: 18
+[18]
+Dealer:K-C,4-C(14)
+Dealer Hits, Pulled: Q-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+450 credits available
+
+Table||Dealer:4-C||Ham:4-S,9-D:10:13||
+Dealer:4-C,J-D(14)
+Dealer Hits, Pulled: 10-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+460 credits available
+
+Table||Dealer:K-S||Ham:5-H,2-H:10:7||
+Ham: 5-H,2-H,K-S
+Ham now has: 17
+[17]
+Dealer:K-S,J-D(20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+450 credits available
+
+Table||Dealer:9-D||Ham:4-S,10-C:10:14||
+Ham: 4-S,10-C,A-H
+Ham now has: 15
+[15]
+Ham: 4-S,10-C,A-H,8-C
+Ham now has: BUST
+[23]
+Dealer:9-D,10-S(19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+440 credits available
+
+Table||Dealer:A-C||Ham:J-S,8-S:1:18||
+Ham: J-S,8-S,2-S
+Ham now has: 20
+[20]
+Dealer:A-C,4-D(5|15)
+Dealer Hits, Pulled: K-S (15)
+Dealer Hits, Pulled: J-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+441 credits available
+
+Table||Dealer:8-H||Ham:Q-H,3-S:9:13||
+Ham: Q-H,3-S,Q-D
+Ham now has: BUST
+[23]
+Dealer:8-H,10-H(18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+432 credits available
+
+Table||Dealer:9-H||Ham:A-C,3-H:18:4|14||
+Ham: A-C,3-H,8-C
+Ham now has: 12
+[12]
+Ham: A-C,3-H,8-C,K-H
+Ham now has: BUST
+[22]
+Dealer:9-H,9-S(18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+414 credits available
+
+Table||Dealer:2-H||Ham:10-S,2-C:6:12||
+Dealer:2-H,A-D(3|13)
+Dealer Hits, Pulled: 9-D (12)
+Dealer Hits, Pulled: 8-S (20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+408 credits available
+
+Table||Dealer:10-S||Ham:3-D,K-H:10:13||
+Ham: 3-D,K-H,4-C
+Ham now has: 17
+[17]
+Dealer:10-S,3-C(13)
+Dealer Hits, Pulled: 8-D (3 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+398 credits available
+
+Table||Dealer:5-C||Ham:A-D,9-C:30:10|20||
+Dealer:5-C,2-D(7)
+Dealer Hits, Pulled: 7-H (14)
+Dealer Hits, Pulled: A-S (15)
+Dealer Hits, Pulled: J-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+428 credits available
+
+Table||Dealer:7-D||Ham:5-D,5-S:50:10||
+Ham: 5-D,5-S,6-H
+Ham now has: 16
+[16]
+Ham: 5-D,5-S,6-H,6-H
+Ham now has: BUST
+[22]
+Dealer:7-D,5-D(12)
+Dealer Hits, Pulled: Q-C (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+378 credits available
+
+Table||Dealer:5-C||Ham:A-H,Q-H:30:BLACKJACK||
+Dealer:5-C,6-D(11)
+Dealer Hits, Pulled: 9-S (20)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+393 credits available
+
+Table||Dealer:K-D||Ham:3-C,8-H:20:11||
+Ham: 3-C,8-H,4-H
+Ham now has: 15
+[15]
+Dealer:K-D,6-D(16)
+Dealer Hits, Pulled: 7-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+433 credits available
+
+Table||Dealer:A-H||Ham:K-C,10-D:20:20||
+Dealer:A-H,9-C(10|20)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+433 credits available
+
+Table||Dealer:K-D||Ham:10-S,3-S:20:13||
+Ham: 10-S,3-S,2-D
+Ham now has: 15
+[15]
+Ham: 10-S,3-S,2-D,6-S
+Ham now has: 4 card 21
+[21]
+Dealer:K-D,3-S(13)
+Dealer Hits, Pulled: 2-D (15)
+Dealer Hits, Pulled: 10-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+453 credits available
+
+Table||Dealer:K-D||Ham:10-D,8-H:50:18||
+Dealer:K-D,7-H(17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+503 credits available
+
+Table||Dealer:2-D||Ham:J-S,8-D:10:18||
+Dealer:2-D,J-D(12)
+Dealer Hits, Pulled: K-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+513 credits available
+
+Table||Dealer:J-C||Ham:7-C,J-H:30:17||
+Dealer:J-C,9-S(19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+483 credits available
+
+Table||Dealer:J-C||Ham:K-H,6-C:20:16||
+Ham: K-H,6-C,2-S
+Ham now has: 18
+[18]
+Dealer:J-C,6-S(16)
+Dealer Hits, Pulled: 8-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+503 credits available
+
+Table||Dealer:8-H||Ham:6-H,A-S:10:7|17||
+Ham: 6-H,A-S,5-D
+Ham now has: 12
+[12]
+Ham: 6-H,A-S,5-D,4-C
+Ham now has: 16
+[16]
+Ham: 6-H,A-S,5-D,4-C,J-C
+Ham now has: BUST
+[26]
+Dealer:8-H,A-S(9|19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+493 credits available
+
+Table||Dealer:K-C||Ham:A-C,7-D:50:8|18||
+Dealer:K-C,3-H(13)
+Dealer Hits, Pulled: 7-C (20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+443 credits available
+
+Table||Dealer:3-H||Ham:6-C,A-D:40:7|17||
+Ham: 6-C,A-D,A-D
+Ham now has: 8|18
+[8, 18]
+Dealer:3-H,3-C(6)
+Dealer Hits, Pulled: 9-C (15)
+Dealer Hits, Pulled: J-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+483 credits available
+
+Table||Dealer:5-S||Ham:Q-S,8-C:20:18||
+Dealer:5-S,Q-D(15)
+Dealer Hits, Pulled: 7-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+503 credits available
+
+Table||Dealer:8-C||Ham:4-D,3-D:10:7||
+Ham: 4-D,3-D,2-C
+Ham now has: 9
+[9]
+Ham: 4-D,3-D,2-C,4-S
+Ham now has: 13
+[13]
+Ham: 4-D,3-D,2-C,4-S,J-H
+Ham now has: BUST
+[23]
+Dealer:8-C,Q-D(18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+493 credits available
+
+Table||Dealer:Q-C||Ham:6-D,5-C:100:11||
+Ham: 6-D,5-C,Q-H
+Ham now has: 3 card 21
+[21]
+Dealer:Q-C,10-H(20)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+693 credits available
+
+Table||Dealer:3-S||Ham:Q-S,4-S:10:14||
+Dealer:3-S,5-D(8)
+Dealer Hits, Pulled: 5-H (13)
+Dealer Hits, Pulled: 9-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+703 credits available
+
+Table||Dealer:6-C||Ham:7-C,4-H:10:11||
+Ham: 7-C,4-H,J-S
+Ham now has: 3 card 21
+[21]
+Dealer:6-C,7-S(13)
+Dealer Hits, Pulled: 2-S (15)
+Dealer Hits, Pulled: 3-H (18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+723 credits available
+
+Table||Dealer:8-S||Ham:9-C,9-S:10:18||
+Dealer:8-S,6-D(14)
+Dealer Hits, Pulled: 4-D (18)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+723 credits available
+
+Table||Dealer:9-H||Ham:Q-D,10-C:10:20||
+Dealer:9-H,2-H(11)
+Dealer Hits, Pulled: J-D (3 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...

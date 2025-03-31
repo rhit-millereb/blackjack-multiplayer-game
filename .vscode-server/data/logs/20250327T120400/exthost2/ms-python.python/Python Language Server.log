@@ -1,0 +1,31 @@
+2025-03-27 14:37:52.971 [info] (Client) Pylance async client (2025.3.2) started with python extension (2025.2.0)
+2025-03-27 14:37:58.685 [info] [Info  - 2:37:58 PM] (24292) Server root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist
+2025-03-27 14:37:58.689 [info] [Info  - 2:37:58 PM] (24292) Pylance language server 2025.3.2 (pyright version 1.1.396, commit 3e2236a7) starting
+2025-03-27 14:37:58.690 [info] [Info  - 2:37:58 PM] (24292) Starting service instance "blackjack"
+2025-03-27 14:37:59.184 [info] [Info  - 2:37:59 PM] (24292) Setting environmentName for service "blackjack": "3.9.2 (global)"
+2025-03-27 14:37:59.186 [info] [Info  - 2:37:59 PM] (24292) Setting pythonPath for service "blackjack": "/usr/bin/python"
+2025-03-27 14:37:59.189 [info] [Info  - 2:37:59 PM] (24292) No include entries specified; assuming /home/blackjack
+2025-03-27 14:37:59.195 [info] [Info  - 2:37:59 PM] (24292) Auto-excluding **/node_modules
+2025-03-27 14:37:59.197 [info] [Info  - 2:37:59 PM] (24292) Auto-excluding **/__pycache__
+2025-03-27 14:37:59.199 [info] [Info  - 2:37:59 PM] (24292) Auto-excluding **/.*
+2025-03-27 14:37:59.671 [info] [Info  - 2:37:59 PM] (24292) Assuming Python version 3.9.2.final.0
+2025-03-27 14:38:07.395 [info] [Info  - 2:38:07 PM] (24292) Found 12 source files
+2025-03-27 14:38:14.068 [info] [Info  - 2:38:14 PM] (24292) [FG] Long operation: parsing: file:///home/blackjack/src/Blackjack/chat.py (4291ms)
+2025-03-27 14:38:16.517 [info] [Info  - 2:38:16 PM] (24292) [FG] Long operation: parsing: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist/typeshed-fallback/stdlib/builtins.pyi (2447ms)
+2025-03-27 14:38:33.731 [info] [Info  - 2:38:33 PM] (24292) Priority queue background worker(2) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist
+2025-03-27 14:38:33.865 [info] [Info  - 2:38:33 PM] (24292) Priority queue background worker(2) started
+2025-03-27 14:38:34.380 [info] [Info  - 2:38:34 PM] (24292) Indexer background runner(3) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist (index)
+2025-03-27 14:38:34.384 [info] [Info  - 2:38:34 PM] (24292) Indexing(3) started
+2025-03-27 14:38:34.386 [info] [Info  - 2:38:34 PM] (24292) [BG(1)] Long operation: parsing: file:///home/blackjack/src/Blackjack/chat.py (6241ms)
+2025-03-27 14:38:34.387 [info] [Info  - 2:38:34 PM] (24292) [BG(1)] Long operation: parsing: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist/typeshed-fallback/stdlib/builtins.pyi (2641ms)
+2025-03-27 14:38:38.803 [info] [Info  - 2:38:38 PM] (24292) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/chat.py (13723ms)
+2025-03-27 14:38:44.205 [info] [Info  - 2:38:44 PM] (24292) [BG(1)] Long operation: SemanticTokens full at file:///home/blackjack/src/Blackjack/chat.py (8585ms)
+2025-03-27 14:38:48.198 [info] [Info  - 2:38:48 PM] (24292) [IDX(3)] Long operation: scan packages file:///home/blackjack (18556ms)
+2025-03-27 14:38:48.201 [info] [Info  - 2:38:48 PM] (24292) scanned(3) 124 files over 1 exec env
+2025-03-27 14:38:48.221 [info] [Info  - 2:38:48 PM] (24292) [BG(1)] Long operation: SemanticTokens full at file:///home/blackjack/src/Blackjack/game.py (3899ms)
+2025-03-27 14:38:52.679 [info] [Info  - 2:38:52 PM] (24292) [BG(1)] Long operation: checking: file:///home/blackjack/src/Blackjack/chat.py (2525ms)
+2025-03-27 14:38:52.681 [info] [Info  - 2:38:52 PM] (24292) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/chat.py (2553ms)
+2025-03-27 14:38:53.080 [info] [Info  - 2:38:53 PM] (24292) [BG(1)] Long operation: checking: file:///home/blackjack/src/Blackjack/game.py (2037ms)
+2025-03-27 14:38:53.081 [info] [Info  - 2:38:53 PM] (24292) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/game.py (2039ms)
+2025-03-27 14:38:53.301 [info] [Info  - 2:38:53 PM] (24292) indexed(3) 124 files over 1 exec env
+2025-03-27 14:38:53.731 [info] [Info  - 2:38:53 PM] (24292) Indexing finished(3).

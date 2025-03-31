@@ -1,0 +1,55 @@
+2024-11-04 14:09:17.120 [info] 
+
+
+
+
+2024-11-04 14:09:17.183 [info] Extension host agent started.
+2024-11-04 14:09:17.577 [info] [<unknown>][fa5cbce4][ManagementConnection] New connection established.
+2024-11-04 14:09:17.589 [info] [<unknown>][9e01344d][ExtensionHostConnection] New connection established.
+2024-11-04 14:09:18.433 [info] [<unknown>][9e01344d][ExtensionHostConnection] <1572> Launched Extension Host Process.
+2024-11-04 14:09:27.314 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at I.W (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:48:12233)
+    at I.updateTitle (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:48:7722)
+    at N.s.<computed> (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:48:2962)
+    at Object.call (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4203)
+    at Jc.s (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78968)
+    at Jc.q (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78491)
+    at hs.value (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77893)
+    at C.B (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:29:746)
+    at C.fire (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:29:964)
+    at process.w (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29137)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-04 14:09:27.333 [error] CodeExpectedError: Could not find pty 4 on pty host
+    at I.W (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:48:12233)
+    at I.updateIcon (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:48:7772)
+    at N.s.<computed> (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:48:2962)
+    at Object.call (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4203)
+    at Jc.s (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78968)
+    at Jc.q (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78491)
+    at hs.value (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77893)
+    at C.B (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:29:746)
+    at C.fire (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:29:964)
+    at process.w (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29137)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-11-04 14:14:17.224 [info] New EH opened, aborting shutdown
+2024-11-04 14:30:26.710 [info] [<unknown>][fa5cbce4][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-04 14:30:26.783 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/server-main.js:183:1060)
+    at process.emit (node:events:531:35)
+2024-11-04 15:27:43.625 [info] [<unknown>][fa5cbce4][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-11-04 15:27:43.647 [info] [<unknown>][5c98ef85][ExtensionHostConnection] New connection established.
+2024-11-04 15:27:43.653 [info] [<unknown>][c6fef66e][ManagementConnection] New connection established.
+2024-11-04 15:27:43.702 [info] [<unknown>][5c98ef85][ExtensionHostConnection] <3096> Launched Extension Host Process.
+2024-11-04 15:28:40.061 [error] [File Watcher] Inotify limit reached (ENOSPC) (path: /usr/lib/python3/dist-packages)
+2024-11-04 15:28:41.267 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-04 15:32:49.571 [info] [<unknown>][fa5cbce4][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2024-11-04 15:32:49.734 [info] [<unknown>][9e01344d][ExtensionHostConnection] <1572> Extension Host Process exited with code: 0, signal: null.
+2024-11-04 17:05:40.045 [info] [<unknown>][c6fef66e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-04 20:05:21.858 [info] [<unknown>][5c98ef85][ExtensionHostConnection] <3096> Extension Host Process exited with code: 0, signal: null.
+2024-11-04 20:05:21.871 [info] Last EH closed, waiting before shutting down
+2024-11-04 20:05:45.374 [info] [<unknown>][c6fef66e][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+2024-11-04 20:10:21.884 [info] Last EH closed, shutting down

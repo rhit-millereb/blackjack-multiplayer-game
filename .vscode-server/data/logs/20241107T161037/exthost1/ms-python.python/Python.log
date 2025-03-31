@@ -1,0 +1,15 @@
+2024-11-07 16:11:01.384 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-07 16:11:01.384 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-07 16:11:01.384 [info] Experiment 'pythonTestAdapter' is active
+2024-11-07 16:11:01.384 [warning] Dir "/home/blackjack/.pixi/envs" is not watchable (directory does not exist)
+2024-11-07 16:11:01.384 [info] Python interpreter path: /usr/bin/python
+2024-11-07 16:11:03.304 [info] > pyenv which python
+2024-11-07 16:11:03.304 [info] cwd: .
+2024-11-07 16:11:10.980 [info] Starting Pylance language server.
+2024-11-07 16:13:14.191 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/game.py
+2024-11-07 16:13:25.189 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/game.py
+2024-11-07 16:13:37.576 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/game.py
+2024-11-07 16:13:50.505 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/game.py
+2024-11-07 16:16:23.135 [info] Send text to terminal:  /usr/bin/env /usr/bin/python /home/blackjack/.vscode-server/extensions/ms-python.debugpy-2024.12.0-linux-armhf/bundled/libs/debugpy/adapter/../../debugpy/launcher 51189 -- /home/blackjack/src/Blackjack/game.py 
+2024-11-07 16:16:30.655 [info] Send text to terminal: 
+2024-11-07 16:16:30.856 [info] Send text to terminal:  cd /home/blackjack ; /usr/bin/env /usr/bin/python /home/blackjack/.vscode-server/extensions/ms-python.debugpy-2024.12.0-linux-armhf/bundled/libs/debugpy/adapter/../../debugpy/launcher 33595 -- /home/blackjack/src/Blackjack/main.py 

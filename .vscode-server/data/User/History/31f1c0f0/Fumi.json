@@ -1,0 +1,22 @@
+{
+    "window.zoomLevel": -1,
+    "files.autoSave": "onFocusChange",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "workbench.editorAssociations": {
+        "*.docx": "default"
+    },
+    "java.configuration.runtimes": [
+    
+    ],
+    "git.enableSmartCommit": true,
+    "redhat.telemetry.enabled": true,
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "explorer.confirmDelete": false,
+    "remote.SSH.remotePlatform": {
+        "490-15.csse.rose-hulman.edu": "linux",
+        "192.168.0.181": "linux"
+    }
+}

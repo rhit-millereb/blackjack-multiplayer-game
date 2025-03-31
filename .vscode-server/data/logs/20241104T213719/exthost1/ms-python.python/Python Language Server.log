@@ -1,0 +1,46 @@
+2024-11-04 21:37:58.631 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.18.0)
+2024-11-04 21:38:05.370 [info] [Info  - 9:38:04 PM] (8915) Server root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-04 21:38:05.378 [info] [Info  - 9:38:05 PM] (8915) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-11-04 21:38:05.380 [info] [Info  - 9:38:05 PM] (8915) Starting service instance "blackjack"
+2024-11-04 21:38:06.064 [info] [Info  - 9:38:06 PM] (8915) Setting environmentName for service "blackjack": "3.9.2 (global)"
+2024-11-04 21:38:06.070 [info] [Info  - 9:38:06 PM] (8915) Setting pythonPath for service "blackjack": "/usr/bin/python"
+2024-11-04 21:38:06.075 [info] [Info  - 9:38:06 PM] (8915) No include entries specified; assuming /home/blackjack
+2024-11-04 21:38:06.081 [info] [Info  - 9:38:06 PM] (8915) Auto-excluding **/node_modules
+2024-11-04 21:38:06.083 [info] [Info  - 9:38:06 PM] (8915) Auto-excluding **/__pycache__
+2024-11-04 21:38:06.084 [info] [Info  - 9:38:06 PM] (8915) Auto-excluding **/.*
+2024-11-04 21:38:06.965 [info] [Info  - 9:38:06 PM] (8915) Assuming Python version 3.9.2.final.0
+2024-11-04 21:38:12.472 [info] [Info  - 9:38:12 PM] (8915) Found 12 source files
+2024-11-04 21:38:19.533 [info] [Info  - 9:38:19 PM] (8915) [FG] Long operation: parsing: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist/typeshed-fallback/stdlib/builtins.pyi (3487ms)
+2024-11-04 21:38:22.875 [info] [Info  - 9:38:22 PM] (8915) Background analysis(1) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-04 21:38:22.898 [info] [Info  - 9:38:22 PM] (8915) Background analysis(1) started
+2024-11-04 21:38:22.911 [info] [Info  - 9:38:22 PM] (8915) Indexer background runner(2) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-11-04 21:38:22.925 [info] [Info  - 9:38:22 PM] (8915) Indexing(2) started
+2024-11-04 21:38:25.266 [info] [Info  - 9:38:25 PM] (8915) [BG(1)] Long operation: indexing: file:///home/blackjack/src/create_keys.py (2724ms)
+2024-11-04 21:38:30.907 [info] [Info  - 9:38:30 PM] (8915) [BG(1)] Long operation: checking: file:///home/blackjack/src/Blackjack/settings.py (4063ms)
+2024-11-04 21:38:30.908 [info] [Info  - 9:38:30 PM] (8915) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/settings.py (4087ms)
+2024-11-04 21:38:35.872 [info] [Info  - 9:38:35 PM] (8915) [IDX(2)] Long operation: scan packages file:///home/blackjack (13615ms)
+2024-11-04 21:38:35.875 [info] [Info  - 9:38:35 PM] (8915) scanned(2) 125 files over 1 exec env
+2024-11-04 21:38:39.307 [info] [Info  - 9:38:39 PM] (8915) indexed(2) 125 files over 1 exec env
+2024-11-04 21:38:39.687 [info] [Info  - 9:38:39 PM] (8915) Indexing finished(2).
+2024-11-04 21:39:43.164 [info] [Info  - 9:39:43 PM] (8915) [BG(1)] Long operation: checking: file:///home/blackjack/src/Blackjack/leaderboard.py (2483ms)
+2024-11-04 21:39:43.166 [info] [Info  - 9:39:43 PM] (8915) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/leaderboard.py (2609ms)
+2024-11-04 21:41:58.092 [info] [Info  - 9:41:58 PM] (8915) [BG(1)] Long operation: checking: file:///home/blackjack/src/Blackjack/game.py (2531ms)
+2024-11-04 21:41:58.093 [info] [Info  - 9:41:58 PM] (8915) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/game.py (2757ms)
+2024-11-04 21:44:56.706 [info] [Info  - 9:44:56 PM] (8915) Starting service instance "<default>"
+2024-11-04 21:44:57.464 [info] [Info  - 9:44:57 PM] (8915) Setting environmentName for service "<default>": "3.9.2 (global)"
+2024-11-04 21:44:57.465 [info] [Info  - 9:44:57 PM] (8915) Setting pythonPath for service "<default>": "/usr/bin/python"
+2024-11-04 21:44:57.470 [info] [Info  - 9:44:57 PM] (8915) No include entries specified; assuming /<default workspace root>
+2024-11-04 21:44:57.486 [info] [Info  - 9:44:57 PM] (8915) Auto-excluding **/node_modules
+2024-11-04 21:44:57.487 [info] [Info  - 9:44:57 PM] (8915) Auto-excluding **/__pycache__
+2024-11-04 21:44:57.488 [info] [Info  - 9:44:57 PM] (8915) Auto-excluding **/.*
+2024-11-04 21:44:57.902 [info] [Info  - 9:44:57 PM] (8915) Assuming Python version 3.9.2.final.0
+2024-11-04 21:44:58.708 [info] [Error - 9:44:58 PM] (8915) File or directory "/<default workspace root>" does not exist.
+2024-11-04 21:44:58.711 [info] [Info  - 9:44:58 PM] (8915) No source files found.
+2024-11-04 21:45:04.290 [info] [Info  - 9:45:04 PM] (8915) Background analysis(3) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-04 21:45:04.293 [info] [Info  - 9:45:04 PM] (8915) Background analysis(3) started
+2024-11-04 21:46:04.767 [info] [Info  - 9:46:04 PM] (8915) [BG(1)] Long operation: checking: file:///home/blackjack/src/Blackjack/game.py (3237ms)
+2024-11-04 21:46:04.768 [info] [Info  - 9:46:04 PM] (8915) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/game.py (3357ms)
+2024-11-04 21:46:15.527 [info] [Info  - 9:46:15 PM] (8915) [BG(1)] Long operation: checking: file:///home/blackjack/src/Blackjack/game.py (2589ms)
+2024-11-04 21:46:15.527 [info] [Info  - 9:46:15 PM] (8915) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/game.py (2619ms)
+2024-11-04 21:47:38.707 [info] [Info  - 9:47:38 PM] (8915) [BG(1)] Long operation: checking: file:///home/blackjack/src/Blackjack/game.py (3369ms)
+2024-11-04 21:47:38.712 [info] [Info  - 9:47:38 PM] (8915) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/game.py (3523ms)

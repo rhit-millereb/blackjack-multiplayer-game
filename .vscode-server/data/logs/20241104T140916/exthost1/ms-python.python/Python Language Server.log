@@ -1,0 +1,27 @@
+2024-11-04 14:09:42.660 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.18.0)
+2024-11-04 14:09:47.272 [info] [Info  - 2:09:46 PM] (1779) Server root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-04 14:09:47.276 [info] [Info  - 2:09:47 PM] (1779) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-11-04 14:09:47.277 [info] [Info  - 2:09:47 PM] (1779) Starting service instance "blackjack"
+2024-11-04 14:09:47.658 [info] [Info  - 2:09:47 PM] (1779) Setting environmentName for service "blackjack": "3.9.2 (global)"
+2024-11-04 14:09:47.661 [info] [Info  - 2:09:47 PM] (1779) Setting pythonPath for service "blackjack": "/usr/bin/python"
+2024-11-04 14:09:47.664 [info] [Info  - 2:09:47 PM] (1779) No include entries specified; assuming /home/blackjack
+2024-11-04 14:09:47.669 [info] [Info  - 2:09:47 PM] (1779) Auto-excluding **/node_modules
+2024-11-04 14:09:47.671 [info] [Info  - 2:09:47 PM] (1779) Auto-excluding **/__pycache__
+2024-11-04 14:09:47.672 [info] [Info  - 2:09:47 PM] (1779) Auto-excluding **/.*
+2024-11-04 14:09:48.363 [info] [Info  - 2:09:48 PM] (1779) Assuming Python version 3.9.2.final.0
+2024-11-04 14:09:50.373 [info] [Info  - 2:09:50 PM] (1779) Found 12 source files
+2024-11-04 14:09:56.202 [info] [Info  - 2:09:56 PM] (1779) [FG] Long operation: parsing: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist/typeshed-fallback/stdlib/builtins.pyi (2754ms)
+2024-11-04 14:09:56.818 [info] [Info  - 2:09:56 PM] (1779) Background analysis(1) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-04 14:09:56.820 [info] [Info  - 2:09:56 PM] (1779) Background analysis(1) started
+2024-11-04 14:09:56.820 [info] [Info  - 2:09:56 PM] (1779) Indexer background runner(2) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-11-04 14:09:56.821 [info] [Info  - 2:09:56 PM] (1779) Indexing(2) started
+2024-11-04 14:10:01.175 [info] [Info  - 2:10:01 PM] (1779) [BG(1)] Long operation: parsing: file:///home/blackjack/src/Blackjack/leaderboard.py (2625ms)
+2024-11-04 14:10:06.821 [info] [Info  - 2:10:06 PM] (1779) [BG(1)] Long operation: parsing: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist/typeshed-fallback/stdlib/_socket.pyi (2034ms)
+2024-11-04 14:10:09.075 [info] [Info  - 2:10:09 PM] (1779) [BG(1)] Long operation: SemanticTokens full at file:///home/blackjack/src/Blackjack/leaderboard.py (11304ms)
+2024-11-04 14:10:10.175 [info] [Info  - 2:10:10 PM] (1779) [IDX(2)] Long operation: scan packages file:///home/blackjack (12916ms)
+2024-11-04 14:10:10.176 [info] [Info  - 2:10:10 PM] (1779) scanned(2) 125 files over 1 exec env
+2024-11-04 14:10:14.793 [info] [Info  - 2:10:14 PM] (1779) [BG(1)] Long operation: checking: file:///home/blackjack/src/Blackjack/leaderboard.py (2779ms)
+2024-11-04 14:10:14.794 [info] [Info  - 2:10:14 PM] (1779) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/leaderboard.py (2779ms)
+2024-11-04 14:10:15.875 [info] [Info  - 2:10:15 PM] (1779) indexed(2) 125 files over 1 exec env
+2024-11-04 14:10:16.291 [info] [Info  - 2:10:16 PM] (1779) Indexing finished(2).
+2024-11-04 14:10:17.730 [info] [Info  - 2:10:17 PM] (1779) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/server.py (2149ms)

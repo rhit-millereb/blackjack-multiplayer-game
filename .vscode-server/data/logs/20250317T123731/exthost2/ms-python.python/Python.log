@@ -1,0 +1,17 @@
+2025-03-17 12:40:33.710 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-03-17 12:40:33.710 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-03-17 12:40:33.710 [info] Experiment 'pythonTestAdapter' is active
+2025-03-17 12:40:33.710 [info] Native locator: Refresh started
+2025-03-17 12:40:33.852 [info] > pyenv which python
+2025-03-17 12:40:33.853 [info] cwd: .
+2025-03-17 12:40:34.463 [info] Native locator: Refresh finished in 8771 ms
+2025-03-17 12:40:34.475 [info] Python interpreter path: /usr/bin/python
+2025-03-17 12:40:41.512 [info] Starting Pylance language server.
+2025-03-17 12:42:03.317 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/game.py
+2025-03-17 12:42:09.120 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/table.py
+2025-03-17 12:42:14.648 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/game.py
+2025-03-17 12:47:12.636 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/main.py
+2025-03-17 12:47:52.047 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/main.py
+2025-03-17 12:48:43.371 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/main.py
+2025-03-17 12:48:43.752 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/main.py
+2025-03-17 12:50:36.021 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/table.py

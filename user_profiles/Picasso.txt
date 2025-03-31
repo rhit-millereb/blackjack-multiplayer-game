@@ -1,0 +1,1 @@
+name:Picasso|code:679158|bank:3026|wins:434|losses:487|pushes:64

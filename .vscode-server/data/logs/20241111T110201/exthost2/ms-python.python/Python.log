@@ -1,0 +1,8 @@
+2024-11-11 14:01:52.923 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-11 14:01:52.923 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-11 14:01:52.923 [info] Experiment 'pythonTestAdapter' is active
+2024-11-11 14:01:52.923 [warning] Dir "/home/blackjack/.pixi/envs" is not watchable (directory does not exist)
+2024-11-11 14:01:56.915 [info] Python interpreter path: /usr/bin/python
+2024-11-11 14:01:57.646 [info] > pyenv which python
+2024-11-11 14:01:57.646 [info] cwd: .
+2024-11-11 14:02:03.432 [info] Starting Pylance language server.

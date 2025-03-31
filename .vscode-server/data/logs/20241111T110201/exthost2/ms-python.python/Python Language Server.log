@@ -1,0 +1,16 @@
+2024-11-11 14:01:59.266 [info] (Client) Pylance async client (2024.11.1) started with python extension (2024.18.1)
+2024-11-11 14:02:03.309 [info] [Info  - 2:02:02 PM] (3599) Server root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.1/dist
+2024-11-11 14:02:03.322 [info] [Info  - 2:02:03 PM] (3599) Pylance language server 2024.11.1 (pyright version 1.1.386, commit 4180fa21) starting
+2024-11-11 14:02:03.327 [info] [Info  - 2:02:03 PM] (3599) Starting service instance "blackjack"
+2024-11-11 14:02:03.714 [info] [Info  - 2:02:03 PM] (3599) Setting environmentName for service "blackjack": "3.9.2 (global)"
+2024-11-11 14:02:03.717 [info] [Info  - 2:02:03 PM] (3599) Setting pythonPath for service "blackjack": "/usr/bin/python"
+2024-11-11 14:02:03.728 [info] [Info  - 2:02:03 PM] (3599) No include entries specified; assuming /home/blackjack
+2024-11-11 14:02:03.732 [info] [Info  - 2:02:03 PM] (3599) Auto-excluding **/node_modules
+2024-11-11 14:02:03.734 [info] [Info  - 2:02:03 PM] (3599) Auto-excluding **/__pycache__
+2024-11-11 14:02:03.736 [info] [Info  - 2:02:03 PM] (3599) Auto-excluding **/.*
+2024-11-11 14:02:05.314 [info] [Info  - 2:02:05 PM] (3599) Assuming Python version 3.9.2.final.0
+2024-11-11 14:02:06.083 [info] [Info  - 2:02:06 PM] (3599) Found 12 source files
+2024-11-11 14:02:13.348 [info] [Info  - 2:02:13 PM] (3599) Indexer background runner(2) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.1/dist (index)
+2024-11-11 14:02:13.349 [info] [Info  - 2:02:13 PM] (3599) Indexing(2) started
+2024-11-11 14:02:13.567 [info] [Info  - 2:02:13 PM] (3599) Background analysis(1) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.1/dist
+2024-11-11 14:02:13.596 [info] [Info  - 2:02:13 PM] (3599) Background analysis(1) started

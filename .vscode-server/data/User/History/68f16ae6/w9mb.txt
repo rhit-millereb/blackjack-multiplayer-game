@@ -1,0 +1,1 @@
+name:Jamo|code:2626|bank:1060|wins:10|losses:6|pushes:0

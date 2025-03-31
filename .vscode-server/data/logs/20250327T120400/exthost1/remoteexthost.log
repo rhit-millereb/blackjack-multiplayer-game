@@ -1,0 +1,49 @@
+2025-03-27 12:04:13.248 [info] Extension host with pid 16226 started
+2025-03-27 12:04:13.549 [info] Lock '/home/blackjack/.vscode-server/data/User/workspaceStorage/9bca88e4c3bff3dc461c44d989168a4c/vscode.lock': Lock acquired.
+2025-03-27 12:04:14.115 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-27 12:04:14.129 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-03-27 12:04:14.134 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-03-27 12:04:19.306 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-03-27 12:04:19.326 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-03-27 12:04:21.380 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-03-27 12:04:21.383 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-03-27 12:04:25.750 [info] Eager extensions activated
+2025-03-27 12:04:25.752 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-27 12:04:25.755 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-27 12:04:48.017 [error] TypeError: Cannot set properties of undefined (setting 'name')
+	at /home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist/extension.bundle.js:1:182250
+2025-03-27 12:17:46.234 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-03-27 12:17:54.924 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-03-27 12:17:54.927 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-03-27 12:17:54.930 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-03-27 14:28:48.643 [info] Extension host terminating: renderer disconnected for too long (2)
+2025-03-27 14:28:48.766 [info] Lock '/home/blackjack/.vscode-server/data/User/workspaceStorage/9bca88e4c3bff3dc461c44d989168a4c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-03-27 14:28:51.410 [error] Error: Channel has been closed
+	at s (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:120:2431)
+	at Object.appendLine (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:120:2570)
+	at D.logOutputMessage (/home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:285192)
+	at D.info (/home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:284925)
+	at ChildProcess.<anonymous> (/home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:503028)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2025-03-27 14:28:53.302 [error] Error: Channel has been closed
+	at s (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:120:2431)
+	at Object.appendLine (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:120:2570)
+	at _0x3bce6a.<computed>.appendLine (/home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist/extension.bundle.js:1:127892)
+	at P.logOutputMessage (/home/blackjack/.vscode-server/extensions/ms-python.python-2025.2.0-linux-armhf/out/client/extension.js:2:2030108)
+	at P.error (/home/blackjack/.vscode-server/extensions/ms-python.python-2025.2.0-linux-armhf/out/client/extension.js:2:2029999)
+	at /home/blackjack/.vscode-server/extensions/ms-python.python-2025.2.0-linux-armhf/out/client/extension.js:2:2038330
+	at async Object.stop (/home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist/extension.bundle.js:1:135197)
+	at async _0x5484a0._stopClient (/home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist/extension.bundle.js:1:77148)
+	at async _0x5484a0._createNewRequest (/home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist/extension.bundle.js:1:76723)
+2025-03-27 14:28:53.303 [error] Error: Channel has been closed
+	at s (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:120:2431)
+	at Object.appendLine (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/vs/workbench/api/node/extensionHostProcess.js:120:2570)
+	at _0x3bce6a.<computed>.appendLine (/home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist/extension.bundle.js:1:127892)
+	at P.logOutputMessage (/home/blackjack/.vscode-server/extensions/ms-python.python-2025.2.0-linux-armhf/out/client/extension.js:2:2030108)
+	at P.error (/home/blackjack/.vscode-server/extensions/ms-python.python-2025.2.0-linux-armhf/out/client/extension.js:2:2029999)
+	at /home/blackjack/.vscode-server/extensions/ms-python.python-2025.2.0-linux-armhf/out/client/extension.js:2:2038330
+	at async Object.stop (/home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist/extension.bundle.js:1:135197)
+	at async _0x5484a0._stopClient (/home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist/extension.bundle.js:1:77148)
+	at async _0x5484a0._createNewRequest (/home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist/extension.bundle.js:1:76723)
+2025-03-27 14:28:53.304 [info] Extension host with pid 16226 exiting with code 0

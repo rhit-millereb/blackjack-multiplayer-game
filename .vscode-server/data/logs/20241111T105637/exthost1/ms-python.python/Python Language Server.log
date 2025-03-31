@@ -1,0 +1,23 @@
+2024-11-11 10:57:05.041 [info] (Client) Pylance async client (2024.11.1) started with python extension (2024.18.1)
+2024-11-11 10:57:10.011 [info] [Info  - 10:57:09 AM] (14100) Server root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.1/dist
+2024-11-11 10:57:10.021 [info] [Info  - 10:57:10 AM] (14100) Pylance language server 2024.11.1 (pyright version 1.1.386, commit 4180fa21) starting
+2024-11-11 10:57:10.023 [info] [Info  - 10:57:10 AM] (14100) Starting service instance "blackjack"
+2024-11-11 10:57:10.780 [info] [Info  - 10:57:10 AM] (14100) Setting environmentName for service "blackjack": "3.9.2 (global)"
+2024-11-11 10:57:10.783 [info] [Info  - 10:57:10 AM] (14100) Setting pythonPath for service "blackjack": "/usr/bin/python"
+2024-11-11 10:57:10.786 [info] [Info  - 10:57:10 AM] (14100) No include entries specified; assuming /home/blackjack
+2024-11-11 10:57:10.792 [info] [Info  - 10:57:10 AM] (14100) Auto-excluding **/node_modules
+2024-11-11 10:57:10.794 [info] [Info  - 10:57:10 AM] (14100) Auto-excluding **/__pycache__
+2024-11-11 10:57:10.795 [info] [Info  - 10:57:10 AM] (14100) Auto-excluding **/.*
+2024-11-11 10:57:11.258 [info] [Info  - 10:57:11 AM] (14100) Assuming Python version 3.9.2.final.0
+2024-11-11 10:57:13.238 [info] [Info  - 10:57:13 AM] (14100) Found 12 source files
+2024-11-11 10:57:18.722 [info] [Info  - 10:57:18 AM] (14100) Background analysis(1) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.1/dist
+2024-11-11 10:57:18.728 [info] [Info  - 10:57:18 AM] (14100) Background analysis(1) started
+2024-11-11 10:57:19.604 [info] [Info  - 10:57:19 AM] (14100) Indexer background runner(2) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.11.1/dist (index)
+2024-11-11 10:57:19.606 [info] [Info  - 10:57:19 AM] (14100) Indexing(2) started
+2024-11-11 10:57:22.838 [info] [Info  - 10:57:22 AM] (14100) [BG(1)] Long operation: indexing: file:///home/blackjack/src/create_keys.py (3246ms)
+2024-11-11 10:57:33.841 [info] [Info  - 10:57:33 AM] (14100) [IDX(2)] Long operation: scan packages file:///home/blackjack (13194ms)
+2024-11-11 10:57:33.846 [info] [Info  - 10:57:33 AM] (14100) scanned(2) 125 files over 1 exec env
+2024-11-11 10:57:39.855 [info] [Info  - 10:57:39 AM] (14100) [BG(1)] Long operation: checking: file:///home/blackjack/src/Blackjack/game.py (10370ms)
+2024-11-11 10:57:39.856 [info] [Info  - 10:57:39 AM] (14100) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/game.py (10741ms)
+2024-11-11 10:57:39.857 [info] [Info  - 10:57:39 AM] (14100) indexed(2) 125 files over 1 exec env
+2024-11-11 10:57:40.378 [info] [Info  - 10:57:40 AM] (14100) Indexing finished(2).

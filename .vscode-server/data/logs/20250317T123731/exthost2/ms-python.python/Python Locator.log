@@ -1,0 +1,29 @@
+2025-03-17 12:40:33.708 [info] Starting Python Locator /home/blackjack/.vscode-server/extensions/ms-python.python-2025.2.0-linux-armhf/python-env-tools/bin/pet server
+2025-03-17 12:40:34.275 [info] Discovered env: /bin/python
+2025-03-17 12:40:34.294 [info] Discovered env: /usr/bin/python
+2025-03-17 12:40:34.396 [info] Locator Conda took 993.470644ms
+2025-03-17 12:40:34.398 [info] Locator Homebrew took 4.486689ms
+2025-03-17 12:40:34.409 [info] Locator LinuxGlobal took 645.259734ms
+2025-03-17 12:40:34.410 [info] Locator PipEnv took 5.953068ms
+2025-03-17 12:40:34.411 [info] Locator Pixi took 721.184µs
+2025-03-17 12:40:34.413 [info] Locator Poetry took 4.370388ms
+2025-03-17 12:40:34.415 [info] Locator PyEnv took 3.262805ms
+2025-03-17 12:40:34.425 [info] Locator Venv took 299.266µs
+2025-03-17 12:40:34.426 [info] Locator VirtualEnv took 895.713µs
+2025-03-17 12:40:34.429 [info] Locator VirtualEnvWrapper took 1.075501ms
+2025-03-17 12:40:34.440 [info] Locator GlobalVirtualEnvs took 4.899754ms
+2025-03-17 12:40:34.441 [info] Locator Locators took 996.650846ms
+2025-03-17 12:40:34.442 [info] Locator Path took 930.314249ms
+2025-03-17 12:40:34.443 [info] Locator Workspaces took 27.36231ms
+2025-03-17 12:40:34.460 [info] Refresh completed in 996ms
+2025-03-17 12:40:34.471 [info] Resolved Python Environment /usr/bin/python
+2025-03-17 12:41:17.142 [info] Resolved Python Environment /usr/bin/python
+2025-03-17 12:41:49.910 [info] Resolved Python Environment /usr/bin/python
+2025-03-17 12:42:50.764 [info] Resolved Python Environment /usr/bin/python
+2025-03-17 12:43:22.592 [info] Resolved Python Environment /usr/bin/python
+2025-03-17 12:43:58.335 [info] Resolved Python Environment /usr/bin/python
+2025-03-17 12:44:45.814 [info] Resolved Python Environment /usr/bin/python
+2025-03-17 12:46:44.072 [info] Resolved Python Environment /usr/bin/python
+2025-03-17 12:48:00.540 [info] Resolved Python Environment /usr/bin/python
+2025-03-17 12:48:39.171 [info] Resolved Python Environment /usr/bin/python
+2025-03-17 12:50:22.008 [info] Resolved Python Environment /usr/bin/python

@@ -1,0 +1,4695 @@
+nohup: ignoring input
+Settings: Finished reading settings file!
+Allow new users: True
+Chat: Starting...
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+Server started.
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.221', 58645)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 58646)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'qibAyPoRgVBbOnm', '']
+Server has connections
+Detected New Users
+Name: user 1  IP: ('137.112.208.221', 58646)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+380 credits available
+
+Table||Dealer:9-H||user 1:3-S,Q-S:10:13||
+user 1: 3-S,Q-S,2-S
+user 1 now has: 15
+[15]
+user 1: 3-S,Q-S,2-S,3-C
+user 1 now has: 18
+[18]
+Dealer:9-H,10-S(19)
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+370 credits available
+
+Table||Dealer:5-D||user 1:J-D,6-D:10:16||
+Dealer:5-D,2-S(7)
+Dealer Hits, Pulled: 4-D (11)
+Dealer Hits, Pulled: A-S (12)
+Dealer Hits, Pulled: 6-H (18)
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+360 credits available
+
+Table||Dealer:A-S||user 1:6-S,Q-D:10:16||
+user 1: 6-S,Q-D,3-S
+user 1 now has: 19
+[19]
+Dealer:A-S,4-H(5|15)
+Dealer Hits, Pulled: 2-H (7|17)
+Dealer Hits, Pulled: 10-D (17)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+370 credits available
+
+Table||Dealer:5-H||user 1:J-D,J-S:10:20||
+Hand Split.
+Original Hand now: J-D,8-H (18)
+Second Hand is: J-S,9-S (19)
+[18]
+[19]
+Dealer:5-H,8-S(13)
+Dealer Hits, Pulled: 6-C (19)
+user 1 hand 1 loses
+user 1 hand 2 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+360 credits available
+
+Table||Dealer:5-H||user 1:Q-H,6-D:10:16||
+Dealer:5-H,9-C(14)
+Dealer Hits, Pulled: K-C (BUST)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+370 credits available
+
+Table||Dealer:10-C||user 1:Q-C,7-D:10:17||
+user 1: Q-C,7-D,Q-H
+user 1 now has: BUST
+[27]
+Dealer:10-C,4-H(14)
+Dealer Hits, Pulled: A-D (15)
+Dealer Hits, Pulled: 6-H (4 card 21)
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+360 credits available
+
+Table||Dealer:7-S||user 1:K-D,7-S:10:17||
+Dealer:7-S,8-C(15)
+Dealer Hits, Pulled: 2-H (17)
+user 1 hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+360 credits available
+
+Table||Dealer:3-H||user 1:5-D,7-D:10:12||
+user 1: 5-D,7-D,K-H
+user 1 now has: BUST
+[22]
+Dealer:3-H,10-D(13)
+Dealer Hits, Pulled: 4-C (17)
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+350 credits available
+
+Table||Dealer:A-D||user 1:Q-S,9-C:50:19||
+Dealer:A-D,6-H(7|17)
+Dealer Hits, Pulled: 2-C (9|19)
+user 1 hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+350 credits available
+
+Table||Dealer:8-S||user 1:10-C,J-C:10:20||
+Dealer:8-S,J-C(18)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+360 credits available
+
+Table||Dealer:3-S||user 1:5-D,K-S:10:15||
+Dealer:3-S,J-S(13)
+Dealer Hits, Pulled: 5-S (18)
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+350 credits available
+
+Table||Dealer:9-S||user 1:9-H,K-S:10:19||
+Dealer:9-S,5-D(14)
+Dealer Hits, Pulled: A-S (15)
+Dealer Hits, Pulled: 9-C (BUST)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+360 credits available
+
+Table||Dealer:4-D||user 1:9-D,K-H:10:19||
+Dealer:4-D,7-D(11)
+Dealer Hits, Pulled: 2-C (13)
+Dealer Hits, Pulled: A-D (14)
+Dealer Hits, Pulled: 2-D (16)
+Dealer Hits, Pulled: 3-C (19)
+user 1 hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+360 credits available
+
+Table||Dealer:Q-S||user 1:8-C,10-S:10:18||
+Dealer:Q-S,5-C(15)
+Dealer Hits, Pulled: 3-C (18)
+user 1 hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+360 credits available
+
+Table||Dealer:J-S||user 1:7-H,Q-H:10:17||
+Dealer has blackjack
+350 credits available
+
+Table||Dealer:A-H||user 1:10-H,4-S:10:14||
+user 1: 10-H,4-S,8-C
+user 1 now has: BUST
+[22]
+Dealer:A-H,2-C(3|13)
+Dealer Hits, Pulled: 4-C (7|17)
+Dealer Hits, Pulled: A-H (8|18)
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+340 credits available
+
+Table||Dealer:6-S||user 1:J-C,9-S:10:19||
+Dealer:6-S,Q-D(16)
+Dealer Hits, Pulled: 5-H (3 card 21)
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+330 credits available
+
+Table||Dealer:10-H||user 1:A-C,K-S:10:BLACKJACK||
+Dealer:10-H,3-H(13)
+Dealer Hits, Pulled: 4-D (17)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+335 credits available
+Removing: user 1
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.221', 58736)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 58737)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'qOVSnXqLzvHCVaE', '']
+Server has connections
+Detected New Users
+Name: user 1  IP: ('137.112.208.221', 58737)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+335 credits available
+
+Table||Dealer:J-D||user 1:4-D,3-D:10:7||
+user 1: 4-D,3-D,9-C
+user 1 now has: 16
+[16]
+user 1: 4-D,3-D,9-C,8-S
+user 1 now has: BUST
+[24]
+Dealer:J-D,6-S(16)
+Dealer Hits, Pulled: 2-H (18)
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+325 credits available
+
+Table||Dealer:J-C||user 1:6-C,6-D:10:12||
+user 1: 6-C,6-D,3-D
+user 1 now has: 15
+[15]
+user 1: 6-C,6-D,3-D,3-C
+user 1 now has: 18
+[18]
+Dealer:J-C,10-H(20)
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+315 credits available
+
+Table||Dealer:2-D||user 1:5-C,Q-H:10:15||
+Dealer:2-D,4-S(6)
+Dealer Hits, Pulled: 3-H (9)
+Dealer Hits, Pulled: 10-D (19)
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+305 credits available
+
+Table||Dealer:3-D||user 1:5-D,2-D:10:7||
+user 1: 5-D,2-D,J-C
+user 1 now has: 17
+[17]
+Dealer:3-D,A-D(4|14)
+Dealer Hits, Pulled: 10-C (14)
+Dealer Hits, Pulled: 8-S (BUST)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+315 credits available
+
+Table||Dealer:K-H||user 1:6-C,A-D:10:7|17||
+user 1: 6-C,A-D,J-H
+user 1 now has: 17
+[17]
+Dealer:K-H,6-C(16)
+Dealer Hits, Pulled: 6-S (BUST)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+325 credits available
+
+Table||Dealer:2-S||user 1:7-D,4-S:10:11||
+user 1: 7-D,4-S,K-H
+user 1 now has: 3 card 21
+[21]
+Dealer:2-S,8-H(10)
+Dealer Hits, Pulled: 5-H (15)
+Dealer Hits, Pulled: 9-D (BUST)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+345 credits available
+
+Table||Dealer:7-C||user 1:5-D,A-H:10:6|16||
+user 1: 5-D,A-H,7-C
+user 1 now has: 13
+[13]
+user 1: 5-D,A-H,7-C,J-C
+user 1 now has: BUST
+[23]
+Dealer:7-C,K-H(17)
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+335 credits available
+Removing: user 1
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.221', 58767)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 58768)
+Sign in info: ['Info', 'user 3', '1234', 'create account', 'IHXNgwWAuamvpja', '']
+Server has connections
+Detected New Users
+Name: user 3  IP: ('137.112.208.221', 58768)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+1000 credits available
+
+Table||Dealer:4-D||user 3:Q-H,7-C:10:17||
+Dealer:4-D,2-S(6)
+Dealer Hits, Pulled: 9-H (15)
+Dealer Hits, Pulled: 5-C (20)
+user 3 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+990 credits available
+
+Table||Dealer:5-D||user 3:4-C,J-S:20:14||
+user 3: 4-C,J-S,2-D
+user 3 now has: 16
+[16]
+Dealer:5-D,K-D(15)
+Dealer Hits, Pulled: 2-S (17)
+user 3 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+970 credits available
+
+Table||Dealer:6-H||user 3:J-C,2-H:50:12||
+user 3: J-C,2-H,3-S
+user 3 now has: 15
+[15]
+user 3: J-C,2-H,3-S,K-H
+user 3 now has: BUST
+[25]
+Dealer:6-H,7-S(13)
+Dealer Hits, Pulled: 8-D (3 card 21)
+user 3 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+920 credits available
+
+Table||Dealer:2-H||user 3:8-D,K-C:100:18||
+Dealer:2-H,J-C(12)
+Dealer Hits, Pulled: 6-S (18)
+user 3 hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+920 credits available
+
+Table||Dealer:3-D||user 3:10-H,10-H:100:20||
+Dealer:3-D,2-D(5)
+Dealer Hits, Pulled: 5-C (10)
+Dealer Hits, Pulled: 2-S (12)
+Dealer Hits, Pulled: 7-C (19)
+user 3 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1020 credits available
+Leaderboard: User connected with address: ('137.112.208.221', 58786)
+Leaderboard: User connected to feed: IHXNgwWAuamvpja
+Leaderboard: Send data on 22 users to: <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.208.221', 58786)>
+Leaderboard: Send data on 22 users to: <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.208.221', 58786)>
+Leaderboard: Send data on 22 users to: <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.208.221', 58786)>
+Removing: user 3
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+User connected with address: ('137.112.208.221', 58840)
+Client has outdated security key format
+User connected with address: ('87.236.176.202', 44819)
+Client gave invalid sign in packet
+Auth Server: User connected with: ('137.112.208.221', 61414)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 61415)
+Sign in info: ['Info', 'Picasso', '679158', 'sign in', 'EZGvjyAXgJPGZmV', '']
+Server has connections
+Detected New Users
+Name: Picasso  IP: ('137.112.208.221', 61415)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+910 credits available
+
+Table||Dealer:3-H||Picasso:Q-S,5-S:10:15||
+Dealer:3-H,Q-D(13)
+Dealer Hits, Pulled: 2-H (15)
+Dealer Hits, Pulled: A-C (16)
+Dealer Hits, Pulled: 4-H (20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+900 credits available
+
+Table||Dealer:3-H||Picasso:10-H,3-D:100:13||
+Dealer:3-H,7-H(10)
+Dealer Hits, Pulled: Q-C (20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+800 credits available
+
+Table||Dealer:6-D||Picasso:Q-H,9-C:100:19||
+Dealer:6-D,6-C(12)
+Dealer Hits, Pulled: 9-S (3 card 21)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+700 credits available
+
+Table||Dealer:3-S||Picasso:3-D,5-C:500:8||
+Picasso: 3-D,5-C,4-H
+Picasso now has: 12
+[12]
+Picasso: 3-D,5-C,4-H,6-D
+Picasso now has: 18
+[18]
+Dealer:3-S,6-S(9)
+Dealer Hits, Pulled: 10-S (19)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+200 credits available
+
+Table||Dealer:7-D||Picasso:2-S,5-C:200:7||
+Picasso: 2-S,5-C,7-H
+Picasso now has: 14
+[14]
+Picasso: 2-S,5-C,7-H,10-H
+Picasso now has: BUST
+[24]
+Dealer:7-D,4-C(11)
+Dealer Hits, Pulled: 6-H (17)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+0 credits available
+Picasso is broke, removing from game...
+Removing: Picasso
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.221', 65283)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 65285)
+Sign in info: ['Info', 'Picasso', '679158', 'sign in', 'XLsjCyrzEnNtqNG', '']
+Server has connections
+Detected New Users
+Name: Picasso  IP: ('137.112.208.221', 65285)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+1000 credits available
+
+Table||Dealer:K-S||Picasso:Q-H,K-C:10:20||
+Dealer:K-S,2-H(12)
+Dealer Hits, Pulled: 4-S (16)
+Dealer Hits, Pulled: 9-H (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1010 credits available
+
+Table||Dealer:10-C||Picasso:K-C,2-C:10:12||
+Picasso: K-C,2-C,5-H
+Picasso now has: 17
+[17]
+Dealer:10-C,Q-H(20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1000 credits available
+
+Table||Dealer:Q-D||Picasso:K-C,2-C:10:12||
+Picasso: K-C,2-C,5-C
+Picasso now has: 17
+[17]
+Dealer:Q-D,9-C(19)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+990 credits available
+
+Table||Dealer:J-D||Picasso:A-H,Q-D:10:BLACKJACK||
+Dealer:J-D,6-C(16)
+Dealer Hits, Pulled: 8-D (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+995 credits available
+
+Table||Dealer:J-H||Picasso:9-S,2-S:10:11||
+Picasso: 9-S,2-S,8-C
+Picasso now has: 19
+[19]
+Dealer:J-H,6-S(16)
+Dealer Hits, Pulled: 8-H (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1005 credits available
+
+Table||Dealer:8-D||Picasso:J-S,A-D:10:BLACKJACK||
+Dealer:8-D,5-C(13)
+Dealer Hits, Pulled: 8-H (3 card 21)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1010 credits available
+
+Table||Dealer:4-D||Picasso:8-S,9-S:10:17||
+Dealer:4-D,J-D(14)
+Dealer Hits, Pulled: 2-S (16)
+Dealer Hits, Pulled: 4-C (20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1000 credits available
+
+Table||Dealer:7-D||Picasso:10-S,6-D:10:16||
+Picasso: 10-S,6-D,2-S
+Picasso now has: 18
+[18]
+Dealer:7-D,6-S(13)
+Dealer Hits, Pulled: K-S (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1010 credits available
+
+Table||Dealer:5-D||Picasso:9-H,7-H:10:16||
+Dealer:5-D,J-H(15)
+Dealer Hits, Pulled: 4-S (19)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1000 credits available
+
+Table||Dealer:5-S||Picasso:8-S,8-S:10:16||
+Hand Split.
+Original Hand now: 8-S,J-S (18)
+Second Hand is: 8-S,7-C (15)
+[18]
+[15]
+Dealer:5-S,K-H(15)
+Dealer Hits, Pulled: K-D (BUST)
+Picasso hand 1 wins
+Picasso hand 2 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1020 credits available
+
+Table||Dealer:7-H||Picasso:6-S,Q-S:10:16||
+Picasso: 6-S,Q-S,10-C
+Picasso now has: BUST
+[26]
+Dealer:7-H,J-C(17)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1010 credits available
+
+Table||Dealer:8-H||Picasso:3-S,K-S:10:13||
+Picasso: 3-S,K-S,2-S
+Picasso now has: 15
+[15]
+Picasso: 3-S,K-S,2-S,3-H
+Picasso now has: 18
+[18]
+Dealer:8-H,8-D(16)
+Dealer Hits, Pulled: A-S (17)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1020 credits available
+
+Table||Dealer:6-H||Picasso:10-D,7-H:10:17||
+Dealer:6-H,A-S(7|17)
+Dealer Hits, Pulled: 3-S (10|20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1010 credits available
+
+Table||Dealer:10-S||Picasso:J-H,3-D:10:13||
+Picasso: J-H,3-D,K-D
+Picasso now has: BUST
+[23]
+Dealer:10-S,4-S(14)
+Dealer Hits, Pulled: 9-D (BUST)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1000 credits available
+
+Table||Dealer:3-H||Picasso:6-C,9-D:10:15||
+Dealer:3-H,9-C(12)
+Dealer Hits, Pulled: 6-D (18)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+990 credits available
+
+Table||Dealer:6-D||Picasso:2-H,Q-D:10:12||
+Picasso: 2-H,Q-D,K-D
+Picasso now has: BUST
+[22]
+Dealer:6-D,9-S(15)
+Dealer Hits, Pulled: J-C (BUST)
+Picasso hand 1 loses
+Leaderboard: Updated all data on usersException in thread Thread-351:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 101, in _handleAskingQuestion
+    self.message = self.waitForMessage()
+  File "/home/blackjack/src/Blackjack/server.py", line 125, in waitForMessage
+    return self.s.recv(2048).decode()
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-350:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 87, in askQuestion
+    raise Exception("Error: No user response (timeout)")
+Exception: Error: No user response (timeout)
+Exception in thread Thread-369:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 101, in _handleAskingQuestion
+    self.message = self.waitForMessage()
+  File "/home/blackjack/src/Blackjack/server.py", line 125, in waitForMessage
+    return self.s.recv(2048).decode()
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-368:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 87, in askQuestion
+    raise Exception("Error: No user response (timeout)")
+Exception: Error: No user response (timeout)
+Exception in thread Thread-378:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 88, in userMessage
+    msg = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-410:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 311, in __signUserIn
+    new_client.sendMessage("Start||complete")
+  File "/home/blackjack/src/Blackjack/server.py", line 122, in sendMessage
+    self.s.send((msg+"**").encode())
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+Leaderboard: Calculated all data...
+980 credits available
+
+Table||Dealer:K-H||Picasso:8-C,10-D:10:18||
+Dealer:K-H,2-H(12)
+Dealer Hits, Pulled: 4-C (16)
+Dealer Hits, Pulled: 4-D (20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+970 credits available
+
+Table||Dealer:2-C||Picasso:Q-H,5-S:30:15||
+Dealer:2-C,5-D(7)
+Dealer Hits, Pulled: A-H (8|18)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+940 credits available
+
+Table||Dealer:7-D||Picasso:J-C,5-D:10:15||
+Picasso: J-C,5-D,K-H
+Picasso now has: BUST
+[25]
+Dealer:7-D,10-S(17)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+930 credits available
+
+Table||Dealer:K-D||Picasso:3-S,10-H:10:13||
+Picasso: 3-S,10-H,K-H
+Picasso now has: BUST
+[23]
+Dealer:K-D,7-H(17)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+920 credits available
+
+Table||Dealer:K-C||Picasso:7-S,8-C:10:15||
+Picasso: 7-S,8-C,3-S
+Picasso now has: 18
+[18]
+Dealer:K-C,10-D(20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+910 credits available
+
+Table||Dealer:2-D||Picasso:A-D,J-C:10:BLACKJACK||
+Dealer:2-D,4-H(6)
+Dealer Hits, Pulled: 4-S (10)
+Dealer Hits, Pulled: 3-D (13)
+Dealer Hits, Pulled: 2-C (15)
+Dealer Hits, Pulled: K-S (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+915 credits available
+
+Table||Dealer:5-H||Picasso:6-C,J-S:10:16||
+Dealer:5-H,9-D(14)
+Dealer Hits, Pulled: 4-H (18)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+905 credits available
+
+Table||Dealer:J-D||Picasso:3-C,7-D:10:10||
+Picasso: 3-C,7-D,Q-C
+Picasso now has: 20
+[20]
+Dealer:J-D,6-D(16)
+Dealer Hits, Pulled: 9-H (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+915 credits available
+
+Table||Dealer:3-C||Picasso:9-S,A-D:10:10|20||
+Dealer:3-C,7-S(10)
+Dealer Hits, Pulled: A-H (11|21)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+905 credits available
+
+Table||Dealer:10-H||Picasso:Q-C,10-C:100:20||
+Dealer:10-H,6-H(16)
+Dealer Hits, Pulled: 10-C (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1005 credits available
+
+Table||Dealer:8-H||Picasso:5-C,6-S:10:11||
+Picasso: 5-C,6-S,8-S
+Picasso now has: 19
+[19]
+Dealer:8-H,Q-C(18)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1025 credits available
+Removing: Picasso
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.221', 65451)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 65452)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'imzfitUBPrWNomI', '']
+Server has connections
+Detected New Users
+Name: user 1  IP: ('137.112.208.221', 65452)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+335 credits available
+
+Table||Dealer:10-D||user 1:3-S,Q-S:10:13||
+Dealer has blackjack
+325 credits available
+Removing: user 1
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.221', 65469)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 65470)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'rvYoUBhgRUnqpCg', '']
+Server has connections
+Detected New Users
+Name: user 1  IP: ('137.112.208.221', 65470)
+user 1 response timeout
+['timeout']
+user 1 was not ready
+Coult not send quit to: user 1
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.221', 65495)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 65496)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'hxlhTnebiGHgyAK', '']
+Server has connections
+Detected New Users
+Name: user 1  IP: ('137.112.208.221', 65496)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+325 credits available
+
+Table||Dealer:5-D||user 1:J-D,9-C:5:19||
+Dealer:5-D,8-S(13)
+Dealer Hits, Pulled: 3-D (16)
+Dealer Hits, Pulled: A-D (17)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+330 credits available
+Removing: user 1
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.221', 65525)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 65526)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'jXVOFqUEUyPErAs', '']
+Server has connections
+Detected New Users
+Name: user 1  IP: ('137.112.208.221', 65526)
+user 1 response timeout
+['timeout']
+user 1 was not ready
+Coult not send quit to: user 1
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.204.217', 56678)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.204.217', 56679)
+Sign in info: ['Info', 'Ham', '1013', 'sign in', 'qqEGkbrvrEPNcnH', '']
+Server has connections
+Detected New Users
+Name: Ham  IP: ('137.112.204.217', 56679)
+Leaderboard: User connected with address: ('137.112.204.217', 56681)
+Leaderboard: User connected to feed: qqEGkbrvrEPNcnH
+Leaderboard: Send data on 22 users to: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.204.217', 56681)>
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+390 credits available
+
+Table||Dealer:10-D||Ham:3-D,7-D:5:10||
+Ham: 3-D,7-D,J-C
+Ham now has: 20
+[20]
+Dealer:10-D,10-H(20)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+390 credits available
+
+Table||Dealer:Q-H||Ham:9-H,A-D:10:10|20||
+Dealer:Q-H,K-S(20)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+390 credits available
+
+Table||Dealer:2-D||Ham:6-D,4-H:10:10||
+Ham: 6-D,4-H,2-C
+Ham now has: 12
+[12]
+Dealer:2-D,K-C(12)
+Dealer Hits, Pulled: 9-D (3 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+370 credits available
+
+Table||Dealer:6-D||Ham:4-D,2-C:2:6||
+Ham: 4-D,2-C,10-H
+Ham now has: 16
+[16]
+Dealer:6-D,3-S(9)
+Dealer Hits, Pulled: 6-D (15)
+Dealer Hits, Pulled: A-C (16)
+Dealer Hits, Pulled: 7-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+372 credits available
+
+Table||Dealer:4-C||Ham:8-S,3-H:10:11||
+Ham: 8-S,3-H,A-S
+Ham now has: 12
+[12]
+Dealer:4-C,A-S(5|15)
+Dealer Hits, Pulled: 6-S (11|21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+352 credits available
+
+Table||Dealer:2-D||Ham:5-D,3-S:10:8||
+Ham: 5-D,3-S,J-H
+Ham now has: 18
+[18]
+Dealer:2-D,3-H(5)
+Auth Server: User connected with: ('137.112.208.221', 49358)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 49359)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'mSYAqdOoJsCNBnl', '']
+Dealer Hits, Pulled: J-H (15)
+Dealer Hits, Pulled: J-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+Added user 'user 1' to the active game
+362 credits available
+[Errno 32] Broken pipe
+(Surpressed)
+Detected dropped client by exception: user 1
+Removing: user 1
+Couldn't quit: user 1
+Couldn't remove: user 1
+
+Table||Dealer:Q-H||Ham:6-H,Q-H:10:16||
+Ham: 6-H,Q-H,9-H
+Ham now has: BUST
+[25]
+Dealer:Q-H,8-D(18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+352 credits available
+
+Table||Dealer:2-S||Ham:8-C,3-H:10:11||Exception in thread Thread-434:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 311, in __signUserIn
+    new_client.sendMessage("Start||complete")
+  File "/home/blackjack/src/Blackjack/server.py", line 122, in sendMessage
+    self.s.send((msg+"**").encode())
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-466:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 88, in userMessage
+    msg = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+Ham: 8-C,3-H,5-H
+Ham now has: 16
+[16]
+Dealer:2-S,7-C(9)
+Dealer Hits, Pulled: 4-D (13)
+Dealer Hits, Pulled: A-S (14)
+Dealer Hits, Pulled: J-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+372 credits available
+
+Table||Dealer:10-H||Ham:K-C,6-C:20:16||
+Ham: K-C,6-C,7-C
+Ham now has: BUST
+[23]
+Dealer:10-H,7-S(17)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+352 credits available
+
+Table||Dealer:J-D||Ham:6-S,6-C:20:12||
+Ham: 6-S,6-C,10-D
+Ham now has: BUST
+[22]
+Dealer:J-D,4-D(14)
+Dealer Hits, Pulled: 10-S (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+332 credits available
+
+Table||Dealer:10-C||Ham:3-C,9-S:30:12||
+Ham: 3-C,9-S,9-S
+Ham now has: 3 card 21
+[21]
+Dealer:10-C,K-D(20)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+362 credits available
+Auth Server: User connected with: ('137.112.208.221', 49371)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 49372)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'FCgSNQYBZjsvarN', '']
+
+Table||Dealer:2-H||Ham:4-D,Q-D:25:14||
+Dealer:2-H,4-H(6)
+Dealer Hits, Pulled: 3-C (9)
+Dealer Hits, Pulled: 5-H (14)
+Dealer Hits, Pulled: 10-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+Added user 'user 1' to the active game
+387 credits available
+[Errno 32] Broken pipe
+(Surpressed)
+Detected dropped client by exception: user 1
+Removing: user 1
+Couldn't quit: user 1
+Couldn't remove: user 1
+
+Table||Dealer:K-H||Ham:9-S,Q-C:100:19||
+Dealer:K-H,K-H(20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+287 credits available
+Auth Server: User connected with: ('137.112.208.221', 49383)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 49384)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'zVtgvqYxUBhgwGU', '']
+
+Table||Dealer:7-H||Ham:8-S,3-H:75:11||
+Ham: 8-S,3-H,4-C
+Ham now has: 15
+[15]
+Dealer:7-H,9-D(16)
+Dealer Hits, Pulled: 7-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+Added user 'user 1' to the active game
+437 credits available
+330 credits available
+
+Table||Dealer:K-S||Ham:5-C,10-C:50:15||user 1:9-C,3-D:10:12||
+Ham: 5-C,10-C,A-D
+Ham now has: 16
+[16]
+Ham: 5-C,10-C,A-D,6-H
+Ham now has: BUST
+[22]
+user 1: 9-C,3-D,9-C
+user 1 now has: 3 card 21
+[21]
+Dealer:K-S,Q-C(20)
+Ham hand 1 loses
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+387 credits available
+350 credits available
+
+Table||Dealer:2-C||Ham:5-C,5-H:20:10||user 1:J-D,2-S:10:12||
+Ham: 5-C,5-H,3-C
+Ham now has: 13
+[13]
+Leaderboard: User connected with address: ('137.112.208.221', 49400)
+Leaderboard: User connected to feed: zVtgvqYxUBhgwGU
+Leaderboard: Send data on 22 users to: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.208.221', 49400)>
+Chat: Connected with ('137.112.208.221', 49401)
+Chat: User connected with: user 1
+Chat: Connected with ('137.112.204.217', 56837)
+Chat: User connected with: Ham
+Dealer:2-C,5-C(7)
+Dealer Hits, Pulled: 3-D (10)
+Dealer Hits, Pulled: A-C (11|21)
+Ham hand 1 loses
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+347 credits available
+340 credits available
+
+Table||Dealer:10-H||Ham:J-S,Q-S:20:20||user 1:4-C,9-S:10:13||
+Dealer has blackjack
+327 credits available
+330 credits available
+
+Table||Dealer:Q-D||Ham:5-H,A-H:10:6|16||user 1:5-S,A-D:10:6|16||
+Ham: 5-H,A-H,8-H
+Ham now has: 14
+[14]
+Ham: 5-H,A-H,8-H,2-H
+Ham now has: 16
+[16]
+user 1: 5-S,A-D,5-S
+user 1 now has: 11|21
+[11, 21]
+Dealer:Q-D,7-D(17)
+Ham hand 1 loses
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+317 credits available
+340 credits available
+
+Table||Dealer:8-C||Ham:Q-C,J-H:10:20||user 1:9-C,4-S:10:13||
+user 1: 9-C,4-S,A-H
+user 1 now has: 14
+[14]
+user 1: 9-C,4-S,A-H,10-C
+user 1 now has: BUST
+[24]
+Dealer:8-C,4-H(12)
+Dealer Hits, Pulled: 6-C (18)
+Ham hand 1 wins
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+327 credits available
+330 credits available
+
+Table||Dealer:4-S||Ham:3-D,A-H:20:4|14||user 1:8-S,K-S:10:18||
+Ham: 3-D,A-H,7-C
+Ham now has: 11|21
+[11, 21]
+Dealer:4-S,2-D(6)
+Dealer Hits, Pulled: 2-S (8)
+Dealer Hits, Pulled: J-C (18)
+Ham hand 1 wins
+user 1 hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+347 credits available
+330 credits available
+
+Table||Dealer:6-C||Ham:4-S,7-C:20:11||user 1:9-D,Q-S:10:19||
+Ham: 4-S,7-C,K-D
+Ham now has: 3 card 21
+[21]
+Dealer:6-C,3-S(9)
+Dealer Hits, Pulled: 10-C (19)
+Ham hand 1 wins
+user 1 hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+387 credits available
+330 credits available
+Removing: user 1
+
+Table||Dealer:8-D||Ham:4-H,Q-S:20:14||
+Ham: 4-H,Q-S,Q-D
+Ham now has: BUST
+[24]
+Dealer:8-D,A-C(9|19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+367 credits available
+
+Table||Dealer:10-D||Ham:5-D,10-D:20:15||
+Ham: 5-D,10-D,5-D
+Ham now has: 20
+[20]
+Dealer:10-D,9-H(19)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+387 credits available
+
+Table||Dealer:Q-H||Ham:A-C,K-D:10:BLACKJACK||
+Dealer:Q-H,9-D(19)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+392 credits available
+
+Table||Dealer:5-S||Ham:8-C,7-H:20:15||
+Dealer:5-S,10-S(15)
+Dealer Hits, Pulled: 8-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+412 credits available
+
+Table||Dealer:K-C||Ham:6-H,J-S:15:16||
+Ham: 6-H,J-S,2-S
+Ham now has: 18
+[18]
+Dealer:K-C,5-S(15)
+Dealer Hits, Pulled: 9-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+427 credits available
+
+Table||Dealer:8-H||Ham:J-S,6-S:20:16||
+Ham: J-S,6-S,2-H
+Ham now has: 18
+[18]
+Dealer:8-H,7-D(15)
+Dealer Hits, Pulled: K-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+447 credits available
+Chat: user 1 chat error, removing...\s[Errno 104] Connection reset by peer
+
+Table||Dealer:K-C||Ham:4-S,6-H:40:10||
+Ham: 4-S,6-H,2-C
+Ham now has: 12
+[12]
+Ham: 4-S,6-H,2-C,3-S
+Ham now has: 15
+[15]
+Ham: 4-S,6-H,2-C,3-S,Q-C
+Ham now has: BUST
+[25]
+Dealer:K-C,Q-S(20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+407 credits available
+
+Table||Dealer:4-C||Ham:8-D,Q-D:40:18||
+Dealer:4-C,7-D(11)
+Dealer Hits, Pulled: K-D (3 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+367 credits available
+
+Table||Dealer:7-H||Ham:A-S,7-S:20:8|18||
+Dealer:7-H,8-H(15)
+Dealer Hits, Pulled: 8-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+387 credits available
+
+Table||Dealer:8-H||Ham:10-S,2-H:20:12||
+Ham: 10-S,2-H,3-C
+Ham now has: 15
+[15]
+Ham: 10-S,2-H,3-C,A-D
+Ham now has: 16
+[16]
+Dealer:8-H,2-D(10)
+Dealer Hits, Pulled: K-H (20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+367 credits available
+Removing: Ham
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Chat: Connected with ('137.112.208.221', 49936)
+Chat: No user with matching ID
+Chat: Connected with ('137.112.208.221', 49950)
+Chat: No user with matching ID
+Chat: Connected with ('137.112.208.221', 49995)
+Chat: No user with matching ID
+Chat: Connected with ('137.112.208.221', 50069)
+Chat: No user with matching ID
+Chat: Connected with ('137.112.208.221', 50076)
+Chat: No user with matching ID
+Chat: Connected with ('137.112.208.221', 50120)
+Chat: No user with matching ID
+Chat: Connected with ('137.112.208.221', 50129)
+Chat: No user with matching ID
+Chat: Connected with ('137.112.208.221', 50143)
+Chat: No user with matching ID
+Chat: Connected with ('137.112.208.221', 50178)
+Chat: No user with matching ID
+Chat: Connected with ('137.112.208.221', 50226)
+Chat: No user with matching ID
+Chat: Connected with ('137.112.208.221', 50241)
+Chat: No user with matching ID
+Chat: Connected with ('137.112.208.221', 50260)
+Chat: No user with matching ID
+Chat: Connected with ('137.112.208.221', 50269)
+Chat: No user with matching ID
+Chat: Connected with ('137.112.208.221', 50303)
+Chat: No user with matching ID
+Chat: Connected with ('137.112.208.221', 50312)
+Chat: No user with matching ID
+Auth Server: User connected with: ('137.112.208.221', 50588)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 50589)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'FFiNbVkLYlGwbnG', '']
+Server has connections
+Detected New Users
+Name: user 1  IP: ('137.112.208.221', 50589)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+330 credits available
+
+Table||Dealer:2-D||user 1:J-D,Q-S:10:20||
+Dealer:2-D,2-S(4)
+Dealer Hits, Pulled: 7-S (11)
+Dealer Hits, Pulled: A-S (12)
+Dealer Hits, Pulled: K-D (BUST)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+340 credits available
+Removing: user 1
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.221', 50618)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 50619)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'iXlQHsYglRGKayq', '']
+Server has connections
+Detected New Users
+Name: user 1  IP: ('137.112.208.221', 50619)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+340 credits available
+
+Table||Dealer:5-H||user 1:K-D,A-C:10:BLACKJACK||
+Dealer:5-H,2-H(7)
+Dealer Hits, Pulled: 5-C (12)
+Dealer Hits, Pulled: J-H (BUST)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+345 credits available
+
+Table||Dealer:J-S||user 1:10-S,K-D:10:20||
+Dealer:J-S,7-D(17)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+355 credits available
+
+Table||Dealer:6-C||user 1:4-S,K-S:10:14||
+user 1: 4-S,K-S,A-D
+user 1 now has: 15
+[15]
+Dealer:6-C,K-C(16)
+Dealer Hits, Pulled: 2-S (18)
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+345 credits available
+Removing: user 1
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.221', 50697)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 50698)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'VDRjnyfuXgYEqrC', '']
+Server has connections
+Detected New Users
+Name: user 1  IP: ('137.112.208.221', 50698)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+345 credits available
+
+Table||Dealer:7-D||user 1:Q-H,J-C:10:20||
+Dealer:7-D,2-S(9)
+Dealer Hits, Pulled: 5-D (14)
+Dealer Hits, Pulled: K-S (BUST)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+355 credits available
+
+Table||Dealer:A-D||user 1:J-D,5-D:10:15||
+user 1: J-D,5-D,J-S
+user 1 now has: BUST
+[25]
+Dealer:A-D,8-H(9|19)
+user 1 hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+345 credits available
+Removing: user 1
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.221', 50841)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 50842)
+Sign in info: ['Info', 'user 1', '1234', 'sign in', 'tUdHMdbBwFqmsAN', '']
+Server has connections
+Detected New Users
+Name: user 1  IP: ('137.112.208.221', 50842)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+345 credits available
+
+Table||Dealer:J-C||user 1:8-D,4-D:10:12||
+user 1: 8-D,4-D,2-D
+user 1 now has: 14
+[14]
+user 1: 8-D,4-D,2-D,6-H
+user 1 now has: 20
+[20]
+Dealer:J-C,7-S(17)
+user 1 hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+355 credits available
+Removing: user 1
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.208.221', 50985)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.208.221', 50986)
+Sign in info: ['Info', 'Picasso', '679158', 'sign in', 'YCmbjUEiHYqRCWa', '']
+Server has connections
+Detected New Users
+Name: Picasso  IP: ('137.112.208.221', 50986)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+1025 credits available
+
+Table||Dealer:8-H||Picasso:Q-H,8-S:10:18||
+Dealer:8-H,7-C(15)
+Dealer Hits, Pulled: 2-D (17)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1035 credits available
+
+Table||Dealer:5-S||Picasso:6-D,7-H:10:13||
+Dealer:5-S,4-H(9)
+Dealer Hits, Pulled: 7-D (16)
+Dealer Hits, Pulled: 2-S (18)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1025 credits available
+
+Table||Dealer:A-H||Picasso:2-C,2-D:10:4||
+Dealer has blackjack
+1015 credits available
+
+Table||Dealer:6-H||Picasso:Q-H,7-D:10:17||
+Dealer:6-H,2-H(8)
+Dealer Hits, Pulled: A-S (9|19)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1005 credits available
+
+Table||Dealer:6-S||Picasso:7-S,7-C:10:14||
+Hand Split.
+Original Hand now: 7-S,3-H (10)
+Second Hand is: 7-C,9-C (16)
+[10]
+[16]
+Picasso: 7-S,3-H,7-S
+Picasso now has: 17
+[17]
+[16]
+Picasso: 7-C,9-C,J-S
+Picasso now has: BUST
+[17]
+[26]
+Dealer:6-S,4-C(10)
+Dealer Hits, Pulled: K-S (20)
+Picasso hand 1 loses
+Picasso hand 2 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+985 credits available
+
+Table||Dealer:2-C||Picasso:4-D,10-C:10:14||
+Dealer:2-C,J-H(12)
+Dealer Hits, Pulled: A-D (13)
+Dealer Hits, Pulled: Q-S (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+995 credits available
+
+Table||Dealer:10-H||Picasso:6-S,10-H:10:16||
+Picasso: 6-S,10-H,7-C
+Picasso now has: BUST
+[23]
+Dealer:10-H,K-D(20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+985 credits available
+
+Table||Dealer:9-H||Picasso:K-H,3-S:10:13||
+Picasso: K-H,3-S,6-S
+Picasso now has: 19
+[19]
+Dealer:9-H,9-D(18)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+995 credits available
+
+Table||Dealer:6-C||Picasso:6-C,5-H:10:11||
+Picasso: 6-C,5-H,3-D
+Picasso now has: 14
+[14]
+Dealer:6-C,Q-S(16)
+Dealer Hits, Pulled: Q-C (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1015 credits available
+
+Table||Dealer:A-H||Picasso:A-D,3-S:10:4|14||
+Picasso: A-D,3-S,4-C
+Picasso now has: 8|18
+[8, 18]
+Dealer:A-H,2-C(3|13)
+Dealer Hits, Pulled: 9-C (12)
+Dealer Hits, Pulled: A-H (13)
+Dealer Hits, Pulled: K-C (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1025 credits available
+
+Table||Dealer:3-S||Picasso:7-H,Q-C:10:17||
+Dealer:3-S,Q-H(13)
+Dealer Hits, Pulled: A-C (14)
+Dealer Hits, Pulled: 9-C (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1035 credits available
+
+Table||Dealer:8-C||Picasso:8-H,10-D:10:18||
+Dealer:8-C,8-S(16)
+Dealer Hits, Pulled: 3-H (19)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1025 credits available
+
+Table||Dealer:J-S||Picasso:2-S,10-S:10:12||
+Picasso: 2-S,10-S,3-D
+Picasso now has: 15
+[15]
+Picasso: 2-S,10-S,3-D,9-H
+Picasso now has: BUST
+[24]
+Dealer:J-S,2-H(12)
+Dealer Hits, Pulled: K-S (BUST)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1015 credits available
+
+Table||Dealer:Q-D||Picasso:5-H,8-H:10:13||
+Picasso: 5-H,8-H,A-C
+Picasso now has: 14
+[14]
+Picasso: 5-H,8-H,A-C,6-D
+Picasso now has: 20
+[20]
+Dealer:Q-D,J-D(20)
+Picasso hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1015 credits available
+
+Table||Dealer:7-H||Picasso:3-C,4-H:10:7||
+Picasso: 3-C,4-H,2-S
+Picasso now has: 9
+[9]
+Picasso: 3-C,4-H,2-S,Q-C
+Picasso now has: 19
+[19]
+Dealer:7-H,K-D(17)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1025 credits available
+
+Table||Dealer:4-D||Picasso:J-D,5-C:10:15||
+Dealer:4-D,K-H(14)
+Dealer Hits, Pulled: K-C (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1035 credits available
+
+Table||Dealer:2-H||Picasso:3-H,K-H:10:13||
+Dealer:2-H,J-C(12)
+Dealer Hits, Pulled: 8-D (20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1025 credits available
+
+Table||Dealer:K-C||Picasso:8-C,2-S:10:10||
+Picasso: 8-C,2-S,6-H
+Picasso now has: 16
+[16]
+Picasso: 8-C,2-S,6-H,9-H
+Picasso now has: BUST
+[25]
+Dealer:K-C,6-C(16)
+Dealer Hits, Pulled: 7-C (BUST)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1015 credits available
+
+Table||Dealer:5-H||Picasso:A-S,3-C:10:4|14||
+Picasso: A-S,3-C,7-S
+Picasso now has: 11|21
+[11, 21]
+Dealer:5-H,3-S(8)
+Dealer Hits, Pulled: 10-S (18)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1025 credits available
+
+Table||Dealer:4-H||Picasso:4-C,9-D:10:13||
+Dealer:4-H,7-H(11)
+Dealer Hits, Pulled: J-H (3 card 21)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1015 credits available
+
+Table||Dealer:10-C||Picasso:A-D,4-S:10:5|15||
+Picasso: A-D,4-S,4-S
+Picasso now has: 9|19
+[9, 19]
+Dealer:10-C,5-D(15)
+Dealer Hits, Pulled: 5-S (20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1005 credits available
+
+Table||Dealer:10-S||Picasso:Q-S,4-H:10:14||
+Picasso: Q-S,4-H,A-D
+Picasso now has: 15
+[15]
+Picasso: Q-S,4-H,A-D,Q-D
+Picasso now has: BUST
+[25]
+Dealer:10-S,K-C(20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+995 credits available
+
+Table||Dealer:5-S||Picasso:K-D,10-H:10:20||
+Hand Split.
+Original Hand now: K-D,3-C (13)
+Second Hand is: 10-H,4-D (14)
+[13]
+[14]
+Picasso: K-D,3-C,8-S
+Picasso now has: 3 card 21
+[21]
+[14]
+Dealer:5-S,3-C(8)
+Dealer Hits, Pulled: Q-S (18)
+Picasso hand 1 wins
+Picasso hand 2 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+995 credits available
+
+Table||Dealer:A-H||Picasso:J-S,10-H:10:20||
+Dealer has blackjack
+985 credits available
+
+Table||Dealer:J-C||Picasso:9-S,8-S:10:17||
+Dealer:J-C,J-C(20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+975 credits available
+
+Table||Dealer:8-C||Picasso:5-D,A-C:10:6|16||
+Picasso: 5-D,A-C,2-D
+Picasso now has: 8|18
+[8, 18]
+Dealer:8-C,3-D(11)
+Dealer Hits, Pulled: J-C (3 card 21)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+965 credits available
+
+Table||Dealer:A-S||Picasso:9-S,7-D:10:16||
+Dealer has blackjack
+955 credits available
+
+Table||Dealer:A-S||Picasso:J-D,10-D:10:20||
+Dealer:A-S,3-H(4|14)
+Dealer Hits, Pulled: K-D (14)
+Dealer Hits, Pulled: 9-D (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+965 credits available
+
+Table||Dealer:8-D||Picasso:5-C,2-C:10:7||
+Picasso: 5-C,2-C,6-H
+Picasso now has: 13
+[13]
+Picasso: 5-C,2-C,6-H,2-H
+Picasso now has: 15
+[15]
+Picasso: 5-C,2-C,6-H,2-H,Q-D
+Picasso now has: BUST
+[25]
+Dealer:8-D,Q-H(18)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+955 credits available
+
+Table||Dealer:5-H||Picasso:6-D,8-H:50:14||
+Dealer:5-H,10-C(15)
+Dealer Hits, Pulled: 10-S (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1005 credits available
+
+Table||Dealer:K-S||Picasso:4-S,5-C:10:9||
+Picasso: 4-S,5-C,J-S
+Picasso now has: 19
+[19]
+Dealer:K-S,6-D(16)
+Dealer Hits, Pulled: A-C (17)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1015 credits available
+
+Table||Dealer:9-S||Picasso:6-H,9-S:10:15||
+Picasso: 6-H,9-S,4-D
+Picasso now has: 19
+[19]
+Dealer:9-S,Q-D(19)
+Picasso hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1015 credits available
+
+Table||Dealer:8-D||Picasso:Q-C,9-D:10:19||
+Dealer:8-D,3-D(11)
+Dealer Hits, Pulled: 6-C (17)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1025 credits available
+
+Table||Dealer:7-S||Picasso:5-C,6-S:10:11||
+Picasso: 5-C,6-S,4-C
+Picasso now has: 15
+[15]
+Dealer:7-S,9-H(16)
+Dealer Hits, Pulled: 10-D (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1045 credits available
+
+Table||Dealer:5-D||Picasso:J-H,10-D:10:20||
+Hand Split.
+Original Hand now: J-H,J-H (20)
+Second Hand is: 10-D,K-S (20)
+[20]
+[20]
+Dealer:5-D,5-D(10)
+Dealer Hits, Pulled: 5-S (15)
+Dealer Hits, Pulled: 8-C (BUST)
+Picasso hand 1 wins
+Picasso hand 2 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1065 credits available
+
+STACK OUT: RESHUFFLING
+
+Creating stack with: 4 decks
+
+Table||Dealer:Q-D||Picasso:2-H,9-S:10:11||
+Picasso: 2-H,9-S,Q-D
+Picasso now has: 3 card 21
+[21]
+Dealer:Q-D,2-S(12)
+Dealer Hits, Pulled: K-D (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1085 credits available
+
+Table||Dealer:10-D||Picasso:A-D,10-D:10:BLACKJACK||
+Dealer:10-D,7-D(17)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1090 credits available
+
+Table||Dealer:7-C||Picasso:K-S,6-C:10:16||
+Dealer:7-C,5-S(12)
+Dealer Hits, Pulled: 10-D (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1100 credits available
+Leaderboard: User connected with address: ('137.112.208.221', 51157)
+Leaderboard: User connected to feed: YCmbjUEiHYqRCWa
+Leaderboard: Send data on 22 users to: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.208.221', 51157)>
+Leaderboard: Send data on 22 users to: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.208.221', 51157)>
+Leaderboard: Send data on 22 users to: <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.208.221', 51157)>
+
+Table||Dealer:2-H||Picasso:10-H,2-C:10:12||
+Picasso: 10-H,2-C,6-D
+Picasso now has: 18
+[18]
+Dealer:2-H,8-H(10)
+Dealer Hits, Pulled: K-H (20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1090 credits available
+
+Table||Dealer:4-C||Picasso:4-S,K-S:10:14||
+Dealer:4-C,8-H(12)
+Dealer Hits, Pulled: 5-D (17)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1080 credits available
+
+Table||Dealer:6-D||Picasso:Q-D,A-S:10:BLACKJACK||
+Dealer:6-D,4-S(10)
+Dealer Hits, Pulled: A-H (11|21)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1085 credits available
+
+Table||Dealer:5-C||Picasso:2-C,7-H:10:9||
+Picasso: 2-C,7-H,3-S
+Picasso now has: 12
+[12]
+Picasso: 2-C,7-H,3-S,J-H
+Picasso now has: BUST
+[22]
+Dealer:5-C,10-S(15)
+Dealer Hits, Pulled: K-C (BUST)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1075 credits available
+
+Table||Dealer:8-S||Picasso:K-C,Q-S:10:20||
+Dealer:8-S,2-S(10)
+Dealer Hits, Pulled: 3-S (13)
+Dealer Hits, Pulled: A-H (14)
+Dealer Hits, Pulled: 10-C (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1085 credits available
+
+Table||Dealer:4-C||Picasso:5-D,9-S:10:14||
+Dealer:4-C,6-S(10)
+Dealer Hits, Pulled: 9-S (19)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1075 credits available
+
+Table||Dealer:4-D||Picasso:7-C,5-H:10:12||Exception in thread Thread-968:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 210, in __signUserIn
+    info = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+
+Dealer:4-D,2-C(6)
+Dealer Hits, Pulled: 3-C (9)
+Dealer Hits, Pulled: 7-H (16)
+Dealer Hits, Pulled: A-D (17)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1065 credits available
+
+Table||Dealer:6-H||Picasso:8-D,3-C:10:11||
+Picasso: 8-D,3-C,7-C
+Picasso now has: 18
+[18]
+Dealer:6-H,Q-C(16)
+Dealer Hits, Pulled: 8-S (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1085 credits available
+
+Table||Dealer:6-S||Picasso:4-C,K-S:10:14||
+Picasso: 4-C,K-S,7-H
+Picasso now has: 3 card 21
+[21]
+Dealer:6-S,10-D(16)
+Dealer Hits, Pulled: 3-C (19)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1095 credits available
+
+Table||Dealer:2-S||Picasso:5-H,8-D:10:13||
+Dealer:2-S,7-D(9)
+Dealer Hits, Pulled: A-D (10|20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1085 credits available
+
+Table||Dealer:3-S||Picasso:2-S,8-H:10:10||
+Picasso: 2-S,8-H,3-H
+Picasso now has: 13
+[13]
+Dealer:3-S,A-H(4|14)
+Dealer Hits, Pulled: 2-H (6|16)
+Dealer Hits, Pulled: 9-S (15)
+Dealer Hits, Pulled: 9-C (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1105 credits available
+
+Table||Dealer:9-C||Picasso:10-H,8-C:10:18||
+Dealer:9-C,7-D(16)
+Dealer Hits, Pulled: A-D (17)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1115 credits available
+
+Table||Dealer:2-D||Picasso:A-S,8-C:10:9|19||
+Dealer:2-D,A-C(3|13)
+Dealer Hits, Pulled: 4-D (7|17)
+Dealer Hits, Pulled: 6-D (13)
+Dealer Hits, Pulled: 4-H (17)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1125 credits available
+
+Table||Dealer:Q-H||Picasso:5-H,7-S:10:12||
+Picasso: 5-H,7-S,6-C
+Picasso now has: 18
+[18]
+Dealer:Q-H,6-S(16)
+Dealer Hits, Pulled: 8-H (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1135 credits available
+
+Table||Dealer:J-H||Picasso:J-S,4-C:10:14||
+Picasso: J-S,4-C,7-S
+Picasso now has: 3 card 21
+[21]
+Dealer:J-H,4-D(14)
+Dealer Hits, Pulled: 9-H (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1145 credits available
+
+Table||Dealer:7-S||Picasso:5-C,J-D:10:15||
+Picasso: 5-C,J-D,8-S
+Picasso now has: BUST
+[23]
+Dealer:7-S,5-C(12)
+Dealer Hits, Pulled: 10-H (BUST)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1135 credits available
+
+Table||Dealer:6-H||Picasso:J-S,10-S:10:20||
+Hand Split.
+Original Hand now: J-S,K-H (20)
+Second Hand is: 10-S,8-C (18)
+[20]
+[18]
+Dealer:6-H,4-S(10)
+Dealer Hits, Pulled: 10-H (20)
+Picasso hand 1 push
+Picasso hand 2 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1125 credits available
+
+Table||Dealer:4-H||Picasso:Q-D,J-H:10:20||
+Hand Split.
+Original Hand now: Q-D,A-S (BLACKJACK)
+Second Hand is: J-H,3-H (13)
+[11, 21]
+[13]
+Dealer:4-H,J-C(14)
+Dealer Hits, Pulled: Q-H (BUST)
+Picasso hand 1 wins
+Picasso hand 2 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1140 credits available
+
+Table||Dealer:Q-S||Picasso:5-S,7-H:10:12||
+Picasso: 5-S,7-H,6-C
+Picasso now has: 18
+[18]
+Dealer:Q-S,6-H(16)
+Dealer Hits, Pulled: Q-C (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1150 credits available
+
+Table||Dealer:5-C||Picasso:9-D,5-D:10:14||
+Dealer:5-C,Q-S(15)
+Dealer Hits, Pulled: 7-S (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1160 credits available
+
+Table||Dealer:K-C||Picasso:J-C,J-C:10:20||
+Dealer:K-C,Q-H(20)
+Picasso hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1160 credits available
+
+Table||Dealer:J-H||Picasso:5-D,Q-H:10:15||
+Picasso: 5-D,Q-H,10-S
+Picasso now has: BUST
+[25]
+Dealer:J-H,2-D(12)
+Dealer Hits, Pulled: 3-S (15)
+Dealer Hits, Pulled: 6-H (4 card 21)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1150 credits available
+
+Table||Dealer:A-S||Picasso:7-D,J-S:10:17||
+Dealer:A-S,8-D(9|19)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1140 credits available
+
+Table||Dealer:3-D||Picasso:9-H,5-S:10:14||
+Dealer:3-D,2-D(5)
+Dealer Hits, Pulled: 5-H (10)
+Dealer Hits, Pulled: K-D (20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1130 credits available
+
+Table||Dealer:8-D||Picasso:8-C,J-S:10:18||
+Dealer:8-D,6-S(14)
+Dealer Hits, Pulled: 10-C (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1140 credits available
+
+Table||Dealer:3-H||Picasso:J-D,2-D:10:12||
+Dealer:3-H,7-C(10)
+Dealer Hits, Pulled: 3-D (13)
+Dealer Hits, Pulled: A-C (14)
+Dealer Hits, Pulled: 9-D (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1150 credits available
+Removing: Picasso
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+User connected with address: ('91.191.209.206', 64944)
+User connected with address: ('205.210.31.59', 64690)
+Client gave invalid sign in packet
+Auth Server: User connected with: ('71.64.199.65', 51437)
+Auth Server: Client cleared for play
+User connected with address: ('71.64.199.65', 51438)
+Sign in info: ['Info', 'edward', '4444', 'create account', 'qBCexnkXgbCqlAW', '']
+Server has connections
+Detected New Users
+Name: edward  IP: ('71.64.199.65', 51438)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+1000 credits available
+
+Table||Dealer:9-C||edward:J-D,Q-S:5:20||
+Dealer:9-C,6-S(15)
+Dealer Hits, Pulled: J-H (BUST)
+edward hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1005 credits available
+
+Table||Dealer:A-C||edward:J-C,A-C:50:BLACKJACK||
+Dealer has blackjack
+1005 credits available
+
+Table||Dealer:A-H||edward:4-C,6-S:50:10||
+edward: 4-C,6-S,6-C
+edward now has: 16
+[16]
+edward: 4-C,6-S,6-C,5-H
+edward now has: 4 card 21
+[21]
+Dealer:A-H,6-D(7|17)
+Dealer Hits, Pulled: J-D (17)
+edward hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1055 credits available
+Auth Server: User connected with: ('71.64.199.65', 54039)
+Auth Server: Client cleared for play
+User connected with address: ('71.64.199.65', 54040)
+Sign in info: ['Info', 'Picasso', '679158', 'sign in', 'ISgjKLZBcelKyMp', '']
+
+Table||Dealer:Q-C||edward:A-D,6-C:25:7|17||
+edward: A-D,6-C,6-H
+edward now has: 13
+[13]
+edward: A-D,6-C,6-H,4-C
+edward now has: 17
+[17]
+Dealer:Q-C,2-C(12)
+Dealer Hits, Pulled: K-S (BUST)
+edward hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+Added user 'Picasso' to the active game
+1080 credits available
+1150 credits available
+
+Table||Dealer:9-D||edward:4-C,J-C:20:14||Picasso:K-H,8-D:10:18||
+edward: 4-C,J-C,9-D
+edward now has: BUST
+[23]
+Dealer:9-D,2-S(11)
+Dealer Hits, Pulled: 9-D (20)
+edward hand 1 loses
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1060 credits available
+1140 credits available
+
+Table||Dealer:3-C||edward:8-D,8-S:20:16||Picasso:3-H,2-H:10:5||
+edward: 8-D,8-S,5-D
+edward now has: 3 card 21
+[21]
+Picasso: 3-H,2-H,A-S
+Picasso now has: 6|16
+[6, 16]
+Dealer:3-C,8-D(11)
+Dealer Hits, Pulled: 8-C (19)
+edward hand 1 wins
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1080 credits available
+1130 credits available
+
+Table||Dealer:A-D||edward:2-H,4-S:20:6||Picasso:6-C,Q-C:10:16||
+Dealer has blackjack
+1060 credits available
+1120 credits available
+
+Table||Dealer:10-C||edward:2-D,Q-H:20:12||Picasso:3-D,A-D:10:4|14||
+edward: 2-D,Q-H,K-S
+edward now has: BUST
+[22]
+Picasso: 3-D,A-D,J-S
+Picasso now has: 14
+[14]
+Picasso: 3-D,A-D,J-S,2-H
+Picasso now has: 16
+[16]
+Picasso: 3-D,A-D,J-S,2-H,K-C
+Picasso now has: BUST
+[26]
+Dealer:10-C,9-C(19)
+edward hand 1 loses
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...Exception in thread Thread-1161:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 88, in userMessage
+    msg = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1236:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 210, in __signUserIn
+    info = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+
+1040 credits available
+1110 credits available
+
+Table||Dealer:Q-D||edward:9-C,A-C:20:10|20||Picasso:2-C,3-C:10:5||
+edward: 9-C,A-C,8-D
+edward now has: 18
+[18]
+Move not allowed
+Picasso: 2-C,3-C,7-S
+Picasso now has: 12
+[12]
+Picasso: 2-C,3-C,7-S,4-C
+Picasso now has: 16
+[16]
+Picasso: 2-C,3-C,7-S,4-C,9-H
+Picasso now has: BUST
+[25]
+Dealer:Q-D,8-H(18)
+edward hand 1 push
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1040 credits available
+1100 credits available
+
+Table||Dealer:5-D||edward:5-H,5-S:20:10||Picasso:J-S,K-C:10:20||
+edward: 5-H,5-S,A-S
+edward now has: 11|21
+[11, 21]
+Hand Split.
+Original Hand now: J-S,7-S (17)
+Second Hand is: K-C,Q-D (20)
+[17]
+[20]
+Dealer:5-D,3-C(8)
+Dealer Hits, Pulled: 7-D (15)
+Dealer Hits, Pulled: 8-S (BUST)
+edward hand 1 wins
+Picasso hand 1 wins
+Picasso hand 2 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1060 credits available
+1120 credits available
+
+Table||Dealer:9-H||edward:3-S,3-S:20:6||Picasso:7-D,6-H:10:13||
+edward: 3-S,3-S,Q-H
+edward now has: 16
+[16]
+edward: 3-S,3-S,Q-H,6-D
+edward now has: BUST
+[22]
+Picasso: 7-D,6-H,3-D
+Picasso now has: 16
+[16]
+Dealer:9-H,10-S(19)
+edward hand 1 loses
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1040 credits available
+1100 credits available
+
+Table||Dealer:6-S||edward:J-H,6-S:20:16||Picasso:3-H,K-S:10:13||
+Picasso: 3-H,K-S,7-H
+Picasso now has: 20
+[20]
+Dealer:6-S,K-D(16)
+Dealer Hits, Pulled: J-S (BUST)
+edward hand 1 wins
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1060 credits available
+1110 credits available
+
+Table||Dealer:A-H||edward:A-H,10-H:20:BLACKJACK||Picasso:7-C,4-H:10:11||
+Dealer has blackjack
+1060 credits available
+1100 credits available
+
+Table||Dealer:K-D||edward:A-S,K-C:20:BLACKJACK||Picasso:9-S,6-D:10:15||
+Picasso: 9-S,6-D,4-D
+Picasso now has: 19
+[19]
+Dealer:K-D,5-S(15)
+Dealer Hits, Pulled: K-H (BUST)
+edward hand 1 wins
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1070 credits available
+1110 credits available
+
+Table||Dealer:Q-S||edward:5-H,8-C:20:13||Picasso:A-H,10-S:10:BLACKJACK||
+edward: 5-H,8-C,10-C
+edward now has: BUST
+[23]
+Dealer:Q-S,4-H(14)
+Dealer Hits, Pulled: 8-H (BUST)
+edward hand 1 loses
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1050 credits available
+1115 credits available
+
+Table||Dealer:6-H||edward:8-C,J-D:20:18||Picasso:J-H,4-D:10:14||
+Dealer:6-H,3-H(9)
+Dealer Hits, Pulled: Q-S (19)
+edward hand 1 loses
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1030 credits available
+1105 credits available
+
+Table||Dealer:7-D||edward:K-D,6-H:20:16||Picasso:10-H,5-C:10:15||
+Picasso: 10-H,5-C,Q-D
+Picasso now has: BUST
+[25]
+Dealer:7-D,5-D(12)
+Dealer Hits, Pulled: 2-C (14)
+Dealer Hits, Pulled: 8-S (BUST)
+edward hand 1 wins
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1050 credits available
+1095 credits available
+
+Table||Dealer:4-H||edward:2-D,K-H:10:12||Picasso:Q-S,K-D:10:20||
+edward: 2-D,K-H,8-S
+edward now has: 20
+[20]
+Hand Split.
+Original Hand now: Q-S,2-H (12)
+Second Hand is: K-D,4-S (14)
+[12]
+[14]
+Picasso: Q-S,2-H,7-H
+Picasso now has: 19
+[19]
+[14]
+Dealer:4-H,10-D(14)
+Dealer Hits, Pulled: Q-C (BUST)
+edward hand 1 wins
+Picasso hand 1 wins
+Picasso hand 2 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1060 credits available
+1115 credits available
+
+Table||Dealer:8-H||edward:3-D,10-H:10:13||Picasso:7-H,A-C:10:8|18||
+edward: 3-D,10-H,7-S
+edward now has: 20
+[20]
+Dealer:8-H,7-D(15)
+Dealer Hits, Pulled: Q-H (BUST)
+edward hand 1 wins
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1070 credits available
+1125 credits available
+
+Table||Dealer:5-H||edward:6-D,J-C:10:16||Picasso:9-D,5-D:10:14||
+Dealer:5-H,5-C(10)
+Dealer Hits, Pulled: 10-S (20)
+edward hand 1 loses
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1060 credits available
+1115 credits available
+
+Table||Dealer:4-D||edward:2-S,4-S:10:6||Picasso:3-C,3-S:10:6||
+edward: 2-S,4-S,J-C
+edward now has: 16
+[16]
+Leaderboard: User connected with address: ('71.64.199.65', 51749)
+Leaderboard: User connected to feed: qBCexnkXgbCqlAW
+Leaderboard: Send data on 23 users to: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('71.64.199.65', 51749)>
+Picasso: 3-C,3-S,3-S
+Picasso now has: 9
+[9]
+Picasso: 3-C,3-S,3-S,J-S
+Picasso now has: 19
+[19]
+Dealer:4-D,5-C(9)
+Dealer Hits, Pulled: 7-H (16)
+Dealer Hits, Pulled: 2-D (18)
+edward hand 1 loses
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1050 credits available
+1125 credits available
+
+Table||Dealer:2-S||edward:Q-D,2-S:10:12||Picasso:9-C,10-D:10:19||
+edward: Q-D,2-S,9-S
+edward now has: 3 card 21
+[21]
+Dealer:2-S,2-C(4)
+Dealer Hits, Pulled: Q-C (14)
+Dealer Hits, Pulled: 4-D (18)
+edward hand 1 wins
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1060 credits available
+1135 credits available
+
+Table||Dealer:7-C||edward:7-C,3-D:50:10||Picasso:4-S,10-S:10:14||
+edward: 7-C,3-D,9-H
+edward now has: 19
+[19]
+Picasso: 4-S,10-S,4-H
+Picasso now has: 18
+[18]
+Dealer:7-C,3-H(10)
+Dealer Hits, Pulled: 5-S (15)
+Dealer Hits, Pulled: 9-S (BUST)
+edward hand 1 wins
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1110 credits available
+1145 credits available
+
+Table||Dealer:8-C||edward:9-S,9-H:100:18||Picasso:6-C,10-C:10:16||
+Picasso: 6-C,10-C,K-C
+Picasso now has: BUST
+[26]
+Dealer:8-C,A-D(9|19)
+edward hand 1 loses
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1010 credits available
+1135 credits available
+
+STACK OUT: RESHUFFLING
+
+Creating stack with: 4 decks
+
+Table||Dealer:6-H||edward:2-C,Q-C:100:12||Picasso:J-D,8-D:10:18||
+edward: 2-C,Q-C,K-S
+edward now has: BUST
+[22]
+Dealer:6-H,A-S(7|17)
+Dealer Hits, Pulled: A-S (8|18)
+edward hand 1 loses
+Picasso hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+910 credits available
+1135 credits available
+
+Table||Dealer:A-C||edward:10-C,3-D:100:13||Picasso:Q-C,7-C:10:17||
+edward: 10-C,3-D,J-H
+edward now has: BUST
+[23]
+Dealer:A-C,6-C(7|17)
+Dealer Hits, Pulled: 9-D (16)
+Dealer Hits, Pulled: A-S (17)
+edward hand 1 loses
+Picasso hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+810 credits available
+1135 credits available
+
+Table||Dealer:K-C||edward:10-C,3-S:250:13||Picasso:3-D,10-H:10:13||
+Dealer has blackjack
+560 credits available
+1125 credits available
+
+Table||Dealer:A-H||edward:7-D,5-H:250:12||Picasso:Q-C,6-D:10:16||
+edward: 7-D,5-H,3-H
+edward now has: 15
+[15]
+edward: 7-D,5-H,3-H,10-S
+edward now has: BUST
+[25]
+Picasso: Q-C,6-D,5-S
+Picasso now has: 3 card 21
+[21]
+Dealer:A-H,6-D(7|17)
+Dealer Hits, Pulled: 10-H (17)
+edward hand 1 loses
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+310 credits available
+1135 credits available
+
+Table||Dealer:A-D||edward:3-C,J-C:250:13||Picasso:Q-D,A-D:10:BLACKJACK||
+edward: 3-C,J-C,5-H
+edward now has: 18
+[18]
+Dealer:A-D,4-S(5|15)
+Dealer Hits, Pulled: 5-H (10|20)
+edward hand 1 loses
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+60 credits available
+1140 credits available
+User connected with address: ('91.191.209.202', 65279)
+
+Table||Dealer:8-C||edward:A-H,K-D:60:BLACKJACK||Picasso:3-D,7-C:10:10||
+Picasso: 3-D,7-C,6-H
+Picasso now has: 16
+[16]
+Dealer:8-C,3-S(11)
+Dealer Hits, Pulled: 5-S (16)
+Dealer Hits, Pulled: 4-C (20)
+edward hand 1 wins
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+90 credits available
+1120 credits available
+
+Table||Dealer:4-H||edward:Q-C,8-H:20:18||Picasso:4-S,2-D:10:6||
+edward: Q-C,8-H,9-H
+edward now has: BUST
+[27]
+Picasso: 4-S,2-D,4-D
+Picasso now has: 10Exception in thread Thread-1276:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 88, in userMessage
+    msg = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1280:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 210, in __signUserIn
+    info = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-1282:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 210, in __signUserIn
+    info = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+
+[10]
+Picasso: 4-S,2-D,4-D,9-C
+Picasso now has: 19
+[19]
+Dealer:4-H,8-S(12)
+Dealer Hits, Pulled: 3-S (15)
+Dealer Hits, Pulled: K-S (BUST)
+edward hand 1 loses
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+70 credits available
+1130 credits available
+
+Table||Dealer:A-H||edward:Q-H,6-C:20:16||Picasso:10-H,4-S:10:14||
+edward: Q-H,6-C,10-D
+edward now has: BUST
+[26]
+[Errno 104] Connection reset by peer
+(Surpressed)
+Picasso: 10-H,4-S,2-H
+Picasso now has: 16
+[16]
+[Errno 32] Broken pipe
+(Surpressed)
+[Errno 32] Broken pipe
+(Surpressed)
+Picasso: 10-H,4-S,2-H,9-C
+Picasso now has: BUST
+[25]
+[Errno 32] Broken pipe
+(Surpressed)
+Dealer:A-H,9-S(10|20)
+[Errno 32] Broken pipe
+(Surpressed)
+edward hand 1 loses
+Detected dropped client by exception: edward
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1120 credits available
+
+Table||Dealer:7-H||Picasso:K-C,A-S:10:BLACKJACK||
+Dealer:7-H,4-D(11)
+Dealer Hits, Pulled: 10-D (3 card 21)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1125 credits available
+Removing: Picasso
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.198.239', 62206)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.198.239', 62207)
+Sign in info: ['Info', 'Rinka', '696969', 'sign in', 'AAxxxbWnwdwKGYf', '']
+Server has connections
+Detected New Users
+Name: Rinka  IP: ('137.112.198.239', 62207)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+8600 credits available
+
+Table||Dealer:6-C||Rinka:7-C,A-S:10:8|18||
+Dealer:6-C,2-D(8)
+Dealer Hits, Pulled: 2-D (10)
+Dealer Hits, Pulled: 6-S (16)
+Dealer Hits, Pulled: 7-D (BUST)
+Rinka hand 1 wins
+Leaderboard: User connected with address: ('137.112.198.239', 62215)
+Leaderboard: User connected to feed: AAxxxbWnwdwKGYf
+Leaderboard: Send data on 23 users to: <socket.socket fd=16, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.198.239', 62215)>
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8610 credits available
+Removing: Rinka
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+User connected with address: ('147.185.132.49', 57818)
+Client gave invalid sign in packet
+User connected with address: ('91.191.209.206', 65365)
+User connected with address: ('13.91.177.99', 59780)
+Client gave invalid sign in packet
+User connected with address: ('91.191.209.202', 2584)
+User connected with address: ('198.235.24.49', 57558)
+Client gave invalid sign in packet
+Auth Server: User connected with: ('137.112.209.88', 52970)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.209.88', 52971)
+Sign in info: ['Info', 'edward', '4444', 'sign in', 'CocLIqJqqOOBbol', '']
+Server has connections
+Detected New Users
+Name: edward  IP: ('137.112.209.88', 52971)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+50 credits available
+
+Table||Dealer:A-D||edward:6-S,4-C:10:10||
+edward: 6-S,4-C,J-D
+edward now has: 20
+[20]
+Dealer:A-D,2-H(3|13)
+Dealer Hits, Pulled: 3-C (6|16)
+Dealer Hits, Pulled: 2-D (8|18)
+edward hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+60 credits available
+
+Table||Dealer:2-C||edward:10-D,6-C:10:16||
+Dealer:2-C,5-S(7)
+Dealer Hits, Pulled: K-H (17)
+edward hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+50 credits available
+
+Table||Dealer:Q-H||edward:K-C,6-H:10:16||
+edward: K-C,6-H,K-S
+edward now has: BUST
+[26]
+Dealer:Q-H,5-D(15)
+Dealer Hits, Pulled: J-H (BUST)
+edward hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+40 credits available
+
+Table||Dealer:5-C||edward:7-C,10-S:10:17||
+Dealer:5-C,4-D(9)
+Dealer Hits, Pulled: 4-D (13)
+Dealer Hits, Pulled: 8-H (4 card 21)
+edward hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+30 credits available
+
+Table||Dealer:A-D||edward:3-S,10-H:10:13||
+Dealer has blackjack
+20 credits available
+
+Table||Dealer:6-H||edward:4-S,3-S:10:7||
+edward: 4-S,3-S,7-S
+edward now has: 14
+[14]
+edward: 4-S,3-S,7-S,9-H
+edward now has: BUST
+[23]
+Dealer:6-H,4-S(10)
+Dealer Hits, Pulled: K-S (20)
+edward hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+10 credits available
+
+Table||Dealer:Q-D||edward:Q-D,K-D:10:20||
+Dealer:Q-D,2-H(12)
+Dealer Hits, Pulled: Q-C (BUST)
+edward hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+20 credits available
+
+Table||Dealer:A-C||edward:9-D,10-D:10:19||
+Dealer:A-C,7-H(8|18)
+edward hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+30 credits available
+
+Table||Dealer:7-D||edward:8-D,3-H:10:11||
+edward: 8-D,3-H,10-H
+edward now has: 3 card 21
+[21]
+Dealer:7-D,9-C(16)
+Dealer Hits, Pulled: Q-S (BUST)
+edward hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+40 credits available
+
+Table||Dealer:10-C||edward:Q-C,7-H:10:17||
+Dealer:10-C,9-D(19)
+edward hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+30 credits available
+
+Table||Dealer:Q-D||edward:9-C,2-H:10:11||
+edward: 9-C,2-H,10-S
+edward now has: 3 card 21
+[21]
+Dealer:Q-D,4-H(14)
+Dealer Hits, Pulled: K-D (BUST)
+edward hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+40 credits available
+
+Table||Dealer:2-H||edward:J-C,J-C:10:20||
+Dealer:2-H,7-S(9)
+Dealer Hits, Pulled: 3-C (12)
+Dealer Hits, Pulled: J-S (BUST)
+edward hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+50 credits available
+
+Table||Dealer:Q-C||edward:K-S,6-D:10:16||
+edward: K-S,6-D,6-C
+edward now has: BUST
+[22]
+Dealer:Q-C,Q-D(20)
+edward hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+40 credits available
+
+Table||Dealer:A-S||edward:Q-S,10-C:10:20||
+Dealer has blackjack
+30 credits available
+
+Table||Dealer:4-S||edward:4-D,2-S:10:6||
+edward: 4-D,2-S,6-D
+edward now has: 12
+[12]
+edward: 4-D,2-S,6-D,J-C
+edward now has: BUST
+[22]
+Dealer:4-S,9-D(13)
+Dealer Hits, Pulled: 3-H (16)
+Dealer Hits, Pulled: 6-S (BUST)
+edward hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+20 credits available
+
+Table||Dealer:8-C||edward:8-H,4-C:10:12||
+edward: 8-H,4-C,Q-C
+edward now has: BUST
+[22]
+Dealer:8-C,8-D(16)
+Dealer Hits, Pulled: 5-C (3 card 21)
+edward hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+10 credits available
+
+Table||Dealer:9-H||edward:A-S,3-H:10:4|14||
+edward: A-S,3-H,A-C
+edward now has: 5|15
+[5, 15]
+edward: A-S,3-H,A-C,6-C
+edward now has: 11|21
+[11, 21]
+edward: A-S,3-H,A-C,6-C,8-H
+edward now has: 19
+[19]
+Dealer:9-H,J-D(19)
+edward hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+10 credits available
+
+Table||Dealer:7-D||edward:J-D,9-H:10:19||
+Dealer:7-D,2-C(9)
+Dealer Hits, Pulled: 6-H (15)
+Dealer Hits, Pulled: 10-S (BUST)
+edward hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+20 credits available
+
+Table||Dealer:4-H||edward:10-H,4-D:20:14||
+Dealer:4-H,3-C(7)
+Dealer Hits, Pulled: 9-C (16)
+Dealer Hits, Pulled: 10-D (BUST)
+edward hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+40 credits available
+
+Table||Dealer:10-C||edward:3-S,A-H:40:4|14||
+edward: 3-S,A-H,2-C
+edward now has: 6|16
+[6, 16]
+edward: 3-S,A-H,2-C,7-H
+edward now has: 13
+[13]
+edward: 3-S,A-H,2-C,7-H,9-S
+edward now has: BUST
+[22]
+Dealer:10-C,6-C(16)
+Dealer Hits, Pulled: 10-H (BUST)
+edward hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+0 credits available
+edward is broke, removing from game...
+Removing: edward
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.209.23', 59060)
+Exception in thread Thread-1435:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 88, in userMessage
+    msg = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1442:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1443:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1463:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 88, in userMessage
+    msg = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Auth Server: Client cleared for play
+User connected with address: ('137.112.209.23', 59061)
+Sign in info: ['Info', 'Picasso', '679158', 'sign in', 'cSmLYQiyRnxTBbJ', '']
+Server has connections
+Detected New Users
+Name: Picasso  IP: ('137.112.209.23', 59061)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+1125 credits available
+
+Table||Dealer:6-D||Picasso:K-S,9-H:10:19||
+Dealer:6-D,A-D(7|17)
+Dealer Hits, Pulled: 7-S (14)
+Dealer Hits, Pulled: K-C (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1135 credits available
+
+Table||Dealer:6-S||Picasso:Q-D,8-C:10:18||
+Dealer:6-S,10-C(16)
+Dealer Hits, Pulled: 9-C (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1145 credits available
+
+Table||Dealer:10-C||Picasso:K-S,8-H:10:18||
+Dealer:10-C,3-H(13)
+Dealer Hits, Pulled: 7-S (20)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1135 credits available
+
+Table||Dealer:6-D||Picasso:J-H,8-H:10:18||
+Dealer:6-D,8-C(14)
+Dealer Hits, Pulled: 9-S (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1145 credits available
+
+Table||Dealer:10-C||Picasso:4-D,4-D:10:8||
+Picasso: 4-D,4-D,K-H
+Picasso now has: 18
+[18]
+Dealer:10-C,7-C(17)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1155 credits available
+
+Table||Dealer:2-D||Picasso:4-S,2-D:10:6||
+Picasso: 4-S,2-D,2-H
+Picasso now has: 8
+[8]
+Picasso: 4-S,2-D,2-H,6-D
+Picasso now has: 14
+[14]
+Dealer:2-D,9-D(11)
+Dealer Hits, Pulled: K-H (3 card 21)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1145 credits available
+
+Table||Dealer:8-S||Picasso:5-S,K-D:10:15||
+Picasso: 5-S,K-D,3-S
+Picasso now has: 18
+[18]
+Dealer:8-S,3-H(11)
+Dealer Hits, Pulled: K-D (3 card 21)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1135 credits available
+
+Table||Dealer:2-S||Picasso:8-C,4-C:10:12||
+Dealer:2-S,K-C(12)
+Dealer Hits, Pulled: J-C (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1145 credits available
+
+Table||Dealer:10-H||Picasso:Q-H,J-D:10:20||
+Dealer:10-H,J-D(20)
+Picasso hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1145 credits available
+Leaderboard: User connected with address: ('137.112.209.23', 55139)
+Leaderboard: User connected to feed: cSmLYQiyRnxTBbJ
+Leaderboard: Send data on 23 users to: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.209.23', 55139)>
+Leaderboard: Send data on 23 users to: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.209.23', 55139)>
+
+Table||Dealer:J-H||Picasso:9-H,3-C:10:12||
+Picasso: 9-H,3-C,3-H
+Picasso now has: 15
+[15]
+Picasso: 9-H,3-C,3-H,J-S
+Picasso now has: BUST
+[25]
+Dealer:J-H,7-D(17)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1135 credits available
+Removing: Picasso
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Leaderboard: User connected with address: ('167.94.145.109', 59138)
+Leaderboard: User connected with address: ('167.94.145.109', 59320)
+Auth Server: User connected with: ('137.112.209.23', 60533)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.209.23', 60534)
+Sign in info: ['Info', 'Picasso', '679158', 'sign in', 'gTbIHuDudJQcDZk', '']
+Server has connections
+Detected New Users
+Name: Picasso  IP: ('137.112.209.23', 60534)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+1135 credits available
+
+Table||Dealer:10-S||Picasso:8-S,K-H:10:18||
+Dealer:10-S,2-C(12)
+Dealer Hits, Pulled: 10-H (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1145 credits available
+Removing: Picasso
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.207.159', 50877)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.207.159', 50878)
+Sign in info: ['Info', 'Ham', '1013', 'sign in', 'ZaODGDDMNBXgRrt', '']
+Server has connections
+Detected New Users
+Name: Ham  IP: ('137.112.207.159', 50878)
+Leaderboard: User connected with address: ('137.112.207.159', 50881)
+Leaderboard: User connected to feed: ZaODGDDMNBXgRrt
+Leaderboard: Send data on 23 users to: <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.207.159', 50881)>
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+367 credits available
+
+Table||Dealer:5-D||Ham:J-S,10-D:5:20||
+Dealer:5-D,6-S(11)
+Dealer Hits, Pulled: K-C (3 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+362 credits available
+
+Table||Dealer:A-S||Ham:J-H,10-C:5:20||
+Dealer:A-S,3-C(4|14)
+Dealer Hits, Pulled: 9-D (13)
+Dealer Hits, Pulled: 2-H (15)
+Dealer Hits, Pulled: 9-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+367 credits available
+
+Table||Dealer:8-S||Ham:4-D,5-D:5:9||
+Ham: 4-D,5-D,2-C
+Ham now has: 11
+[11]
+Ham: 4-D,5-D,2-C,10-H
+Ham now has: 4 card 21
+[21]
+Dealer:8-S,9-H(17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+372 credits available
+
+Table||Dealer:Q-H||Ham:7-C,J-C:10:17||
+Dealer:Q-H,9-C(19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+362 credits available
+
+Table||Dealer:6-H||Ham:K-S,5-D:10:15||
+Dealer:6-H,K-S(16)
+Dealer Hits, Pulled: J-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+372 credits available
+
+Table||Dealer:10-D||Ham:5-D,A-S:10:6|16||
+Ham: 5-D,A-S,Q-S
+Ham now has: 16
+[16]
+Ham: 5-D,A-S,Q-S,8-H
+Ham now has: BUST
+[24]
+Dealer:10-D,7-D(17)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+362 credits available
+
+Table||Dealer:K-D||Ham:Q-D,8-H:10:18||
+Dealer:K-D,5-S(15)
+Dealer Hits, Pulled: 7-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+372 credits available
+
+Table||Dealer:A-S||Ham:K-H,10-C:10:20||
+Dealer has blackjack
+362 credits available
+
+Table||Dealer:5-C||Ham:8-D,4-D:10:12||
+Dealer:5-C,J-D(15)
+Dealer Hits, Pulled: J-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+372 credits available
+
+Table||Dealer:8-S||Ham:8-C,2-C:20:10||
+Ham: 8-C,2-C,4-C
+Ham now has: 14
+[14]
+Ham: 8-C,2-C,4-C,3-H
+Ham now has: 17
+[17]
+Dealer:8-S,Q-H(18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+352 credits available
+
+Table||Dealer:7-D||Ham:K-C,10-C:20:20||
+Dealer:7-D,3-C(10)
+Dealer Hits, Pulled: 10-H (20)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+352 credits available
+
+Table||Dealer:3-C||Ham:J-H,Q-H:20:20||
+Dealer:3-C,4-S(7)
+Dealer Hits, Pulled: K-D (17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+372 credits available
+
+Table||Dealer:2-S||Ham:K-C,5-H:10:15||
+Dealer:2-S,A-H(3|13)
+Dealer Hits, Pulled: 7-H (10|20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+362 credits available
+
+Table||Dealer:7-S||Ham:K-S,10-S:10:20||
+Dealer:7-S,3-D(10)
+Dealer Hits, Pulled: 8-C (18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+372 credits available
+
+Table||Dealer:3-C||Ham:8-D,4-H:10:12||
+Dealer:3-C,8-C(11)
+Dealer Hits, Pulled: 10-H (3 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+362 credits available
+
+Table||Dealer:Q-S||Ham:2-S,9-S:10:11||
+Ham: 2-S,9-S,9-H
+Ham now has: 20
+[20]
+Dealer:Q-S,5-H(15)
+Dealer Hits, Pulled: 9-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+382 credits available
+
+Table||Dealer:6-C||Ham:3-S,K-D:20:13||
+Dealer:6-C,7-D(13)
+Dealer Hits, Pulled: Q-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+402 credits available
+
+Table||Dealer:3-S||Ham:9-H,10-S:10:19||
+Dealer:3-S,K-C(13)
+Dealer Hits, Pulled: 2-S (15)
+Dealer Hits, Pulled: A-C (16)
+Dealer Hits, Pulled: 8-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+412 credits available
+
+Table||Dealer:A-C||Ham:J-D,K-H:30:20||
+Dealer:A-C,5-H(6|16)
+Dealer Hits, Pulled: Q-C (16)
+Dealer Hits, Pulled: J-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+442 credits available
+
+Table||Dealer:A-S||Ham:3-D,10-S:10:13||
+Ham: 3-D,10-S,5-S
+Ham now has: 18
+[18]
+Dealer:A-S,7-S(8|18)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+442 credits available
+
+Table||Dealer:10-D||Ham:2-C,6-C:10:8||
+Ham: 2-C,6-C,3-H
+Ham now has: 11
+[11]
+Ham: 2-C,6-C,3-H,5-C
+Ham now has: 16
+[16]
+Ham: 2-C,6-C,3-H,5-C,6-S
+Ham now has: BUST
+[22]
+Dealer:10-D,6-H(16)
+Dealer Hits, Pulled: K-S (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+432 credits available
+
+Table||Dealer:10-C||Ham:Q-D,5-H:10:15||
+Ham: Q-D,5-H,4-C
+Ham now has: 19
+[19]
+Dealer:10-C,Q-S(20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+422 credits available
+
+Table||Dealer:2-H||Ham:A-H,3-D:10:4|14||
+Ham: A-H,3-D,4-S
+Ham now has: 8|18
+[8, 18]
+Dealer:2-H,Q-C(12)
+Dealer Hits, Pulled: 2-D (14)
+Dealer Hits, Pulled: 8-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+432 credits available
+
+Table||Dealer:6-D||Ham:2-H,9-S:40:11||
+Ham: 2-H,9-S,6-S
+Ham now has: 17
+[17]
+Dealer:6-D,10-S(16)
+Dealer Hits, Pulled: 7-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+512 credits available
+
+Table||Dealer:5-C||Ham:A-D,2-D:10:3|13||
+Ham: A-D,2-D,J-C
+Ham now has: 13
+[13]
+Dealer:5-C,7-C(12)
+Dealer Hits, Pulled: 9-H (3 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+502 credits available
+
+Table||Dealer:7-H||Ham:8-H,8-S:10:16||
+Hand Split.
+Original Hand now: 8-H,3-H (11)
+Second Hand is: 8-S,5-S (13)
+[11]
+[13]
+Ham: 8-H,3-H,7-C
+Ham now has: 18
+[18]
+[13]
+Ham: 8-S,5-S,4-H
+Ham now has: 17
+[18]
+[17]
+Dealer:7-H,4-C(11)
+Dealer Hits, Pulled: 7-H (18)
+Ham hand 1 push
+Ham hand 2 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+492 credits available
+
+Table||Dealer:3-D||Ham:9-S,Q-C:10:19||
+Dealer:3-D,9-C(12)
+Dealer Hits, Pulled: J-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+502 credits available
+
+Table||Dealer:A-D||Ham:7-D,2-H:10:9||
+Ham: 7-D,2-H,6-H
+Ham now has: 15
+[15]
+Ham: 7-D,2-H,6-H,9-C
+Ham now has: BUST
+[24]
+Dealer:A-D,A-H(2|12)
+Dealer Hits, Pulled: 8-D (10|20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+492 credits available
+
+Table||Dealer:2-S||Ham:10-H,6-H:10:16||
+Dealer:2-S,K-H(12)
+Dealer Hits, Pulled: J-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+502 credits available
+
+Table||Dealer:J-S||Ham:A-D,4-S:10:5|15||
+Ham: A-D,4-S,6-S
+Ham now has: 11|21
+[11, 21]
+Dealer:J-S,8-H(18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+512 credits available
+
+Table||Dealer:4-D||Ham:J-S,2-D:20:12||
+Dealer:4-D,6-D(10)
+Dealer Hits, Pulled: 6-C (16)
+Dealer Hits, Pulled: 2-C (18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+492 credits available
+
+Table||Dealer:9-D||Ham:4-S,Q-D:20:14||
+Ham: 4-S,Q-D,5-S
+Ham now has: 19
+[19]
+Dealer:9-D,A-D(10|20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+472 credits available
+
+Table||Dealer:6-D||Ham:K-H,9-D:20:19||
+Dealer:6-D,A-C(7|17)
+Dealer Hits, Pulled: A-C (8|18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+492 credits available
+
+Table||Dealer:3-S||Ham:8-C,4-C:10:12||
+Dealer:3-S,4-H(7)
+Dealer Hits, Pulled: 10-D (17)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+482 credits available
+
+Table||Dealer:K-D||Ham:7-S,6-C:10:13||
+Dealer has blackjack
+472 credits available
+
+Table||Dealer:J-H||Ham:7-S,5-C:10:12||
+Ham: 7-S,5-C,6-D
+Ham now has: 18
+[18]
+Dealer:J-H,2-D(12)
+Dealer Hits, Pulled: Q-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+482 credits available
+
+STACK OUT: RESHUFFLING
+
+Creating stack with: 4 decks
+
+Table||Dealer:9-D||Ham:K-H,A-C:10:BLACKJACK||
+Dealer:9-D,7-D(16)
+Dealer Hits, Pulled: J-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+487 credits available
+
+Table||Dealer:10-D||Ham:3-D,3-C:10:6||
+Hand Split.
+Original Hand now: 3-D,4-H (7)
+Second Hand is: 3-C,7-S (10)
+[7]
+[10]
+Ham: 3-D,4-H,A-C
+Ham now has: 8|18
+[8, 18]
+[10]
+Ham: 3-C,7-S,K-S
+Ham now has: 20
+[8, 18]
+[20]
+Dealer:10-D,7-C(17)
+Ham hand 1 wins
+Ham hand 2 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+507 credits available
+
+Table||Dealer:3-D||Ham:3-C,K-D:10:13||
+Dealer:3-D,9-D(12)
+Dealer Hits, Pulled: 3-H (15)
+Dealer Hits, Pulled: 7-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+517 credits available
+
+Table||Dealer:3-H||Ham:A-D,2-D:10:3|13||
+Ham: A-D,2-D,J-H
+Ham now has: 13
+[13]
+Dealer:3-H,8-S(11)
+Dealer Hits, Pulled: 5-C (16)
+Dealer Hits, Pulled: 7-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+527 credits available
+
+Table||Dealer:A-H||Ham:6-C,8-H:20:14||
+Ham: 6-C,8-H,3-S
+Ham now has: 17
+[17]
+Dealer:A-H,8-H(9|19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+507 credits available
+
+Table||Dealer:8-S||Ham:10-C,Q-S:10:20||
+Dealer:8-S,4-C(12)
+Dealer Hits, Pulled: 10-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+517 credits available
+
+Table||Dealer:10-D||Ham:9-C,4-C:10:13||
+Ham: 9-C,4-C,Q-H
+Ham now has: BUST
+[23]
+Dealer:10-D,Q-S(20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+507 credits available
+
+Table||Dealer:A-C||Ham:J-S,2-D:10:12||
+Ham: J-S,2-D,10-S
+Ham now has: BUST
+[22]
+Dealer:A-C,4-D(5|15)
+Dealer Hits, Pulled: Q-H (15)
+Dealer Hits, Pulled: A-S (16)
+Dealer Hits, Pulled: 3-S (19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+497 credits available
+
+Table||Dealer:5-D||Ham:9-S,6-S:30:15||
+Dealer:5-D,Q-S(15)
+Dealer Hits, Pulled: Q-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+527 credits available
+
+Table||Dealer:Q-D||Ham:2-S,4-C:10:6||
+Ham: 2-S,4-C,6-S
+Ham now has: 12
+[12]
+Ham: 2-S,4-C,6-S,3-H
+Ham now has: 15
+[15]
+Ham: 2-S,4-C,6-S,3-H,Q-C
+Ham now has: BUST
+[25]
+Dealer:Q-D,7-H(17)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+517 credits available
+
+Table||Dealer:J-D||Ham:8-D,Q-H:50:18||
+Dealer:J-D,7-D(17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+567 credits available
+
+Table||Dealer:3-D||Ham:5-H,10-S:20:15||
+Dealer:3-D,9-D(12)
+Dealer Hits, Pulled: 2-C (14)
+Dealer Hits, Pulled: Q-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+587 credits available
+
+Table||Dealer:3-S||Ham:2-S,7-D:10:9||
+Ham: 2-S,7-D,2-D
+Ham now has: 11
+[11]
+Dealer:3-S,10-C(13)
+Dealer Hits, Pulled: 8-D (3 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+567 credits available
+
+Table||Dealer:8-S||Ham:A-D,7-H:10:8|18||
+Dealer:8-S,8-C(16)
+Dealer Hits, Pulled: J-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+577 credits available
+
+Table||Dealer:2-H||Ham:J-D,K-S:10:20||
+Hand Split.
+Original Hand now: J-D,J-S (20)
+Second Hand is: K-S,5-H (15)
+[20]
+[15]
+Hand Split.
+Original Hand now: J-D,10-H (20)
+Second Hand is: J-S,A-S (BLACKJACK)
+[20]
+[15]
+[11, 21]
+Hand Split.
+Original Hand now: J-D,8-H (18)
+Second Hand is: 10-H,6-C (16)
+[18]
+[15]
+[11, 21]
+[16]
+Dealer:2-H,9-C(11)
+Dealer Hits, Pulled: K-D (3 card 21)
+Ham hand 1 loses
+Ham hand 2 loses
+Ham hand 3 wins
+Ham hand 4 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+552 credits available
+
+Table||Dealer:K-C||Ham:K-H,6-D:10:16||
+Dealer:K-C,2-C(12)
+Dealer Hits, Pulled: J-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+562 credits available
+
+Table||Dealer:K-C||Ham:K-S,5-S:10:15||
+Ham: K-S,5-S,5-S
+Ham now has: 20
+[20]
+Dealer:K-C,7-D(17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+572 credits available
+
+Table||Dealer:6-D||Ham:5-S,9-S:10:14||
+Dealer:6-D,6-D(12)
+Dealer Hits, Pulled: 6-H (18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+562 credits available
+
+Table||Dealer:4-C||Ham:5-C,5-D:10:10||
+Ham: 5-C,5-D,2-S
+Ham now has: 12
+[12]
+Dealer:4-C,J-C(14)
+Dealer Hits, Pulled: 2-H (16)
+Dealer Hits, Pulled: A-H (17)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+542 credits available
+
+Table||Dealer:K-D||Ham:Q-H,10-S:10:20||
+Dealer:K-D,K-D(20)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+542 credits available
+
+Table||Dealer:5-C||Ham:10-H,A-D:10:BLACKJACK||
+Dealer:5-C,J-C(15)
+Dealer Hits, Pulled: 2-C (17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+547 credits available
+
+Table||Dealer:3-C||Ham:K-H,10-C:20:20||
+Dealer:3-C,7-S(10)
+Dealer Hits, Pulled: 2-H (12)
+Dealer Hits, Pulled: 5-D (17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+567 credits available
+
+Table||Dealer:10-H||Ham:Q-C,Q-D:20:20||
+Dealer:10-H,8-C(18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+587 credits available
+
+Table||Dealer:A-C||Ham:4-H,9-D:10:13||
+Dealer has blackjack
+577 credits available
+
+Table||Dealer:10-S||Ham:8-D,A-S:10:9|19||
+Dealer:10-S,4-S(14)
+Dealer Hits, Pulled: 8-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+587 credits available
+
+Table||Dealer:7-C||Ham:8-H,7-C:20:15||
+Ham: 8-H,7-C,Q-D
+Ham now has: BUST
+[25]
+Dealer:7-C,3-S(10)
+Dealer Hits, Pulled: 7-H (17)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+567 credits available
+
+Table||Dealer:4-H||Ham:4-S,6-C:20:10||
+Ham: 4-S,6-C,9-S
+Ham now has: 19
+[19]
+Dealer:4-H,6-H(10)
+Dealer Hits, Pulled: 5-H (15)
+Dealer Hits, Pulled: 4-D (19)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+567 credits available
+
+Table||Dealer:6-S||Ham:K-C,4-S:10:14||
+Dealer:6-S,3-C(9)
+Dealer Hits, Pulled: J-D (19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+557 credits available
+
+Table||Dealer:7-C||Ham:4-S,4-H:10:8||
+Ham: 4-S,4-H,9-H
+Ham now has: 17
+[17]
+Dealer:7-C,K-S(17)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+557 credits available
+
+Table||Dealer:7-S||Ham:8-C,5-D:10:13||
+Ham: 8-C,5-D,10-H
+Ham now has: BUST
+[23]
+Dealer:7-S,8-C(15)
+Dealer Hits, Pulled: 3-H (18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+547 credits available
+
+Table||Dealer:2-H||Ham:J-C,9-S:10:19||
+Dealer:2-H,2-D(4)
+Dealer Hits, Pulled: 9-H (13)
+Dealer Hits, Pulled: J-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+557 credits available
+
+Table||Dealer:2-C||Ham:9-H,A-H:10:10|20||
+Dealer:2-C,5-H(7)
+Dealer Hits, Pulled: 6-H (13)
+Dealer Hits, Pulled: 9-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+567 credits available
+
+Table||Dealer:5-C||Ham:5-S,Q-S:10:15||
+Dealer:5-C,2-S(7)
+Dealer Hits, Pulled: K-C (17)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+557 credits available
+
+Table||Dealer:6-C||Ham:K-H,10-C:10:20||
+Dealer:6-C,A-S(7|17)
+Dealer Hits, Pulled: J-S (17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+567 credits available
+
+Table||Dealer:9-C||Ham:A-H,6-D:10:7|17||
+Ham: A-H,6-D,8-D
+Ham now has: 15
+[15]
+Ham: A-H,6-D,8-D,4-D
+Ham now has: 19
+[19]
+Dealer:9-C,4-D(13)
+Dealer Hits, Pulled: 3-D (16)
+Dealer Hits, Pulled: 6-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+577 credits available
+
+STACK OUT: RESHUFFLING
+
+Creating stack with: 4 decks
+
+Table||Dealer:Q-H||Ham:6-S,J-S:10:16||
+Ham: 6-S,J-S,Q-H
+Ham now has: BUST
+[26]
+Dealer:Q-H,5-H(15)
+Dealer Hits, Pulled: 7-D (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+567 credits available
+
+Table||Dealer:3-D||Ham:8-H,J-H:10:18||
+Dealer:3-D,4-D(7)
+Dealer Hits, Pulled: Q-D (17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+577 credits available
+
+Table||Dealer:10-C||Ham:7-H,Q-H:30:17||
+Dealer:10-C,3-C(13)
+Dealer Hits, Pulled: J-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+607 credits available
+
+Table||Dealer:A-S||Ham:10-D,9-C:10:19||
+Dealer has blackjack
+597 credits available
+
+Table||Dealer:6-D||Ham:4-S,2-C:10:6||
+Ham: 4-S,2-C,J-D
+Ham now has: 16
+[16]
+Dealer:6-D,A-C(7|17)
+Dealer Hits, Pulled: J-S (17)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+587 credits available
+
+Table||Dealer:2-D||Ham:2-S,7-S:10:9||
+Ham: 2-S,7-S,5-D
+Ham now has: 14
+[14]
+Dealer:2-D,7-S(9)
+Dealer Hits, Pulled: 5-S (14)
+Dealer Hits, Pulled: 6-C (20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+577 credits available
+
+Table||Dealer:3-D||Ham:3-S,6-H:10:9||
+Ham: 3-S,6-H,9-H
+Ham now has: 18
+[18]
+Dealer:3-D,5-C(8)
+Dealer Hits, Pulled: A-C (9|19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+567 credits available
+
+Table||Dealer:8-S||Ham:8-D,K-S:60:18||
+Dealer:8-S,7-D(15)
+Dealer Hits, Pulled: K-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+627 credits available
+
+Table||Dealer:8-C||Ham:Q-D,J-C:100:20||
+Dealer:8-C,2-C(10)
+Dealer Hits, Pulled: 7-D (17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+727 credits available
+
+Table||Dealer:4-D||Ham:4-H,4-D:50:8||
+Ham: 4-H,4-D,Q-S
+Ham now has: 18
+[18]
+Dealer:4-D,5-H(9)
+Dealer Hits, Pulled: 6-H (15)
+Dealer Hits, Pulled: 10-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+777 credits available
+
+Table||Dealer:A-H||Ham:2-S,K-D:20:12||
+Ham: 2-S,K-D,J-S
+Ham now has: BUST
+[22]
+Dealer:A-H,3-H(4|14)
+Dealer Hits, Pulled: A-S (5|15)
+Dealer Hits, Pulled: J-C (15)
+Dealer Hits, Pulled: 9-S (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+757 credits available
+
+Table||Dealer:3-C||Ham:3-C,Q-C:10:13||
+Dealer:3-C,A-D(4|14)
+Dealer Hits, Pulled: 8-C (12)
+Dealer Hits, Pulled: 9-D (4 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+747 credits available
+
+Table||Dealer:J-D||Ham:5-C,10-D:10:15||
+Ham: 5-C,10-D,Q-D
+Ham now has: BUST
+[25]
+Dealer:J-D,4-S(14)
+Dealer Hits, Pulled: 8-H (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+737 credits available
+
+Table||Dealer:6-C||Ham:7-C,9-C:10:16||
+Dealer:6-C,A-H(7|17)
+Dealer Hits, Pulled: 6-H (13)
+Dealer Hits, Pulled: J-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+747 credits available
+
+Table||Dealer:2-C||Ham:K-C,5-D:10:15||
+Dealer:2-C,A-D(3|13)
+Dealer Hits, Pulled: K-S (13)
+Dealer Hits, Pulled: 2-S (15)
+Dealer Hits, Pulled: 6-S (5 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+737 credits available
+
+Table||Dealer:6-S||Ham:K-D,3-H:20:13||
+Dealer:6-S,3-D(9)
+Dealer Hits, Pulled: 8-S (17)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+717 credits available
+
+Table||Dealer:10-H||Ham:K-C,8-H:20:18||
+Dealer:10-H,Q-D(20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+697 credits available
+
+Table||Dealer:K-D||Ham:5-C,K-H:10:15||
+Ham: 5-C,K-H,10-C
+Ham now has: BUST
+[25]
+Dealer:K-D,7-S(17)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+687 credits available
+
+Table||Dealer:K-H||Ham:J-C,2-D:10:12||
+Dealer has blackjack
+677 credits available
+
+Table||Dealer:4-S||Ham:10-S,Q-S:3:20||
+Dealer:4-S,Q-C(14)
+Dealer Hits, Pulled: 4-H (18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+680 credits available
+
+Table||Dealer:5-S||Ham:2-D,9-S:10:11||
+Ham: 2-D,9-S,7-H
+Ham now has: 18
+[18]
+Dealer:5-S,J-H(15)
+Dealer Hits, Pulled: 9-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+700 credits available
+
+Table||Dealer:9-H||Ham:4-C,7-C:20:11||
+Ham: 4-C,7-C,6-D
+Ham now has: 17
+[17]
+Dealer:9-H,4-H(13)
+Dealer Hits, Pulled: Q-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+740 credits available
+
+Table||Dealer:10-H||Ham:4-C,9-H:10:13||
+Ham: 4-C,9-H,8-D
+Ham now has: 3 card 21
+[21]
+Dealer:10-H,8-C(18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+750 credits available
+
+Table||Dealer:7-H||Ham:5-D,4-S:10:9||
+Ham: 5-D,4-S,9-C
+Ham now has: 18
+[18]
+Dealer:7-H,2-H(9)
+Dealer Hits, Pulled: 2-C (11)
+Dealer Hits, Pulled: J-H (4 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+740 credits available
+
+Table||Dealer:5-H||Ham:2-H,10-C:10:12||
+Dealer:5-H,10-S(15)
+Dealer Hits, Pulled: 5-C (20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+730 credits available
+
+Table||Dealer:3-H||Ham:3-D,7-D:30:10||
+Ham: 3-D,7-D,10-D
+Ham now has: 20
+[20]
+Dealer:3-H,9-S(12)
+Dealer Hits, Pulled: 6-D (18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+790 credits available
+
+Table||Dealer:K-D||Ham:6-C,5-S:10:11||
+Ham: 6-C,5-S,4-C
+Ham now has: 15
+[15]
+Dealer:K-D,3-S(13)
+Dealer Hits, Pulled: A-S (14)
+Dealer Hits, Pulled: J-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+810 credits available
+
+Table||Dealer:9-D||Ham:5-D,A-D:10:6|16||
+Ham: 5-D,A-D,8-C
+Ham now has: 14
+[14]
+Ham: 5-D,A-D,8-C,10-C
+Ham now has: BUST
+[24]
+Dealer:9-D,4-C(13)
+Dealer Hits, Pulled: A-C (14)
+Dealer Hits, Pulled: 9-S (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+800 credits available
+
+Table||Dealer:A-C||Ham:6-H,A-S:10:7|17||
+Ham: 6-H,A-S,2-D
+Ham now has: 9|19
+[9, 19]
+Dealer:A-C,3-C(4|14)
+Dealer Hits, Pulled: 4-D (8|18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+810 credits available
+
+Table||Dealer:9-D||Ham:6-S,8-S:10:14||
+Ham: 6-S,8-S,3-S
+Ham now has: 17
+[17]
+Dealer:9-D,6-D(15)
+Dealer Hits, Pulled: 8-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+820 credits available
+
+Table||Dealer:K-H||Ham:6-C,9-H:10:15||
+Ham: 6-C,9-H,Q-S
+Ham now has: BUST
+[25]
+Dealer:K-H,10-D(20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+810 credits available
+
+Table||Dealer:10-S||Ham:J-D,A-H:10:BLACKJACK||
+Dealer:10-S,K-S(20)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+815 credits available
+
+Table||Dealer:3-H||Ham:10-H,7-C:10:17||
+Dealer:3-H,7-C(10)
+Dealer Hits, Pulled: 3-S (13)
+Dealer Hits, Pulled: Q-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+825 credits available
+
+Table||Dealer:10-S||Ham:8-H,7-H:20:15||
+Ham: 8-H,7-H,5-H
+Ham now has: 20
+[20]
+Dealer:10-S,9-C(19)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+845 credits available
+
+Table||Dealer:2-H||Ham:7-S,K-C:10:17||
+Dealer:2-H,2-H(4)
+Dealer Hits, Pulled: 2-S (6)
+Dealer Hits, Pulled: 8-D (14)
+Dealer Hits, Pulled: K-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+855 credits available
+
+STACK OUT: RESHUFFLING
+
+Creating stack with: 4 decks
+
+Table||Dealer:J-S||Ham:K-D,5-C:5:15||
+Ham: K-D,5-C,7-C
+Ham now has: BUST
+[22]
+Dealer:J-S,K-C(20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+850 credits available
+
+Table||Dealer:A-C||Ham:Q-C,9-S:10:19||
+Dealer:A-C,5-C(6|16)
+Dealer Hits, Pulled: 3-C (9|19)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+850 credits available
+
+Table||Dealer:3-H||Ham:2-C,8-H:10:10||
+Ham: 2-C,8-H,10-C
+Ham now has: 20
+[20]
+Dealer:3-H,J-D(13)
+Dealer Hits, Pulled: 10-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+870 credits available
+
+Table||Dealer:Q-H||Ham:6-D,K-C:10:16||
+Dealer has blackjack
+860 credits available
+
+Table||Dealer:9-H||Ham:Q-S,2-D:10:12||
+Ham: Q-S,2-D,10-H
+Ham now has: BUST
+[22]
+Dealer:9-H,4-S(13)
+Dealer Hits, Pulled: 10-S (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+850 credits available
+
+Table||Dealer:J-S||Ham:6-H,2-H:10:8||
+Ham: 6-H,2-H,10-D
+Ham now has: 18
+[18]
+Dealer:J-S,8-D(18)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+850 credits available
+
+Table||Dealer:5-H||Ham:3-S,9-S:10:12||
+Dealer:5-H,7-C(12)
+Dealer Hits, Pulled: 3-D (15)
+Dealer Hits, Pulled: 9-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+860 credits available
+
+Table||Dealer:6-S||Ham:3-S,7-H:10:10||
+Ham: 3-S,7-H,4-S
+Ham now has: 14
+[14]
+Dealer:6-S,J-D(16)
+Dealer Hits, Pulled: 2-S (18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+840 credits available
+
+Table||Dealer:9-D||Ham:7-D,4-C:10:11||
+Ham: 7-D,4-C,9-C
+Ham now has: 20
+[20]
+Dealer:9-D,4-C(13)
+Dealer Hits, Pulled: 5-C (18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+860 credits available
+
+Table||Dealer:8-S||Ham:J-H,10-H:10:20||
+Dealer:8-S,7-S(15)
+Dealer Hits, Pulled: K-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+870 credits available
+
+Table||Dealer:9-D||Ham:8-H,6-S:10:14||
+Ham: 8-H,6-S,Q-S
+Ham now has: BUST
+[24]
+Dealer:9-D,4-S(13)
+Dealer Hits, Pulled: 9-H (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+860 credits available
+
+Table||Dealer:7-H||Ham:Q-C,Q-H:10:20||
+Dealer:7-H,8-S(15)
+Dealer Hits, Pulled: 5-D (20)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+860 credits available
+
+Table||Dealer:K-S||Ham:4-H,A-S:10:5|15||
+Ham: 4-H,A-S,Q-C
+Ham now has: 15
+[15]
+Ham: 4-H,A-S,Q-C,2-C
+Ham now has: 17
+[17]
+Dealer:K-S,10-D(20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+850 credits available
+
+Table||Dealer:K-H||Ham:2-S,9-C:10:11||
+Ham: 2-S,9-C,4-D
+Ham now has: 15
+[15]
+Dealer:K-H,8-H(18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+830 credits available
+
+Table||Dealer:3-D||Ham:3-D,7-C:10:10||
+Ham: 3-D,7-C,3-C
+Ham now has: 13
+[13]
+Dealer:3-D,9-C(12)
+Dealer Hits, Pulled: 2-H (14)
+Dealer Hits, Pulled: 8-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+850 credits available
+
+Table||Dealer:6-H||Ham:10-D,10-D:10:20||
+Dealer:6-H,10-C(16)
+Dealer Hits, Pulled: 4-C (20)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+850 credits available
+
+Table||Dealer:A-S||Ham:8-C,4-D:10:12||
+Ham: 8-C,4-D,A-D
+Ham now has: 13
+[13]
+Ham: 8-C,4-D,A-D,5-S
+Ham now has: 18
+[18]
+Dealer:A-S,3-H(4|14)
+Dealer Hits, Pulled: 6-C (10|20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+840 credits available
+
+Table||Dealer:K-S||Ham:5-C,Q-H:10:15||
+Ham: 5-C,Q-H,6-C
+Ham now has: 3 card 21
+[21]
+Dealer:K-S,6-D(16)
+Dealer Hits, Pulled: 2-H (18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+850 credits available
+
+Table||Dealer:J-H||Ham:7-D,2-D:10:9||
+Ham: 7-D,2-D,10-S
+Ham now has: 19
+[19]
+Dealer:J-H,7-H(17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+860 credits available
+
+Table||Dealer:Q-D||Ham:K-S,9-S:20:19||
+Dealer:Q-D,K-D(20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+840 credits available
+
+Table||Dealer:5-S||Ham:J-S,5-S:20:15||
+Dealer:5-S,9-C(14)
+Dealer Hits, Pulled: 3-S (17)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+820 credits available
+
+Table||Dealer:Q-D||Ham:2-S,K-C:20:12||
+Ham: 2-S,K-C,8-C
+Ham now has: 20
+[20]
+Dealer:Q-D,7-S(17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+840 credits available
+
+Table||Dealer:5-S||Ham:K-H,6-D:10:16||
+Dealer:5-S,5-D(10)
+Dealer Hits, Pulled: 4-C (14)
+Dealer Hits, Pulled: 6-C (20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+830 credits available
+
+Table||Dealer:3-C||Ham:A-C,K-H:20:BLACKJACK||
+Dealer:3-C,8-D(11)
+Dealer Hits, Pulled: 5-H (16)
+Dealer Hits, Pulled: 4-H (20)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+840 credits available
+
+Table||Dealer:10-H||Ham:J-H,4-H:100:14||
+Ham: J-H,4-H,J-D
+Ham now has: BUST
+[24]
+Dealer:10-H,2-S(12)
+Dealer Hits, Pulled: 4-H (16)
+Dealer Hits, Pulled: K-C (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+740 credits available
+
+Table||Dealer:8-S||Ham:2-C,7-C:40:9||
+Ham: 2-C,7-C,10-C
+Ham now has: 19
+[19]
+Dealer:8-S,9-H(17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+780 credits available
+
+Table||Dealer:8-D||Ham:7-D,A-H:20:8|18||
+Dealer:8-D,A-S(9|19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+760 credits available
+
+Table||Dealer:7-H||Ham:8-C,A-C:20:9|19||
+Dealer:7-H,4-D(11)
+Dealer Hits, Pulled: 9-H (20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+740 credits available
+
+Table||Dealer:A-H||Ham:5-H,5-H:10:10||
+Ham: 5-H,5-H,3-C
+Ham now has: 13
+[13]
+Ham: 5-H,5-H,3-C,J-S
+Ham now has: BUST
+[23]
+Dealer:A-H,9-D(10|20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+730 credits available
+
+Table||Dealer:J-C||Ham:Q-S,8-H:10:18||
+Dealer:J-C,2-C(12)
+Dealer Hits, Pulled: 5-D (17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+740 credits available
+
+Table||Dealer:J-C||Ham:6-S,A-S:10:7|17||
+Ham: 6-S,A-S,6-S
+Ham now has: 13
+[13]
+Ham: 6-S,A-S,6-S,4-S
+Ham now has: 17
+[17]
+Dealer:J-C,J-C(20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+730 credits available
+
+Table||Dealer:10-H||Ham:J-C,Q-S:10:20||
+Dealer:10-H,Q-D(20)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+730 credits available
+
+Table||Dealer:3-H||Ham:5-D,8-D:10:13||
+Dealer:3-H,3-D(6)
+Dealer Hits, Pulled: J-D (16)
+Dealer Hits, Pulled: J-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+740 credits available
+
+Table||Dealer:3-S||Ham:9-S,A-C:20:10|20||
+Dealer:3-S,7-S(10)
+Dealer Hits, Pulled: 2-H (12)
+Dealer Hits, Pulled: 7-S (19)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+760 credits available
+
+Table||Dealer:A-D||Ham:10-S,A-H:10:BLACKJACK||
+Dealer:A-D,6-H(7|17)
+Dealer Hits, Pulled: Q-C (17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+765 credits available
+
+Table||Dealer:10-S||Ham:7-D,2-D:20:9||
+Ham: 7-D,2-D,K-S
+Ham now has: 19
+[19]
+Dealer:10-S,8-S(18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+785 credits available
+
+Table||Dealer:2-D||Ham:4-D,K-D:20:14||
+Dealer:2-D,A-D(3|13)
+Dealer Hits, Pulled: 6-D (9|19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+765 credits available
+
+STACK OUT: RESHUFFLING
+
+Creating stack with: 4 decks
+
+Table||Dealer:10-S||Ham:10-C,A-C:20:BLACKJACK||
+Dealer:10-S,7-H(17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+775 credits available
+
+Table||Dealer:3-D||Ham:5-H,J-C:25:15||
+Dealer:3-D,10-H(13)
+Dealer Hits, Pulled: J-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+800 credits available
+
+Table||Dealer:6-C||Ham:7-S,10-S:40:17||
+Dealer:6-C,9-S(15)
+Dealer Hits, Pulled: 10-C (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+840 credits available
+
+Table||Dealer:3-H||Ham:3-C,6-D:60:9||
+Ham: 3-C,6-D,3-S
+Ham now has: 12
+[12]
+Dealer:3-H,3-D(6)
+Dealer Hits, Pulled: 3-C (9)
+Dealer Hits, Pulled: 6-S (15)
+Dealer Hits, Pulled: 5-S (20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+720 credits available
+
+Table||Dealer:8-C||Ham:10-D,6-S:75:16||
+Ham: 10-D,6-S,6-H
+Ham now has: BUST
+[22]
+Dealer:8-C,7-C(15)
+Dealer Hits, Pulled: 8-H (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+645 credits available
+
+Table||Dealer:J-H||Ham:J-C,7-D:55:17||
+Dealer:J-H,9-H(19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+590 credits available
+Removing: Ham
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.209.23', 50305)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.209.23', 50306)
+Sign in info: ['Info', 'Picasso', '679158', 'sign in', 'HUMXqOHGnzEAtUz', '']
+Server has connections
+Detected New Users
+Name: Picasso  IP: ('137.112.209.23', 50306)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+1145 credits available
+
+Table||Dealer:4-H||Picasso:7-H,Q-S:10:17||
+Dealer:4-H,7-D(11)
+Dealer Hits, Pulled: 8-S (19)
+Picasso hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1135 credits available
+
+Table||Dealer:Q-D||Picasso:9-H,J-D:10:19||
+Dealer:Q-D,2-S(12)
+Dealer Hits, Pulled: K-H (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1145 credits available
+Picasso response timeout
+Detected dropped client by exception: Picasso
+///////////////Exception During Game////////////////
+	No User: No user with this name was found
+
+Traceback (most recent call last):
+  File "/home/blackjack/src/Blackjack/main.py", line 57, in <module>
+    game.begin()
+  File "/home/blackjack/src/Blackjack/game.py", line 39, in begin
+    self.gameLoop() # nothing below this line will run
+  File "/home/blackjack/src/Blackjack/game.py", line 74, in gameLoop
+    self.server.sendMessageToUser(user.data.name, "Message||Leaving game...")
+  File "/home/blackjack/src/Blackjack/server.py", line 390, in sendMessageToUser
+    client = self.getClientFromName(name)
+  File "/home/blackjack/src/Blackjack/server.py", line 426, in getClientFromName
+    raise Exception("No User: No user with this name was found")
+Exception: No User: No user with this name was found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/blackjack/src/Blackjack/main.py", line 60, in <module>
+    print(e.with_traceback())
+TypeError: BaseException.with_traceback() takes exactly one argument (0 given)
+Exception in thread Thread-2170:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 88, in userMessage
+    msg = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer

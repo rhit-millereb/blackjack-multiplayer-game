@@ -1,0 +1,3179 @@
+nohup: ignoring input
+Settings: Finished reading settings file!
+Allow new users: True
+Chat: Starting...
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+Server started.
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.198.239', 56499)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.198.239', 56501)
+Sign in info: ['Info', 'Rinka', '696969', 'sign in', 'ZEyVysuWhQRPGKG', '']
+Server has connections
+Detected New Users
+Name: Rinka  IP: ('137.112.198.239', 56501)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+8610 credits available
+
+Table||Dealer:3-S||Rinka:7-C,3-H:10:10||
+Rinka: 7-C,3-H,J-D
+Rinka now has: 20
+[20]
+Dealer:3-S,6-D(9)
+Dealer Hits, Pulled: 7-S (16)
+Dealer Hits, Pulled: 5-S (4 card 21)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8590 credits available
+
+Table||Dealer:4-H||Rinka:K-H,10-D:10:20||
+Dealer:4-H,6-D(10)
+Dealer Hits, Pulled: A-H (11|21)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8580 credits available
+
+Table||Dealer:3-H||Rinka:6-S,5-C:10:11||
+Rinka: 6-S,5-C,4-H
+Rinka now has: 15
+[15]
+Dealer:3-H,5-S(8)
+Dealer Hits, Pulled: 10-C (18)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8560 credits available
+
+Table||Dealer:2-H||Rinka:3-C,2-S:40:5||
+Rinka: 3-C,2-S,2-D
+Rinka now has: 7
+[7]
+Rinka: 3-C,2-S,2-D,5-S
+Rinka now has: 12
+[12]
+Rinka: 3-C,2-S,2-D,5-S,J-D
+Rinka now has: BUST
+[22]
+Dealer:2-H,4-S(6)
+Dealer Hits, Pulled: J-H (16)
+Dealer Hits, Pulled: 8-H (BUST)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8520 credits available
+
+Table||Dealer:K-H||Rinka:8-C,8-D:80:16||
+Rinka: 8-C,8-D,K-D
+Rinka now has: BUST
+[26]
+Dealer:K-H,K-C(20)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8440 credits available
+
+Table||Dealer:7-D||Rinka:A-C,Q-C:160:BLACKJACK||
+Dealer:7-D,5-D(12)
+Dealer Hits, Pulled: 2-C (14)
+Dealer Hits, Pulled: 5-C (19)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8520 credits available
+
+Table||Dealer:3-D||Rinka:Q-D,2-C:20:12||
+Rinka: Q-D,2-C,4-H
+Rinka now has: 16
+[16]
+Dealer:3-D,A-D(4|14)
+Dealer Hits, Pulled: A-H (5|15)
+Dealer Hits, Pulled: 9-H (14)
+Dealer Hits, Pulled: 9-S (BUST)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8540 credits available
+
+Table||Dealer:9-D||Rinka:Q-H,8-D:20:18||
+Leaderboard: User connected with address: ('137.112.198.239', 56533)
+Leaderboard: User connected to feed: ZEyVysuWhQRPGKG
+Leaderboard: Send data on 23 users to: <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.198.239', 56533)>
+Dealer:9-D,10-D(19)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8520 credits available
+
+Table||Dealer:4-D||Rinka:2-D,9-D:20:11||
+Rinka: 2-D,9-D,4-C
+Rinka now has: 15
+[15]
+Dealer:4-D,3-H(7)
+Dealer Hits, Pulled: 6-H (13)
+Dealer Hits, Pulled: 9-S (BUST)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8560 credits available
+
+Table||Dealer:Q-C||Rinka:10-H,6-C:10:16||
+Dealer:Q-C,3-D(13)
+Dealer Hits, Pulled: 2-S (15)
+Dealer Hits, Pulled: 2-S (17)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8550 credits available
+
+Table||Dealer:10-D||Rinka:J-S,6-C:10:16||
+Rinka: J-S,6-C,Q-C
+Rinka now has: BUST
+[26]
+Dealer:10-D,9-H(19)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8540 credits available
+
+Table||Dealer:Q-S||Rinka:K-C,A-S:30:BLACKJACK||
+Dealer:Q-S,8-S(18)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8555 credits available
+
+Table||Dealer:9-H||Rinka:9-S,9-C:15:18||
+Dealer:9-H,2-C(11)
+Dealer Hits, Pulled: 8-H (19)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8540 credits available
+
+Table||Dealer:2-D||Rinka:5-S,4-D:20:9||
+Rinka: 5-S,4-D,6-H
+Rinka now has: 15
+[15]
+Rinka: 5-S,4-D,6-H,3-C
+Rinka now has: 18
+[18]
+Dealer:2-D,10-S(12)
+Dealer Hits, Pulled: 10-C (BUST)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8560 credits available
+
+Table||Dealer:5-D||Rinka:7-H,10-H:20:17||
+Dealer:5-D,A-D(6|16)
+Dealer Hits, Pulled: 7-D (13)
+Dealer Hits, Pulled: Q-D (BUST)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8580 credits available
+
+Table||Dealer:6-D||Rinka:Q-D,5-C:20:15||
+Rinka: Q-D,5-C,J-H
+Rinka now has: BUST
+[25]
+Dealer:6-D,5-D(11)
+Dealer Hits, Pulled: 7-S (18)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8560 credits available
+
+Table||Dealer:5-C||Rinka:8-C,K-H:10:18||
+Dealer:5-C,2-H(7)
+Dealer Hits, Pulled: 10-C (17)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8570 credits available
+
+Table||Dealer:6-H||Rinka:5-D,J-H:10:15||
+Rinka: 5-D,J-H,2-D
+Rinka now has: 17
+[17]
+Dealer:6-H,7-H(13)
+Dealer Hits, Pulled: Q-H (BUST)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8580 credits available
+
+Table||Dealer:J-D||Rinka:K-C,4-S:20:14||
+Rinka: K-C,4-S,K-D
+Rinka now has: BUST
+[24]
+Dealer:J-D,3-S(13)
+Dealer Hits, Pulled: J-S (BUST)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8560 credits available
+
+Table||Dealer:A-C||Rinka:4-C,7-H:20:11||
+Rinka: 4-C,7-H,9-C
+Rinka now has: 20
+[20]
+Dealer:A-C,7-H(8|18)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8600 credits available
+Removing: Rinka
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.221.147', 61279)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.221.147', 61281)
+Sign in info: ['Info', 'duhganda', '9499', 'sign in', 'cTefUsSidATZDvu', '']
+Server has connections
+Detected New Users
+Name: duhganda  IP: ('137.112.221.147', 61281)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+325 credits available
+
+Table||Dealer:5-H||duhganda:10-D,9-H:150:19||
+Dealer:5-H,3-D(8)
+Dealer Hits, Pulled: J-C (18)
+duhganda hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+475 credits available
+
+Table||Dealer:7-H||duhganda:J-C,Q-H:150:20||
+Dealer:7-H,A-H(8|18)
+duhganda hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+625 credits available
+
+Table||Dealer:9-C||duhganda:9-S,6-H:150:15||
+Dealer:9-C,4-H(13)
+Dealer Hits, Pulled: 2-D (15)
+Dealer Hits, Pulled: 6-C (4 card 21)
+duhganda hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+475 credits available
+
+Table||Dealer:8-H||duhganda:7-S,9-C:150:16||
+Dealer:8-H,4-D(12)
+Dealer Hits, Pulled: 10-D (BUST)
+duhganda hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+625 credits available
+
+Table||Dealer:4-C||duhganda:8-H,3-D:250:11||
+duhganda: 8-H,3-D,7-D
+duhganda now has: 18
+[18]
+Dealer:4-C,Q-C(14)
+Dealer Hits, Pulled: 7-S (3 card 21)
+duhganda hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+125 credits available
+
+Table||Dealer:9-D||duhganda:8-H,K-C:120:18||
+Dealer:9-D,10-C(19)
+duhganda hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+5 credits available
+
+Table||Dealer:5-D||duhganda:3-D,9-S:4:12||
+duhganda: 3-D,9-S,3-H
+duhganda now has: 15
+[15]
+Dealer:5-D,7-S(12)
+Dealer Hits, Pulled: A-H (13)
+Dealer Hits, Pulled: 4-S (17)
+duhganda hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1 credits available
+
+Table||Dealer:6-D||duhganda:4-D,Q-D:1:14||
+duhganda: 4-D,Q-D,A-S
+duhganda now has: 15
+[15]
+duhganda: 4-D,Q-D,A-S,Q-DException in thread Thread-197:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/auth.py", line 67, in auth_user
+    rsp = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-199:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/auth.py", line 67, in auth_user
+    rsp = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-201:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-203:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-204:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-205:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-206:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-207:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-208:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-209:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-210:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-211:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-212:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-213:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-214:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-215:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-216:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-219:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 210, in __signUserIn
+    info = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xf2 in position 4: invalid continuation byte
+Exception in thread Thread-220:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 210, in __signUserIn
+    info = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xf2 in position 4: invalid continuation byte
+Exception in thread Thread-245:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-246:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+Exception in thread Thread-247:
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-255:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 88, in userMessage
+    msg = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+duhganda now has: BUST
+[25]
+Dealer:6-D,5-S(11)
+Dealer Hits, Pulled: J-H (3 card 21)
+duhganda hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+0 credits available
+duhganda is broke, removing from game...
+Removing: duhganda
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.221.147', 61327)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.221.147', 61328)
+Sign in info: ['Info', 'duh', '9499', 'create account', 'FRKPDeQBcugypEM', '']
+Server has connections
+Detected New Users
+Name: duh  IP: ('137.112.221.147', 61328)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+1000 credits available
+
+Table||Dealer:3-C||duh:A-H,6-C:50:7|17||
+Dealer:3-C,2-D(5)
+Dealer Hits, Pulled: 8-S (13)
+Dealer Hits, Pulled: 8-H (4 card 21)
+duh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+950 credits available
+
+Table||Dealer:A-C||duh:10-S,10-D:50:20||
+Dealer:A-C,2-C(3|13)
+Dealer Hits, Pulled: 4-C (7|17)
+Dealer Hits, Pulled: 8-C (15)
+Dealer Hits, Pulled: 6-H (5 card 21)
+duh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+900 credits available
+
+Table||Dealer:10-C||duh:10-H,A-S:100:BLACKJACK||
+Dealer:10-C,10-S(20)
+duh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+950 credits available
+
+Table||Dealer:A-C||duh:8-H,5-C:50:13||
+Dealer has blackjack
+900 credits available
+
+Table||Dealer:8-C||duh:K-S,2-S:100:12||
+duh: K-S,2-S,4-H
+duh now has: 16
+[16]
+Dealer:8-C,A-S(9|19)
+duh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+800 credits available
+
+Table||Dealer:5-H||duh:10-H,7-S:200:17||
+Dealer:5-H,J-H(15)
+Dealer Hits, Pulled: J-C (BUST)
+duh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1000 credits available
+
+Table||Dealer:9-S||duh:5-S,7-C:200:12||
+duh: 5-S,7-C,K-H
+duh now has: BUST
+[22]
+Dealer:9-S,K-S(19)
+duh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+800 credits available
+
+Table||Dealer:Q-S||duh:8-D,9-C:400:17||
+Dealer:Q-S,2-D(12)
+Dealer Hits, Pulled: 6-D (18)
+duh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+400 credits available
+
+Table||Dealer:10-D||duh:4-H,A-C:300:5|15||
+duh: 4-H,A-C,6-D
+duh now has: 11|21
+[11, 21]
+Dealer:10-D,2-H(12)
+Dealer Hits, Pulled: 9-D (3 card 21)
+duh hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+400 credits available
+
+Table||Dealer:Q-H||duh:J-H,K-D:300:20||
+Dealer:Q-H,Q-S(20)
+duh hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+400 credits available
+
+Table||Dealer:10-S||duh:7-D,Q-D:300:17||
+Dealer:10-S,8-S(18)
+duh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+100 credits available
+Removing: duh
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('91.191.209.202', 63814)
+User connected with address: ('198.235.24.148', 65468)
+Client gave invalid sign in packet
+Auth Server: User connected with: ('91.191.209.202', 63300)
+User connected with address: ('162.216.149.211', 63246)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('185.242.226.27', 53132)
+User connected with address: ('185.242.226.27', 48680)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('162.142.125.216', 45868)
+Leaderboard: User connected with address: ('162.142.125.216', 45908)
+Leaderboard: User connected with address: ('167.94.138.169', 37026)
+Leaderboard: User connected with address: ('167.94.138.169', 48674)
+Leaderboard: User connected with address: ('206.168.34.34', 38368)
+Leaderboard: User connected with address: ('206.168.34.34', 38416)
+Leaderboard: User connected with address: ('167.94.138.118', 38346)
+Leaderboard: User connected with address: ('167.94.138.118', 50358)
+Leaderboard: User connected with address: ('162.142.125.38', 50184)
+Leaderboard: User connected with address: ('162.142.125.38', 58236)
+Leaderboard: User connected with address: ('206.168.34.42', 40714)
+Leaderboard: User connected with address: ('206.168.34.42', 43370)
+Leaderboard: User connected with address: ('167.94.145.102', 46984)
+Leaderboard: User connected with address: ('167.94.145.102', 34722)
+User connected with address: ('198.235.24.192', 60080)
+Client gave invalid sign in packet
+User connected with address: ('106.75.19.183', 47690)
+Client gave invalid sign in packet
+User connected with address: ('106.75.19.183', 48364)
+User connected with address: ('106.75.19.183', 48636)
+User connected with address: ('106.75.19.183', 48856)
+Client gave invalid sign in packet
+User connected with address: ('106.75.19.183', 49024)
+Client gave invalid sign in packet
+User connected with address: ('106.75.19.183', 49166)
+Client gave invalid sign in packet
+Auth Server: User connected with: ('137.112.210.225', 60513)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.210.225', 60514)
+Sign in info: ['Info', 'Picasso', '679158', 'sign in', 'EfqyEryxWbrlmPD', '']
+Server has connections
+Detected New Users
+Name: Picasso  IP: ('137.112.210.225', 60514)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+1145 credits available
+
+Table||Dealer:9-D||Picasso:9-S,8-H:10:17||
+Dealer:9-D,8-H(17)
+Picasso hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1145 credits available
+
+Table||Dealer:K-D||Picasso:10-H,10-C:10:20||
+Dealer:K-D,J-C(20)
+Picasso hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1145 credits available
+
+Table||Dealer:9-D||Picasso:J-S,10-S:10:20||
+Dealer:9-D,7-D(16)
+Dealer Hits, Pulled: 9-S (BUST)
+Picasso hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1155 credits available
+Removing: Picasso
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+User connected with address: ('87.236.176.148', 36441)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('185.224.128.17', 46880)
+Leaderboard: User connected with address: ('185.224.128.17', 46892)
+Leaderboard: User connected with address: ('185.224.128.17', 46898)
+Auth Server: User connected with: ('137.112.206.203', 62181)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.206.203', 62182)
+Sign in info: ['Info', 'Ham', '1013', 'sign in', 'WeKfznIlAdkAKJR', '']
+Server has connections
+Detected New Users
+Name: Ham  IP: ('137.112.206.203', 62182)
+Leaderboard: User connected with address: ('137.112.206.203', 62186)
+Leaderboard: User connected to feed: WeKfznIlAdkAKJR
+Leaderboard: Send data on 24 users to: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.206.203', 62186)>
+Leaderboard: Send data on 24 users to: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.206.203', 62186)>
+Leaderboard: Send data on 24 users to: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.206.203', 62186)>
+Leaderboard: Send data on 24 users to: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.206.203', 62186)>
+Leaderboard: Send data on 24 users to: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.206.203', 62186)>
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+553 credits available
+
+Table||Dealer:J-S||Ham:4-S,J-D:3:14||
+Ham: 4-S,J-D,7-S
+Ham now has: 3 card 21
+[21]
+Dealer:J-S,9-C(19)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+556 credits available
+
+Table||Dealer:7-S||Ham:A-C,6-D:4:7|17||
+Ham: A-C,6-D,7-C
+Ham now has: 14
+[14]
+Ham: A-C,6-D,7-C,A-H
+Ham now has: 15
+[15]
+Dealer:7-S,8-D(15)
+Dealer Hits, Pulled: 4-S (19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+552 credits available
+
+Table||Dealer:8-D||Ham:J-H,10-S:8:20||
+Dealer:8-D,K-C(18)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+560 credits available
+
+Table||Dealer:2-D||Ham:9-H,10-C:10:19||
+Dealer:2-D,3-H(5)
+Dealer Hits, Pulled: Q-H (15)
+Dealer Hits, Pulled: 9-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+570 credits available
+
+Table||Dealer:10-S||Ham:5-H,7-D:10:12||
+Ham: 5-H,7-D,9-D
+Ham now has: 3 card 21
+[21]
+Dealer:10-S,10-D(20)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+580 credits available
+
+Table||Dealer:3-S||Ham:8-C,5-S:10:13||
+Dealer:3-S,4-H(7)
+Dealer Hits, Pulled: A-H (8|18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+570 credits available
+
+Table||Dealer:J-S||Ham:K-H,K-C:10:20||
+Dealer:J-S,5-C(15)
+Dealer Hits, Pulled: 10-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+580 credits available
+
+Table||Dealer:2-C||Ham:10-D,Q-H:10:20||
+Dealer:2-C,10-C(12)
+Dealer Hits, Pulled: 5-D (17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+590 credits available
+
+Table||Dealer:K-C||Ham:6-S,9-D:10:15||
+Ham: 6-S,9-D,6-D
+Ham now has: 3 card 21
+[21]
+Dealer:K-C,J-H(20)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+600 credits available
+
+Table||Dealer:7-D||Ham:5-D,5-H:10:10||
+Ham: 5-D,5-H,Q-S
+Ham now has: 20
+[20]
+Dealer:7-D,6-D(13)
+Dealer Hits, Pulled: 4-D (17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+610 credits available
+
+Table||Dealer:2-D||Ham:Q-C,J-D:20:20||
+Dealer:2-D,2-C(4)
+Dealer Hits, Pulled: K-S (14)
+Dealer Hits, Pulled: K-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+630 credits available
+
+Table||Dealer:2-S||Ham:9-C,8-S:20:17||
+Dealer:2-S,5-S(7)
+Dealer Hits, Pulled: 7-C (14)
+Dealer Hits, Pulled: Q-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+650 credits available
+
+Table||Dealer:3-H||Ham:K-H,6-H:10:16||
+Dealer:3-H,5-D(8)
+Dealer Hits, Pulled: 8-H (16)
+Dealer Hits, Pulled: 7-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+660 credits available
+
+Table||Dealer:7-S||Ham:A-S,2-C:20:3|13||
+Ham: A-S,2-C,9-C
+Ham now has: 12
+[12]
+Ham: A-S,2-C,9-C,A-S
+Ham now has: 13
+[13]
+Ham: A-S,2-C,9-C,A-S,4-C
+Ham now has: 17
+[17]
+Dealer:7-S,J-D(17)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+660 credits available
+
+Table||Dealer:Q-S||Ham:2-D,8-H:10:10||
+Ham: 2-D,8-H,3-D
+Ham now has: 13
+[13]
+Ham: 2-D,8-H,3-D,6-C
+Ham now has: 19
+[19]
+Dealer:Q-S,10-C(20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+650 credits available
+
+Table||Dealer:A-D||Ham:9-S,6-H:10:15||
+Ham: 9-S,6-H,9-C
+Ham now has: BUST
+[24]
+Dealer:A-D,4-D(5|15)
+Dealer Hits, Pulled: 8-C (13)
+Dealer Hits, Pulled: 2-H (15)
+Dealer Hits, Pulled: 3-C (18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+640 credits available
+
+Table||Dealer:3-C||Ham:Q-C,10-H:50:20||
+Dealer:3-C,10-H(13)
+Dealer Hits, Pulled: 9-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+690 credits available
+
+Table||Dealer:J-S||Ham:Q-H,4-C:30:14||
+Ham: Q-H,4-C,2-D
+Ham now has: 16
+[16]
+Ham: Q-H,4-C,2-D,Q-S
+Ham now has: BUST
+[26]
+Dealer:J-S,K-S(20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+660 credits available
+
+Table||Dealer:J-S||Ham:4-D,2-C:20:6||
+Ham: 4-D,2-C,8-D
+Ham now has: 14
+[14]
+Ham: 4-D,2-C,8-D,A-C
+Ham now has: 15
+[15]
+Ham: 4-D,2-C,8-D,A-C,7-H
+Ham now has: BUST
+[22]
+Dealer:J-S,7-H(17)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+640 credits available
+
+Table||Dealer:4-S||Ham:3-D,3-H:10:6||
+Ham: 3-D,3-H,2-S
+Ham now has: 8
+[8]
+Ham: 3-D,3-H,2-S,9-D
+Ham now has: 17
+[17]
+Dealer:4-S,K-D(14)
+Dealer Hits, Pulled: 4-S (18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+630 credits available
+
+Table||Dealer:8-H||Ham:J-H,3-S:50:13||
+Ham: J-H,3-S,K-D
+Ham now has: BUST
+[23]
+Dealer:8-H,A-S(9|19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+580 credits available
+
+Table||Dealer:2-H||Ham:J-C,4-C:20:14||
+Dealer:2-H,K-S(12)
+Dealer Hits, Pulled: 6-S (18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+560 credits available
+
+Table||Dealer:J-H||Ham:7-H,6-D:20:13||
+Ham: 7-H,6-D,8-S
+Ham now has: 3 card 21
+[21]
+Dealer:J-H,Q-D(20)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+580 credits available
+
+Table||Dealer:5-H||Ham:8-C,J-C:20:18||
+Dealer:5-H,2-S(7)
+Dealer Hits, Pulled: 2-S (9)
+User connected with address: ('198.235.24.138', 61984)
+Client gave invalid sign in packet
+Dealer Hits, Pulled: 6-C (15)
+Dealer Hits, Pulled: 10-S (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+600 credits available
+
+Table||Dealer:K-C||Ham:J-D,5-D:20:15||
+Ham: J-D,5-D,10-D
+Ham now has: BUST
+[25]
+Dealer:K-C,7-D(17)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+580 credits available
+
+Table||Dealer:9-H||Ham:A-D,4-C:10:5|15||
+Ham: A-D,4-C,3-D
+Ham now has: 8|18
+[8, 18]
+Dealer:9-H,10-D(19)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+570 credits available
+
+Table||Dealer:2-H||Ham:2-H,Q-S:10:12||
+Dealer:2-H,5-C(7)
+Dealer Hits, Pulled: A-C (8|18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+560 credits available
+
+Table||Dealer:A-C||Ham:7-C,6-H:10:13||
+Ham: 7-C,6-H,Q-H
+Ham now has: BUST
+[23]
+Dealer:A-C,9-H(10|20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+550 credits available
+
+Table||Dealer:3-C||Ham:4-H,4-D:10:8||
+Ham: 4-H,4-D,8-C
+Ham now has: 16
+[16]
+Dealer:3-C,3-C(6)
+Dealer Hits, Pulled: 8-D (14)
+Dealer Hits, Pulled: 6-C (20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+540 credits available
+
+Table||Dealer:6-H||Ham:A-S,6-S:200:7|17||
+Ham: A-S,6-S,3-D
+Ham now has: 10|20
+[10, 20]
+Dealer:6-H,K-D(16)
+Dealer Hits, Pulled: 5-S (3 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+340 credits available
+
+Table||Dealer:J-C||Ham:7-S,8-S:40:15||
+Ham: 7-S,8-S,7-C
+Ham now has: BUST
+[22]
+Dealer:J-C,5-C(15)
+Dealer Hits, Pulled: 7-D (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+300 credits available
+
+Table||Dealer:9-S||Ham:6-S,10-H:10:16||
+Ham: 6-S,10-H,10-H
+Ham now has: BUST
+[26]
+Dealer:9-S,A-H(10|20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+290 credits available
+
+Table||Dealer:5-S||Ham:3-H,A-D:10:4|14||
+Ham: 3-H,A-D,8-H
+Ham now has: 12
+[12]
+Dealer:5-S,6-C(11)
+Dealer Hits, Pulled: K-H (3 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+280 credits available
+
+Table||Dealer:A-D||Ham:Q-C,10-C:10:20||
+Dealer has blackjack
+270 credits available
+
+Table||Dealer:3-S||Ham:3-S,K-D:10:13||
+Dealer:3-S,8-S(11)
+Dealer Hits, Pulled: 4-H (15)
+Dealer Hits, Pulled: Q-D (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+280 credits available
+
+STACK OUT: RESHUFFLING
+
+Creating stack with: 4 decks
+
+Table||Dealer:8-H||Ham:6-H,A-H:10:7|17||
+Ham: 6-H,A-H,J-H
+Ham now has: 17
+[17]
+Dealer:8-H,7-S(15)
+Dealer Hits, Pulled: A-S (16)
+Dealer Hits, Pulled: 2-C (18)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+270 credits available
+Removing: Ham
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.206.203', 62569)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.206.203', 62571)
+Sign in info: ['Info', 'ugh', '1234', 'create account', 'eEZrtnnZUlacLcT', '']
+Server has connections
+Detected New Users
+Name: ugh  IP: ('137.112.206.203', 62571)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+1000 credits available
+
+Table||Dealer:2-S||ugh:7-D,8-C:1:15||
+Dealer:2-S,8-D(10)
+Dealer Hits, Pulled: 10-C (20)
+ugh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+999 credits available
+
+Table||Dealer:Q-D||ugh:K-H,10-H:1:20||
+Dealer:Q-D,8-H(18)
+ugh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1000 credits available
+
+Table||Dealer:10-C||ugh:6-H,10-D:1:16||
+ugh: 6-H,10-D,4-S
+ugh now has: 20
+[20]
+Dealer:10-C,J-C(20)
+ugh hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1000 credits available
+
+Table||Dealer:Q-H||ugh:2-H,5-D:1:7||
+ugh: 2-H,5-D,10-D
+ugh now has: 17
+[17]
+Dealer:Q-H,6-S(16)
+Dealer Hits, Pulled: 2-H (18)
+ugh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+999 credits available
+
+Table||Dealer:8-S||ugh:4-C,4-D:1:8||
+ugh: 4-C,4-D,3-D
+ugh now has: 11
+[11]
+ugh: 4-C,4-D,3-D,10-H
+ugh now has: 4 card 21
+[21]
+Dealer:8-S,4-C(12)
+Dealer Hits, Pulled: 6-D (18)
+ugh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1000 credits available
+
+Table||Dealer:Q-D||ugh:J-H,A-D:1:BLACKJACK||
+Dealer:Q-D,3-H(13)
+Dealer Hits, Pulled: 10-D (BUST)
+ugh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1000 credits available
+
+Table||Dealer:J-S||ugh:10-D,J-H:1:20||
+Dealer:J-S,3-D(13)
+Dealer Hits, Pulled: 3-S (16)
+Dealer Hits, Pulled: 8-H (BUST)
+ugh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1001 credits available
+
+Table||Dealer:K-C||ugh:2-H,A-S:500:3|13||
+ugh: 2-H,A-S,7-C
+ugh now has: 10|20
+[10, 20]
+Dealer:K-C,8-D(18)
+ugh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1501 credits available
+
+Table||Dealer:J-D||ugh:6-D,A-S:20:7|17||
+ugh: 6-D,A-S,8-H
+ugh now has: 15
+[15]
+ugh: 6-D,A-S,8-H,7-D
+ugh now has: BUST
+[22]
+Dealer:J-D,Q-C(20)
+ugh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1481 credits available
+
+Table||Dealer:J-H||ugh:5-S,8-D:1:13||
+ugh: 5-S,8-D,7-S
+ugh now has: 20
+[20]
+Dealer:J-H,K-S(20)
+ugh hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1481 credits available
+
+Table||Dealer:7-H||ugh:Q-S,4-H:1:14||
+ugh: Q-S,4-H,J-S
+ugh now has: BUST
+[24]
+Dealer:7-H,4-S(11)
+Dealer Hits, Pulled: J-C (3 card 21)
+ugh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1480 credits available
+
+Table||Dealer:J-D||ugh:7-S,5-H:1:12||
+ugh: 7-S,5-H,7-S
+ugh now has: 19
+[19]
+Dealer:J-D,5-C(15)
+Dealer Hits, Pulled: 7-D (BUST)
+ugh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1481 credits available
+
+Table||Dealer:K-D||ugh:5-D,3-C:1:8||
+ugh: 5-D,3-C,Q-S
+ugh now has: 18
+[18]
+Dealer:K-D,9-H(19)
+ugh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1480 credits available
+
+Table||Dealer:K-H||ugh:3-C,6-C:1:9||
+Dealer has blackjack
+1479 credits available
+
+Table||Dealer:K-D||ugh:K-S,9-C:1:19||
+Dealer:K-D,2-S(12)
+Dealer Hits, Pulled: 6-H (18)
+ugh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1480 credits available
+
+Table||Dealer:5-S||ugh:Q-C,7-C:1:17||
+Dealer:5-S,4-D(9)
+Dealer Hits, Pulled: K-S (19)
+ugh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1479 credits available
+
+Table||Dealer:A-H||ugh:J-S,3-S:1:13||
+Dealer has blackjack
+1478 credits available
+
+Table||Dealer:6-S||ugh:2-S,5-S:1:7||
+ugh: 2-S,5-S,6-H
+ugh now has: 13
+[13]
+Dealer:6-S,J-C(16)
+Dealer Hits, Pulled: 6-C (BUST)
+ugh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1479 credits available
+
+Table||Dealer:A-C||ugh:A-D,3-C:500:4|14||
+ugh: A-D,3-C,9-C
+ugh now has: 13
+[13]
+ugh: A-D,3-C,9-C,6-C
+ugh now has: 19
+[19]
+Dealer:A-C,4-H(5|15)
+Dealer Hits, Pulled: 7-C (12)
+Dealer Hits, Pulled: 2-C (14)
+Dealer Hits, Pulled: Q-D (BUST)
+ugh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1979 credits available
+
+Table||Dealer:A-C||ugh:3-D,8-C:750:11||
+ugh: 3-D,8-C,5-D
+ugh now has: 16
+[16]
+Dealer:A-C,4-H(5|15)
+Dealer Hits, Pulled: A-H (6|16)
+Dealer Hits, Pulled: 7-H (13)
+Dealer Hits, Pulled: 8-H (5 card 21)
+ugh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+479 credits available
+
+Table||Dealer:6-S||ugh:2-D,J-D:400:12||
+ugh: 2-D,J-D,6-H
+ugh now has: 18
+[18]
+Dealer:6-S,Q-H(16)
+Dealer Hits, Pulled: 2-D (18)
+ugh hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+479 credits available
+
+Table||Dealer:4-C||ugh:5-C,A-S:400:6|16||
+ugh: 5-C,A-S,8-S
+ugh now has: 14
+[14]
+Dealer:4-C,9-S(13)
+Dealer Hits, Pulled: 4-S (17)
+ugh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+79 credits available
+
+Table||Dealer:6-S||ugh:8-S,4-C:79:12||
+ugh: 8-S,4-C,K-D
+ugh now has: BUST
+[22]
+Dealer:6-S,K-C(16)
+Dealer Hits, Pulled: 9-D (BUST)
+ugh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+0 credits available
+ugh is broke, removing from game...
+Removing: ugh
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.206.203', 62797)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.206.203', 62798)
+Sign in info: ['Info', 'arg', '1234', 'create account', 'MWlXIwRQhxllUui', '']
+Server has connections
+Detected New Users
+Name: arg  IP: ('137.112.206.203', 62798)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+1000 credits available
+
+Table||Dealer:Q-S||arg:5-S,8-C:1:13||
+arg: 5-S,8-C,10-D
+arg now has: BUST
+[23]
+Dealer:Q-S,4-C(14)
+Dealer Hits, Pulled: K-D (BUST)
+arg hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+999 credits available
+
+Table||Dealer:3-D||arg:Q-H,3-D:1:13||
+Dealer:3-D,10-H(13)
+Dealer Hits, Pulled: Q-C (BUST)
+arg hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1000 credits available
+
+Table||Dealer:J-S||arg:Q-H,6-S:1:16||
+arg: Q-H,6-S,3-S
+arg now has: 19
+[19]
+Dealer:J-S,5-S(15)
+Dealer Hits, Pulled: A-H (16)
+Dealer Hits, Pulled: 2-C (18)
+arg hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1001 credits available
+
+Table||Dealer:6-D||arg:6-H,10-C:1:16||
+Dealer:6-D,K-C(16)
+Dealer Hits, Pulled: 8-C (BUST)
+arg hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1002 credits available
+
+Table||Dealer:4-H||arg:J-H,8-H:1:18||
+Dealer:4-H,5-D(9)
+Dealer Hits, Pulled: 9-C (18)
+arg hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1002 credits available
+
+Table||Dealer:5-S||arg:7-H,4-H:1:11||
+arg: 7-H,4-H,7-H
+arg now has: 18
+[18]
+Dealer:5-S,5-H(10)
+Dealer Hits, Pulled: 2-H (12)
+Dealer Hits, Pulled: J-D (BUST)
+arg hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1004 credits available
+
+Table||Dealer:J-D||arg:2-S,A-S:500:3|13||
+arg: 2-S,A-S,A-S
+arg now has: 4|14
+[4, 14]
+arg: 2-S,A-S,A-S,2-C
+arg now has: 6|16
+[6, 16]
+arg: 2-S,A-S,A-S,2-C,10-S
+arg now has: 16
+[16]
+arg: 2-S,A-S,A-S,2-C,10-S,4-D
+arg now has: 20
+[20]
+Dealer:J-D,6-D(16)
+Dealer Hits, Pulled: A-C (17)
+arg hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...Exception in thread Thread-746:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+
+1504 credits available
+
+Table||Dealer:9-S||arg:9-C,7-C:200:16||
+arg: 9-C,7-C,9-S
+arg now has: BUST
+[25]
+Dealer:9-S,4-S(13)
+Dealer Hits, Pulled: J-C (BUST)
+arg hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1304 credits available
+
+Table||Dealer:5-H||arg:J-H,A-D:1:BLACKJACK||
+Dealer:5-H,8-S(13)
+Dealer Hits, Pulled: 8-C (3 card 21)
+arg hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1304 credits available
+
+Table||Dealer:2-H||arg:8-S,2-D:1:10||
+arg: 8-S,2-D,A-C
+arg now has: 11|21
+[11, 21]
+Dealer:2-H,2-H(4)
+Dealer Hits, Pulled: 8-D (12)
+Dealer Hits, Pulled: A-C (13)
+Dealer Hits, Pulled: A-S (14)
+Dealer Hits, Pulled: A-D (15)
+Dealer Hits, Pulled: 10-D (BUST)
+arg hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1306 credits available
+
+Table||Dealer:3-H||arg:K-D,2-H:400:12||
+Dealer:3-H,3-C(6)
+Dealer Hits, Pulled: J-S (16)
+Dealer Hits, Pulled: K-C (BUST)
+arg hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1706 credits available
+
+Table||Dealer:10-S||arg:J-D,7-C:400:17||
+Dealer:10-S,6-H(16)
+Dealer Hits, Pulled: 3-C (19)
+arg hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1306 credits available
+
+Table||Dealer:6-H||arg:4-H,10-H:1:14||
+Dealer:6-H,9-D(15)
+Dealer Hits, Pulled: Q-D (BUST)
+arg hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1307 credits available
+
+Table||Dealer:A-S||arg:J-D,6-C:1:16||
+arg: J-D,6-C,Q-S
+arg now has: BUST
+[26]
+Dealer:A-S,9-D(10|20)
+arg hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1306 credits available
+
+Table||Dealer:K-D||arg:7-S,6-D:1:13||
+Dealer has blackjack
+1305 credits available
+
+Table||Dealer:7-C||arg:5-H,4-S:1:9||
+arg: 5-H,4-S,Q-H
+arg now has: 19
+[19]
+Dealer:7-C,7-S(14)
+Dealer Hits, Pulled: 2-D (16)
+Dealer Hits, Pulled: K-H (BUST)
+arg hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1306 credits available
+
+Table||Dealer:10-C||arg:10-C,Q-S:1:20||
+Dealer:10-C,8-H(18)
+arg hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1307 credits available
+
+Table||Dealer:5-C||arg:7-S,Q-C:1000:17||
+Dealer:5-C,7-C(12)
+Dealer Hits, Pulled: 7-D (19)
+arg hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+307 credits available
+
+Table||Dealer:7-D||arg:9-H,J-C:307:19||
+Dealer:7-D,4-D(11)
+Dealer Hits, Pulled: 6-S (17)
+arg hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+614 credits available
+
+Table||Dealer:Q-H||arg:9-D,8-H:614:17||
+Dealer:Q-H,K-S(20)
+arg hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+0 credits available
+arg is broke, removing from game...
+Removing: arg
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.206.203', 62979)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.206.203', 62980)
+Sign in info: ['Info', 'bruh', '1234', 'create account', 'IVwJdxhtLIRRrxe', '']
+Server has connections
+Detected New Users
+Name: bruh  IP: ('137.112.206.203', 62980)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+1000 credits available
+
+Table||Dealer:10-H||bruh:7-C,3-H:1:10||
+bruh: 7-C,3-H,9-C
+bruh now has: 19
+[19]
+Dealer:10-H,6-H(16)
+Dealer Hits, Pulled: 4-H (20)
+bruh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+999 credits available
+
+Table||Dealer:7-H||bruh:K-C,Q-D:1:20||
+Dealer:7-H,J-C(17)
+bruh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1000 credits available
+
+Table||Dealer:Q-D||bruh:8-D,5-H:1:13||
+bruh: 8-D,5-H,2-C
+bruh now has: 15
+[15]
+bruh: 8-D,5-H,2-C,9-C
+bruh now has: BUST
+[24]
+Dealer:Q-D,4-S(14)
+Dealer Hits, Pulled: 7-S (3 card 21)
+bruh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+999 credits available
+
+Table||Dealer:4-D||bruh:K-C,Q-D:1:20||
+Hand Split.
+Original Hand now: K-C,Q-H (20)
+Second Hand is: Q-D,7-D (17)
+[20]
+[17]
+Hand Split.
+Original Hand now: K-C,10-S (20)
+Second Hand is: Q-H,K-S (20)
+[20]
+[17]
+[20]
+Hand Split.
+Original Hand now: K-C,A-D (BLACKJACK)
+Second Hand is: 10-S,2-S (12)
+[11, 21]
+[17]
+[20]
+[12]
+Hand Split.
+Original Hand now: Q-H,4-H (14)
+Second Hand is: K-S,2-S (12)
+[11, 21]
+[17]
+[14]
+[12]
+[12]
+bruh: 10-S,2-S,5-H
+bruh now has: 17
+[11, 21]
+[17]
+[14]
+[17]
+[12]
+bruh: K-S,2-S,6-D
+bruh now has: 18
+[11, 21]
+[17]
+[14]
+[17]
+[18]
+Dealer:4-D,5-D(9)
+Dealer Hits, Pulled: 9-H (18)
+bruh hand 1 wins
+bruh hand 2 loses
+bruh hand 3 loses
+bruh hand 4 loses
+bruh hand 5 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+996 credits available
+
+Table||Dealer:10-C||bruh:9-D,A-S:1:10|20||
+Dealer:10-C,2-C(12)
+Dealer Hits, Pulled: J-H (BUST)
+bruh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+997 credits available
+
+Table||Dealer:8-S||bruh:3-S,J-D:400:13||
+bruh: 3-S,J-D,J-S
+bruh now has: BUST
+[23]
+Dealer:8-S,J-C(18)
+bruh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+597 credits available
+
+Table||Dealer:6-D||bruh:A-D,8-C:1:9|19||
+Dealer:6-D,J-D(16)
+Dealer Hits, Pulled: Q-S (BUST)
+bruh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+598 credits available
+
+Table||Dealer:8-H||bruh:8-S,5-C:1:13||
+bruh: 8-S,5-C,10-S
+bruh now has: BUST
+[23]
+Dealer:8-H,6-S(14)
+Dealer Hits, Pulled: 2-S (16)
+Dealer Hits, Pulled: 2-H (18)
+bruh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+597 credits available
+
+Table||Dealer:3-H||bruh:5-S,6-C:1:11||
+bruh: 5-S,6-C,9-H
+bruh now has: 20
+[20]
+Dealer:3-H,10-C(13)
+Dealer Hits, Pulled: A-C (14)
+Dealer Hits, Pulled: 7-D (4 card 21)
+bruh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+595 credits available
+
+Table||Dealer:6-S||bruh:9-S,9-C:1:18||
+Hand Split.
+Original Hand now: 9-S,3-D (12)
+Second Hand is: 9-C,7-C (16)
+[12]
+[16]
+bruh: 9-S,3-D,7-D
+bruh now has: 19
+[19]
+[16]
+bruh: 9-C,7-C,K-C
+bruh now has: BUST
+[19]
+[26]
+Dealer:6-S,6-C(12)
+Dealer Hits, Pulled: 3-S (15)
+Dealer Hits, Pulled: 10-D (BUST)
+bruh hand 1 wins
+bruh hand 2 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+595 credits available
+
+Table||Dealer:A-H||bruh:3-S,4-H:300:7||
+Dealer has blackjack
+295 credits available
+
+Table||Dealer:6-S||bruh:J-D,9-H:295:19||
+Dealer:6-S,A-H(7|17)
+Dealer Hits, Pulled: 8-S (15)
+Dealer Hits, Pulled: 9-D (BUST)
+bruh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+590 credits available
+
+Table||Dealer:A-H||bruh:A-S,9-S:200:10|20||
+Dealer:A-H,9-C(10|20)
+bruh hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+590 credits available
+
+Table||Dealer:J-C||bruh:4-S,Q-D:200:14||
+bruh: 4-S,Q-D,8-H
+bruh now has: BUST
+[22]
+Dealer:J-C,K-H(20)
+bruh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+390 credits available
+Removing: bruh
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+User connected with address: ('40.85.153.42', 53292)
+Client gave invalid sign in packet
+User connected with address: ('147.185.132.103', 59058)
+Client gave invalid sign in packet
+User connected with address: ('57.151.48.146', 55032)
+Client gave invalid sign in packet
+User connected with address: ('172.104.4.17', 49206)
+Auth Server: User connected with: ('172.104.4.17', 41226)
+Leaderboard: User connected with address: ('172.104.4.17', 33994)
+Chat: Connected with ('172.104.4.17', 41162)
+Client gave invalid sign in packet
+Chat: User sent invalid response
+Auth Server: User connected with: ('172.104.4.17', 44716)
+Chat: Connected with ('172.104.4.17', 44664)
+Chat: User sent invalid response
+User connected with address: ('172.104.4.17', 52710)
+Leaderboard: User connected with address: ('172.104.4.17', 37488)Exception in thread Thread-751:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-755:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-758:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-760:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+Exception in thread Thread-762:
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+Traceback (most recent call last):
+Exception in thread Thread-761:
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/chat.py", line 54, in userSendsMessage
+    self.run()
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/auth.py", line 67, in auth_user
+    rsp = client_s.recv(1024).decode().split("||")
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x80 in position 0: invalid start byte
+    rsp = str(client_s.recv(1024).decode()).split("||")
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x80 in position 0: invalid start byte
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x80 in position 0: invalid start byte
+Exception in thread Thread-764:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 210, in __signUserIn
+    info = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x80 in position 0: invalid start byte
+Exception in thread Thread-766:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-770:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-773:
+Exception in thread Thread-774:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+Exception in thread Thread-775:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self.run()
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/auth.py", line 67, in auth_user
+    self._target(*self._args, **self._kwargs)
+    self._target(*self._args, **self._kwargs)
+    rsp = str(client_s.recv(1024).decode()).split("||")
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd7 in position 13: invalid continuation byte
+  File "/home/blackjack/src/Blackjack/chat.py", line 54, in userSendsMessage
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd7 in position 13: invalid continuation byte
+    rsp = client_s.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd7 in position 13: invalid continuation byte
+Exception in thread Thread-776:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 210, in __signUserIn
+    info = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd7 in position 13: invalid continuation byte
+Exception in thread Thread-778:
+Exception in thread Thread-779:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+Exception in thread Thread-777:
+Traceback (most recent call last):
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+    self.run()
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/auth.py", line 67, in auth_user
+    rsp = client.recv(1024).decode().split("||")
+    rsp = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa7 in position 13: invalid start byte
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa7 in position 13: invalid start byte
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/chat.py", line 54, in userSendsMessage
+    rsp = client_s.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa7 in position 13: invalid start byte
+Exception in thread Thread-780:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 210, in __signUserIn
+    info = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa7 in position 13: invalid start byte
+Exception in thread Thread-781:
+Traceback (most recent call last):
+Exception in thread Thread-782:
+Exception in thread Thread-783:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/chat.py", line 54, in userSendsMessage
+  File "/home/blackjack/src/Blackjack/auth.py", line 67, in auth_user
+    self._target(*self._args, **self._kwargs)
+    rsp = client_s.recv(1024).decode().split("||")
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x81 in position 5: invalid start byte
+    rsp = str(client_s.recv(1024).decode()).split("||")
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x81 in position 5: invalid start byte
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x81 in position 5: invalid start byte
+Exception in thread Thread-784:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 210, in __signUserIn
+    info = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0x81 in position 5: invalid start byte
+Exception in thread Thread-786:
+Exception in thread Thread-785:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+Traceback (most recent call last):
+Exception in thread Thread-787:
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+    self.run()
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+  File "/home/blackjack/src/Blackjack/chat.py", line 54, in userSendsMessage
+    rsp = client_s.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa4 in position 3: invalid start byte
+    self._target(*self._args, **self._kwargs)
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/auth.py", line 67, in auth_user
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = str(client_s.recv(1024).decode()).split("||")
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa4 in position 3: invalid start byte
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa4 in position 3: invalid start byte
+Exception in thread Thread-788:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 210, in __signUserIn
+    info = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa4 in position 3: invalid start byte
+Exception in thread Thread-790:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-794:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-798:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-802:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+Exception in thread Thread-803:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/chat.py", line 54, in userSendsMessage
+    self._target(*self._args, **self._kwargs)
+    rsp = client_s.recv(1024).decode().split("||")
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa7 in position 13: invalid start byte
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-808:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa7 in position 13: invalid start byte
+Exception in thread Thread-809:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 210, in __signUserIn
+    info = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa7 in position 13: invalid start byte
+Exception in thread Thread-806:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+Exception in thread Thread-812:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/auth.py", line 67, in auth_user
+    rsp = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa7 in position 13: invalid start byte
+Exception in thread Thread-813:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xee in position 4: invalid continuation byte
+Exception in thread Thread-814:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xca in position 4: invalid continuation byte
+Exception in thread Thread-815:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-816:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-825:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 88, in userMessage
+    msg = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-822:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 101, in _handleAskingQuestion
+    self.message = self.waitForMessage()
+  File "/home/blackjack/src/Blackjack/server.py", line 125, in waitForMessage
+    return self.s.recv(2048).decode()
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-821:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 87, in askQuestion
+    raise Exception("Error: No user response (timeout)")
+Exception: Error: No user response (timeout)
+Exception in thread Thread-829:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 87, in askQuestion
+    raise Exception("Error: No user response (timeout)")
+Exception: Error: No user response (timeout)
+
+Client gave invalid sign in packet
+Auth Server: User connected with: ('172.104.4.17', 44844)
+Chat: Connected with ('172.104.4.17', 44780)
+User connected with address: ('172.104.4.17', 52830)
+Leaderboard: User connected with address: ('172.104.4.17', 37614)
+Client gave invalid sign in packet
+Chat: User sent invalid response
+Chat: Connected with ('172.104.4.17', 44856)
+Chat: User sent invalid response
+User connected with address: ('172.104.4.17', 52906)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('172.104.4.17', 37692)
+Auth Server: User connected with: ('172.104.4.17', 44926)
+Chat: Connected with ('172.104.4.17', 44930)
+Auth Server: User connected with: ('172.104.4.17', 45006)
+Leaderboard: User connected with address: ('172.104.4.17', 37768)
+User connected with address: ('172.104.4.17', 52984)
+Client gave invalid sign in packet
+User connected with address: ('172.104.4.17', 53052)
+Chat: Connected with ('172.104.4.17', 47002)
+Leaderboard: User connected with address: ('172.104.4.17', 39838)
+Auth Server: User connected with: ('172.104.4.17', 47076)
+Chat: User sent invalid response
+Auth Server: User connected with: ('172.104.4.17', 47152)
+User connected with address: ('172.104.4.17', 55128)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('172.104.4.17', 39918)
+Chat: Connected with ('172.104.4.17', 47090)
+Chat: User sent invalid response
+User connected with address: ('172.104.4.17', 55264)
+Auth Server: User connected with: ('172.104.4.17', 47280)
+Leaderboard: User connected with address: ('172.104.4.17', 40050)
+Chat: Connected with ('172.104.4.17', 47222)
+Client gave invalid sign in packet
+User connected with address: ('172.104.4.17', 55362)
+Chat: Connected with ('172.104.4.17', 48948)
+Auth Server: User connected with: ('172.104.4.17', 49012)
+Leaderboard: User connected with address: ('172.104.4.17', 41772)
+User connected with address: ('172.104.4.17', 57064)
+Leaderboard: User connected with address: ('172.104.4.17', 43592)
+Chat: Connected with ('172.104.4.17', 50760)
+Auth Server: User connected with: ('172.104.4.17', 50830)
+User connected with address: ('172.104.4.17', 58888)
+Auth Server: User connected with: ('172.104.4.17', 52856)
+Chat: Connected with ('172.104.4.17', 52788)
+Leaderboard: User connected with address: ('172.104.4.17', 45622)
+User connected with address: ('172.104.4.17', 60904)
+Chat: Connected with ('172.104.4.17', 55338)
+Chat: User sent invalid response
+Leaderboard: User connected with address: ('172.104.4.17', 48172)
+Auth Server: User connected with: ('172.104.4.17', 55406)
+User connected with address: ('172.104.4.17', 35166)
+Client gave invalid sign in packet
+Chat: Connected with ('172.104.4.17', 55524)
+Chat: User sent invalid response
+Leaderboard: User connected with address: ('172.104.4.17', 48356)
+User connected with address: ('172.104.4.17', 35350)
+Auth Server: User connected with: ('172.104.4.17', 55598)
+Client gave invalid sign in packet
+Chat: Connected with ('172.104.4.17', 55622)
+Leaderboard: User connected with address: ('172.104.4.17', 48454)
+Chat: User sent invalid response
+Auth Server: User connected with: ('172.104.4.17', 55694)
+User connected with address: ('172.104.4.17', 35446)
+Client gave invalid sign in packet
+Auth Server: User connected with: ('172.104.4.17', 55800)
+Chat: Connected with ('172.104.4.17', 55728)
+Leaderboard: User connected with address: ('172.104.4.17', 48554)
+Chat: Connected with ('172.104.4.17', 55746)
+User connected with address: ('172.104.4.17', 35568)
+Leaderboard: User connected with address: ('172.104.4.17', 48578)
+Chat: User sent invalid response
+Client gave invalid sign in packet
+User connected with address: ('172.104.4.17', 35566)
+Leaderboard: User connected with address: ('172.104.4.17', 48684)
+User connected with address: ('172.104.4.17', 35830)
+Client gave invalid sign in packet
+Auth Server: User connected with: ('172.104.4.17', 56380)
+Chat: Connected with ('172.104.4.17', 56490)
+Auth Server: User connected with: ('172.104.4.17', 56584)
+Chat: User sent invalid response
+Leaderboard: User connected with address: ('35.203.210.52', 60658)
+Leaderboard: User connected with address: ('35.203.210.52', 60660)
+Leaderboard: User connected with address: ('206.168.34.215', 53076)
+Leaderboard: User connected with address: ('206.168.34.215', 40428)
+User connected with address: ('198.235.24.204', 65122)
+Client gave invalid sign in packet
+Auth Server: User connected with: ('137.112.198.239', 60282)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.198.239', 60283)
+Sign in info: ['Info', 'Rinka', '696969', 'sign in', 'OfoEPYpDRAZHqit', '']
+Server has connections
+Detected New Users
+Name: Rinka  IP: ('137.112.198.239', 60283)
+Leaderboard: User connected with address: ('137.112.198.239', 60284)
+Leaderboard: User connected to feed: OfoEPYpDRAZHqit
+Leaderboard: Send data on 27 users to: <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.198.239', 60284)>
+Rinka response timeout
+['timeout']
+Rinka was not ready
+Coult not send quit to: Rinka
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.198.239', 62194)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.198.239', 62195)
+Sign in info: ['Info', 'Rinka', '696969', 'sign in', 'XHniFjLhcqDSayp', '']
+Server has connections
+Detected New Users
+Name: Rinka  IP: ('137.112.198.239', 62195)
+Leaderboard: User connected with address: ('137.112.198.239', 62199)
+Leaderboard: User connected to feed: XHniFjLhcqDSayp
+Leaderboard: Send data on 27 users to: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.198.239', 62199)>
+Chat: Connected with ('137.112.198.239', 62200)
+Chat: User connected with: Rinka
+Chat: Rinka chat error, removing...\s[Errno 104] Connection reset by peer
+Leaderboard: Send data on 27 users to: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.198.239', 62199)>
+Leaderboard: Send data on 27 users to: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.198.239', 62199)>
+Leaderboard: Send data on 27 users to: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.198.239', 62199)>
+Leaderboard: Send data on 27 users to: <socket.socket fd=14, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.198.239', 62199)>
+Rinka response timeout
+['timeout']
+Rinka was not ready
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.198.239', 62211)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.198.239', 62212)
+Sign in info: ['Info', 'printbot', '696969', 'create account', 'juOjAYmLCfiQupp', '']
+Server has connections
+Detected New Users
+Name: printbot  IP: ('137.112.198.239', 62212)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+1000 credits available
+
+Table||Dealer:2-C||printbot:5-H,4-C:10:9||
+printbot: 5-H,4-C,2-H
+printbot now has: 11
+[11]
+printbot: 5-H,4-C,2-H,3-D
+printbot now has: 14
+[14]
+Dealer:2-C,K-C(12)
+Dealer Hits, Pulled: 7-H (19)
+printbot hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+990 credits available
+
+Table||Dealer:10-H||printbot:4-C,7-C:20:11||
+printbot: 4-C,7-C,2-D
+printbot now has: 13
+[13]
+Dealer:10-H,Q-D(20)
+printbot hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+950 credits available
+
+Table||Dealer:6-D||printbot:7-H,8-D:50:15||
+printbot: 7-H,8-D,J-S
+printbot now has: BUST
+[25]
+Exception in thread Thread-995:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-997:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-999:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1000:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1001:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1002:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1003:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1004:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1005:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1006:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Dealer:6-D,10-D(16)
+Dealer Hits, Pulled: 2-D (18)
+printbot hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+900 credits available
+
+Table||Dealer:9-S||printbot:9-H,3-D:100:12||
+printbot: 9-H,3-D,Q-S
+printbot now has: BUST
+[22]
+Dealer:9-S,10-S(19)
+printbot hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+800 credits available
+
+Table||Dealer:9-D||printbot:5-C,9-S:200:14||
+Dealer:9-D,A-C(10|20)
+printbot hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+600 credits available
+
+Table||Dealer:8-C||printbot:10-D,8-C:400:18||
+Dealer:8-C,Q-D(18)
+printbot hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+600 credits available
+
+Table||Dealer:3-S||printbot:Q-D,7-S:400:17||
+Dealer:3-S,8-H(11)
+Dealer Hits, Pulled: 5-H (16)
+Dealer Hits, Pulled: K-C (BUST)
+printbot hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1000 credits available
+
+Table||Dealer:3-H||printbot:10-C,2-S:100:12||
+printbot: 10-C,2-S,4-H
+printbot now has: 16
+[16]
+Dealer:3-H,J-H(13)
+Dealer Hits, Pulled: 7-C (20)
+printbot hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+900 credits available
+Removing: printbot
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+User connected with address: ('198.235.24.172', 62652)
+Client gave invalid sign in packet
+Auth Server: User connected with: ('137.112.207.240', 63169)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.207.240', 63170)
+Sign in info: ['Info', 'Ham', '1013', 'sign in', 'HxbXmEzqyEGhWNT', '']
+Server has connections
+Detected New Users
+Name: Ham  IP: ('137.112.207.240', 63170)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+270 credits available
+
+Table||Dealer:A-C||Ham:3-S,Q-C:10:13||
+Ham: 3-S,Q-C,A-D
+Ham now has: 14
+[14]
+Ham: 3-S,Q-C,A-D,K-S
+Ham now has: BUST
+[24]
+Dealer:A-C,4-H(5|15)
+Dealer Hits, Pulled: 5-C (10|20)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+260 credits available
+
+Table||Dealer:5-C||Ham:6-H,2-S:10:8||
+Ham: 6-H,2-S,K-H
+Ham now has: 18
+[18]
+Dealer:5-C,J-H(15)
+Dealer Hits, Pulled: Q-H (BUST)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+270 credits available
+
+Table||Dealer:7-H||Ham:10-H,K-C:10:20||
+Dealer:7-H,2-C(9)
+Dealer Hits, Pulled: 10-S (19)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+280 credits available
+
+Table||Dealer:Q-S||Ham:6-H,6-D:10:12||
+Ham: 6-H,6-D,4-D
+Ham now has: 16
+[16]
+Ham: 6-H,6-D,4-D,J-C
+Ham now has: BUST
+[26]
+Dealer:Q-S,4-D(14)
+Dealer Hits, Pulled: J-S (BUST)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+270 credits available
+
+Table||Dealer:J-D||Ham:4-H,2-H:10:6||
+Ham: 4-H,2-H,5-S
+Ham now has: 11
+[11]
+Ham: 4-H,2-H,5-S,K-H
+Ham now has: 4 card 21
+[21]
+Dealer:J-D,7-H(17)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+280 credits available
+
+Table||Dealer:4-H||Ham:4-C,K-C:20:14||
+Dealer:4-H,J-C(14)
+Dealer Hits, Pulled: 7-D (3 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+260 credits available
+
+Table||Dealer:K-S||Ham:7-C,4-C:10:11||
+Ham: 7-C,4-C,K-D
+Ham now has: 3 card 21
+[21]
+Dealer:K-S,10-S(20)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+280 credits available
+
+Table||Dealer:8-D||Ham:Q-C,K-C:10:20||
+Dealer:8-D,4-H(12)
+Dealer Hits, Pulled: 8-H (20)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+280 credits available
+
+Table||Dealer:2-S||Ham:A-D,9-D:10:10|20||
+Dealer:2-S,7-D(9)
+Dealer Hits, Pulled: Q-S (19)
+Ham hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+290 credits available
+
+Table||Dealer:A-C||Ham:6-D,A-H:10:7|17||
+Ham: 6-D,A-H,6-C
+Ham now has: 13
+[13]
+Ham: 6-D,A-H,6-C,6-H
+Ham now has: 19
+[19]
+Dealer:A-C,8-S(9|19)
+Ham hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+290 credits available
+
+Table||Dealer:6-D||Ham:J-C,Q-H:10:20||
+Dealer:6-D,7-S(13)
+Dealer Hits, Pulled: 8-H (3 card 21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+280 credits available
+
+Table||Dealer:2-D||Ham:K-D,K-H:10:20||
+Hand Split.
+Original Hand now: K-D,5-S (15)
+Second Hand is: K-H,3-C (13)
+[15]
+[13]
+Dealer:2-D,A-H(3|13)
+Dealer Hits, Pulled: 3-D (6|16)
+Dealer Hits, Pulled: 2-H (8|18)
+Ham hand 1 loses
+Ham hand 2 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+260 credits available
+
+Table||Dealer:2-H||Ham:8-H,10-H:50:18||
+Dealer:2-H,A-D(3|13)
+Dealer Hits, Pulled: 8-D (11|21)
+Ham hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+210 credits available
+Removing: Ham
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+Auth Server: User connected with: ('137.112.207.240', 63324)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.207.240', 63325)
+Sign in info: ['Info', 'meh', '1234', 'create account', 'cXWHSODBbUajdDm', '']
+Server has connections
+Detected New Users
+Name: meh  IP: ('137.112.207.240', 63325)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+1000 credits available
+
+Table||Dealer:K-S||meh:Q-S,9-S:500:19||
+Dealer:K-S,5-H(15)
+Dealer Hits, Pulled: 9-D (BUST)
+meh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1500 credits available
+
+Table||Dealer:4-H||meh:2-C,A-S:250:3|13||
+meh: 2-C,A-S,K-D
+meh now has: 13
+[13]
+Dealer:4-H,8-H(12)
+Dealer Hits, Pulled: 7-H (19)
+meh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1250 credits available
+
+Table||Dealer:Q-H||meh:9-C,Q-D:10:19||
+Dealer:Q-H,2-D(12)
+Dealer Hits, Pulled: 3-C (15)
+Dealer Hits, Pulled: 9-S (BUST)
+meh hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1260 credits available
+
+Table||Dealer:2-S||meh:2-D,J-C:50:12||
+meh: 2-D,J-C,4-S
+meh now has: 16
+[16]
+Dealer:2-S,Q-D(12)
+Dealer Hits, Pulled: 9-S (3 card 21)
+meh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+1210 credits available
+
+Table||Dealer:A-S||meh:3-C,A-S:1000:4|14||
+Dealer has blackjack
+210 credits available
+
+Table||Dealer:J-S||meh:5-H,10-S:210:15||
+meh: 5-H,10-S,A-C
+meh now has: 16
+[16]
+meh: 5-H,10-S,A-C,9-D
+meh now has: BUST
+[25]
+Dealer:J-S,J-D(20)
+meh hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+0 credits available
+meh is broke, removing from game...
+Removing: meh
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+User connected with address: ('198.235.24.184', 62396)
+Client gave invalid sign in packet
+User connected with address: ('57.151.70.168', 45980)
+Client gave invalid sign in packet
+User connected with address: ('172.169.111.194', 58288)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('91.191.209.206', 64240)
+User connected with address: ('198.235.24.223', 57854)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('91.191.209.206', 65533)
+User connected with address: ('71.6.135.131', 51958)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('199.45.155.104', 47144)
+Leaderboard: User connected with address: ('199.45.155.104', 47190)
+Leaderboard: User connected with address: ('162.142.125.192', 43922)
+Leaderboard: User connected with address: ('162.142.125.192', 46794)
+Leaderboard: User connected with address: ('167.94.138.45', 60840)
+Leaderboard: User connected with address: ('167.94.138.45', 34674)
+Leaderboard: User connected with address: ('206.168.34.194', 56616)
+Leaderboard: User connected with address: ('206.168.34.194', 52392)
+User connected with address: ('71.6.199.23', 34378)Exception in thread Thread-1010:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1011:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1126:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1127:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1128:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/chat.py", line 54, in userSendsMessage
+    rsp = client_s.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-1129:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/auth.py", line 67, in auth_user
+    rsp = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-1130:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 210, in __signUserIn
+    info = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-1131:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-1132:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/chat.py", line 54, in userSendsMessage
+    rsp = client_s.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-1133:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/auth.py", line 67, in auth_user
+    rsp = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-1134:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/server.py", line 210, in __signUserIn
+    info = str(client_s.recv(1024).decode()).split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-1135:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+Exception in thread Thread-1141:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1142:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 65, in connectUser
+    rsp = client.recv(1024).decode().split("||")
+ConnectionResetError: [Errno 104] Connection reset by peer
+Exception in thread Thread-1144:
+Traceback (most recent call last):
+  File "/usr/lib/python3.9/threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.9/threading.py", line 892, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/blackjack/src/Blackjack/leaderboard.py", line 69, in connectUser
+    self.print("User gave invalid response: "+address)
+TypeError: can only concatenate str (not "tuple") to str
+
+Client gave invalid sign in packet
+User connected with address: ('147.185.132.129', 59752)
+Client gave invalid sign in packet
+User connected with address: ('198.235.24.106', 62034)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('167.94.146.50', 56830)
+Leaderboard: User connected with address: ('167.94.146.50', 56940)
+User connected with address: ('87.236.176.125', 37917)
+Client gave invalid sign in packet
+User connected with address: ('51.8.231.189', 59378)
+Client gave invalid sign in packet
+User connected with address: ('79.137.194.217', 52360)
+Client gave invalid sign in packet
+User connected with address: ('40.85.155.195', 52668)
+Client gave invalid sign in packet
+Auth Server: User connected with: ('137.112.199.226', 60164)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.199.226', 60165)
+Sign in info: ['Info', 'Rinka', '696969', 'sign in', 'uIDNHbQAUrqQStZ', '']
+Server has connections
+Detected New Users
+Name: Rinka  IP: ('137.112.199.226', 60165)
+['y']
+All users ready!
+Game ready to begin
+Creating stack with: 4 decks
+8600 credits available
+
+Table||Dealer:Q-D||Rinka:7-C,Q-H:10:17||
+Leaderboard: User connected with address: ('137.112.199.226', 60169)
+Leaderboard: User connected to feed: uIDNHbQAUrqQStZ
+Leaderboard: Send data on 29 users to: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('192.168.0.181', 3080), raddr=('137.112.199.226', 60169)>
+Dealer:Q-D,Q-D(20)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8590 credits available
+
+Table||Dealer:7-C||Rinka:5-S,2-C:20:7||
+Rinka: 5-S,2-C,8-D
+Rinka now has: 15
+[15]
+Rinka: 5-S,2-C,8-D,J-C
+Rinka now has: BUST
+[25]
+Dealer:7-C,J-S(17)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8570 credits available
+
+Table||Dealer:Q-S||Rinka:3-S,Q-C:40:13||
+Dealer has blackjack
+8530 credits available
+
+Table||Dealer:9-D||Rinka:Q-H,Q-D:80:20||
+Dealer:9-D,6-H(15)
+Dealer Hits, Pulled: 2-H (17)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8610 credits available
+
+Table||Dealer:Q-C||Rinka:2-D,6-S:10:8||
+Rinka: 2-D,6-S,K-H
+Rinka now has: 18
+[18]
+Dealer:Q-C,3-H(13)
+Dealer Hits, Pulled: 2-C (15)
+Dealer Hits, Pulled: 7-C (BUST)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8620 credits available
+
+Table||Dealer:K-S||Rinka:A-C,3-C:10:4|14||
+Rinka: A-C,3-C,4-S
+Rinka now has: 8|18
+[8, 18]
+Dealer:K-S,K-H(20)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8610 credits available
+
+Table||Dealer:4-C||Rinka:8-S,A-C:10:9|19||
+Dealer:4-C,A-S(5|15)
+Dealer Hits, Pulled: 9-S (14)
+Dealer Hits, Pulled: 4-C (18)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8620 credits available
+
+Table||Dealer:3-C||Rinka:4-C,4-H:10:8||
+Rinka: 4-C,4-H,9-D
+Rinka now has: 17
+[17]
+Dealer:3-C,9-S(12)
+Dealer Hits, Pulled: 10-S (BUST)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8630 credits available
+
+Table||Dealer:J-S||Rinka:4-S,9-C:20:13||
+Rinka: 4-S,9-C,K-D
+Rinka now has: BUST
+[23]
+Dealer:J-S,8-D(18)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8610 credits available
+
+Table||Dealer:9-C||Rinka:K-C,J-D:50:20||
+Dealer:9-C,J-S(19)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8660 credits available
+
+Table||Dealer:10-C||Rinka:5-D,5-D:50:10||
+Rinka: 5-D,5-D,7-D
+Rinka now has: 17
+[17]
+Dealer:10-C,10-C(20)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8560 credits available
+
+Table||Dealer:5-H||Rinka:8-D,10-S:200:18||
+Dealer:5-H,K-H(15)
+Dealer Hits, Pulled: Q-D (BUST)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8760 credits available
+
+Table||Dealer:J-D||Rinka:Q-S,6-D:60:16||
+Rinka: Q-S,6-D,6-S
+Rinka now has: BUST
+[22]
+Dealer:J-D,7-S(17)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8700 credits available
+
+Table||Dealer:5-D||Rinka:10-H,A-H:100:BLACKJACK||
+Dealer:5-D,4-D(9)
+Dealer Hits, Pulled: 3-D (12)
+Dealer Hits, Pulled: 10-D (BUST)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8750 credits available
+
+Table||Dealer:8-C||Rinka:2-D,3-S:50:5||
+Rinka: 2-D,3-S,3-H
+Rinka now has: 8
+[8]
+Rinka: 2-D,3-S,3-H,4-D
+Rinka now has: 12
+[12]
+Rinka: 2-D,3-S,3-H,4-D,J-D
+Rinka now has: BUST
+[22]
+Dealer:8-C,6-C(14)
+Dealer Hits, Pulled: 3-S (17)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8700 credits available
+
+Table||Dealer:K-C||Rinka:5-S,J-C:200:15||
+Dealer:K-C,K-D(20)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8500 credits available
+
+Table||Dealer:5-H||Rinka:J-S,10-S:400:20||
+Dealer:5-H,6-H(11)
+Dealer Hits, Pulled: 9-D (20)
+Rinka hand 1 push
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8500 credits available
+
+Table||Dealer:3-C||Rinka:5-S,7-H:400:12||
+Rinka: 5-S,7-H,J-H
+Rinka now has: BUST
+[22]
+Dealer:3-C,2-D(5)
+Dealer Hits, Pulled: 3-D (8)
+Dealer Hits, Pulled: 6-D (14)
+Dealer Hits, Pulled: 8-H (BUST)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8100 credits available
+
+Table||Dealer:5-C||Rinka:9-C,A-H:800:10|20||
+Dealer:5-C,K-S(15)
+Dealer Hits, Pulled: A-S (16)
+Dealer Hits, Pulled: 8-H (BUST)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8900 credits available
+
+Table||Dealer:10-S||Rinka:10-H,9-H:100:19||
+Dealer:10-S,2-H(12)
+Dealer Hits, Pulled: 6-C (18)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+9000 credits available
+
+Table||Dealer:10-H||Rinka:5-D,10-C:1000:15||
+Dealer:10-H,2-S(12)
+Dealer Hits, Pulled: 6-C (18)
+Rinka hand 1 loses
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+8000 credits available
+
+Table||Dealer:2-H||Rinka:6-S,7-H:2000:13||
+Rinka: 6-S,7-H,7-H
+Rinka now has: 20
+[20]
+Dealer:2-H,Q-S(12)
+Dealer Hits, Pulled: J-C (BUST)
+Rinka hand 1 wins
+Leaderboard: Updated all data on users
+Leaderboard: Calculated all data...
+10000 credits available
+Removing: Rinka
+Game ended, returning to wait...
+Settings: Finished reading settings file!
+Allow new users: True
+Waiting for users...
+User connected with address: ('198.235.24.204', 64258)
+Client gave invalid sign in packet
+User connected with address: ('205.210.31.135', 57694)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('206.168.34.222', 46178)
+Leaderboard: User connected with address: ('206.168.34.222', 56878)
+Chat: Connected with ('45.141.84.95', 65388)
+Auth Server: User connected with: ('45.141.84.95', 62475)
+User connected with address: ('45.141.84.95', 62061)
+Leaderboard: User connected with address: ('45.141.84.95', 63031)
+Chat: Connected with ('45.141.84.95', 64657)
+Auth Server: User connected with: ('45.141.84.95', 62270)
+User connected with address: ('45.141.84.95', 62634)
+Leaderboard: User connected with address: ('45.141.84.95', 64016)
+User connected with address: ('147.185.132.162', 63344)
+Client gave invalid sign in packet
+User connected with address: ('205.210.31.89', 65164)
+Client gave invalid sign in packet
+User connected with address: ('4.156.21.95', 41710)
+Client gave invalid sign in packet
+User connected with address: ('57.152.78.230', 51810)
+Client gave invalid sign in packet
+User connected with address: ('198.235.24.242', 61128)
+Client gave invalid sign in packet
+Leaderboard: User connected with address: ('199.45.155.84', 58032)
+Leaderboard: User connected with address: ('199.45.155.84', 40124)
+Auth Server: User connected with: ('154.213.187.233', 56620)
+Leaderboard: User connected with address: ('118.123.105.89', 54178)
+Auth Server: User connected with: ('137.112.221.147', 65011)
+Auth Server: Client cleared for play
+User connected with address: ('137.112.221.147', 65012)

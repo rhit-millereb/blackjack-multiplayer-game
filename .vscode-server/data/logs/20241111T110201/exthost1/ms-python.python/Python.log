@@ -1,0 +1,19 @@
+2024-11-11 11:02:21.217 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-11 11:02:21.218 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-11 11:02:21.218 [info] Experiment 'pythonTestAdapter' is active
+2024-11-11 11:02:21.218 [warning] Dir "/home/blackjack/.pixi/envs" is not watchable (directory does not exist)
+2024-11-11 11:02:26.787 [info] Python interpreter path: /usr/bin/python
+2024-11-11 11:02:27.523 [info] > pyenv which python
+2024-11-11 11:02:27.523 [info] cwd: .
+2024-11-11 11:02:34.968 [info] Starting Pylance language server.
+2024-11-11 11:07:02.851 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/game.py
+2024-11-11 11:09:03.244 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/main.py
+2024-11-11 11:09:18.297 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/main.py
+2024-11-11 11:09:34.971 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/main.py
+2024-11-11 11:10:41.040 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/game.py
+2024-11-11 11:13:53.869 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/game.py
+2024-11-11 11:13:56.074 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/game.py
+2024-11-11 11:20:12.235 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/game.py
+2024-11-11 11:22:31.899 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/game.py
+2024-11-11 11:25:33.422 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/game.py
+2024-11-11 11:25:33.813 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/game.py

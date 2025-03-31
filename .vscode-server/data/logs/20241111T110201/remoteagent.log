@@ -1,0 +1,24 @@
+2024-11-11 11:02:02.061 [info] 
+
+
+
+
+2024-11-11 11:02:02.124 [info] Extension host agent started.
+2024-11-11 11:02:02.533 [info] [<unknown>][0e10936e][ManagementConnection] New connection established.
+2024-11-11 11:02:02.540 [info] [<unknown>][a4c2210b][ExtensionHostConnection] New connection established.
+2024-11-11 11:02:04.615 [info] [<unknown>][a4c2210b][ExtensionHostConnection] <1428> Launched Extension Host Process.
+2024-11-11 11:07:02.251 [info] New EH opened, aborting shutdown
+2024-11-11 12:07:04.671 [info] [<unknown>][0e10936e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-11-11 14:01:19.057 [info] [<unknown>][0e10936e][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-11-11 14:01:19.182 [info] [<unknown>][bfccb40f][ExtensionHostConnection] New connection established.
+2024-11-11 14:01:19.210 [info] [<unknown>][316da2bb][ManagementConnection] New connection established.
+2024-11-11 14:01:19.278 [info] [<unknown>][bfccb40f][ExtensionHostConnection] <3420> Launched Extension Host Process.
+2024-11-11 14:01:19.425 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/server/out/server-main.js:183:1060)
+    at process.emit (node:events:531:35)
+2024-11-11 14:02:14.219 [info] [<unknown>][316da2bb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-11 14:02:18.975 [info] [<unknown>][bfccb40f][ExtensionHostConnection] <3420> Extension Host Process exited with code: 0, signal: null.
+2024-11-11 14:06:23.432 [info] [<unknown>][0e10936e][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2024-11-11 14:06:27.370 [info] [<unknown>][a4c2210b][ExtensionHostConnection] <1428> Extension Host Process exited with code: 0, signal: null.
+2024-11-11 14:06:27.371 [info] Last EH closed, waiting before shutting down
+2024-11-11 14:11:27.375 [info] Last EH closed, shutting down

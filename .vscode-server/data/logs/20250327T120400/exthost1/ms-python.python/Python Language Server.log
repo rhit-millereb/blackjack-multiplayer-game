@@ -1,0 +1,40 @@
+2025-03-27 12:04:28.956 [info] (Client) Pylance async client (2025.3.2) started with python extension (2025.2.0)
+2025-03-27 12:04:34.539 [info] [Info  - 12:04:34 PM] (16401) Server root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist
+2025-03-27 12:04:34.544 [info] [Info  - 12:04:34 PM] (16401) Pylance language server 2025.3.2 (pyright version 1.1.396, commit 3e2236a7) starting
+2025-03-27 12:04:34.546 [info] [Info  - 12:04:34 PM] (16401) Starting service instance "blackjack"
+2025-03-27 12:04:35.032 [info] [Info  - 12:04:35 PM] (16401) Setting environmentName for service "blackjack": "3.9.2 (global)"
+2025-03-27 12:04:35.034 [info] [Info  - 12:04:35 PM] (16401) Setting pythonPath for service "blackjack": "/usr/bin/python"
+2025-03-27 12:04:35.037 [info] [Info  - 12:04:35 PM] (16401) No include entries specified; assuming /home/blackjack
+2025-03-27 12:04:35.039 [info] [Info  - 12:04:35 PM] (16401) Auto-excluding **/node_modules
+2025-03-27 12:04:35.039 [info] [Info  - 12:04:35 PM] (16401) Auto-excluding **/__pycache__
+2025-03-27 12:04:35.040 [info] [Info  - 12:04:35 PM] (16401) Auto-excluding **/.*
+2025-03-27 12:04:35.631 [info] [Info  - 12:04:35 PM] (16401) Assuming Python version 3.9.2.final.0
+2025-03-27 12:04:38.926 [info] [Info  - 12:04:38 PM] (16401) Found 12 source files
+2025-03-27 12:04:57.118 [info] [Info  - 12:04:56 PM] (16401) Priority queue background worker(2) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist
+2025-03-27 12:05:00.456 [info] [Info  - 12:05:00 PM] (16401) Priority queue background worker(2) started
+2025-03-27 12:05:00.593 [info] [Info  - 12:05:00 PM] (16401) [FG] Long operation: parsing: file:///home/blackjack/src/Blackjack/table.py (6123ms)
+2025-03-27 12:05:04.910 [info] [Info  - 12:05:04 PM] (16401) [FG] Long operation: binding: file:///home/blackjack/src/Blackjack/table.py (2187ms)
+2025-03-27 12:05:05.011 [info] [Info  - 12:05:05 PM] (16401) [BG(1)] Long operation: parsing: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist/typeshed-fallback/stdlib/builtins.pyi (3050ms)
+2025-03-27 12:05:05.012 [info] [Info  - 12:05:05 PM] (16401) Indexer background runner(3) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist (index)
+2025-03-27 12:05:05.013 [info] [Info  - 12:05:05 PM] (16401) Indexing(3) started
+2025-03-27 12:05:08.264 [info] [Info  - 12:05:08 PM] (16401) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/table.py (7633ms)
+2025-03-27 12:05:13.884 [info] [Info  - 12:05:13 PM] (16401) [BG(1)] Long operation: SemanticTokens full at file:///home/blackjack/src/Blackjack/table.py (6707ms)
+2025-03-27 12:05:19.791 [info] [Info  - 12:05:19 PM] (16401) [IDX(3)] Long operation: scan packages file:///home/blackjack (18875ms)
+2025-03-27 12:05:19.795 [info] [Info  - 12:05:19 PM] (16401) scanned(3) 124 files over 1 exec env
+2025-03-27 12:05:23.324 [info] [Info  - 12:05:23 PM] (16401) indexed(3) 124 files over 1 exec env
+2025-03-27 12:05:24.089 [info] [Info  - 12:05:24 PM] (16401) Indexing finished(3).
+2025-03-27 12:06:28.031 [info] [Info  - 12:06:28 PM] (16401) Starting service instance "<default>"
+2025-03-27 12:06:28.684 [info] [Info  - 12:06:28 PM] (16401) Setting environmentName for service "<default>": "3.9.2 (global)"
+2025-03-27 12:06:28.686 [info] [Info  - 12:06:28 PM] (16401) Setting pythonPath for service "<default>": "/usr/bin/python"
+2025-03-27 12:06:28.689 [info] [Info  - 12:06:28 PM] (16401) No include entries specified; assuming /<default workspace root>
+2025-03-27 12:06:28.714 [info] [Info  - 12:06:28 PM] (16401) Auto-excluding **/node_modules
+2025-03-27 12:06:28.718 [info] [Info  - 12:06:28 PM] (16401) Auto-excluding **/__pycache__
+2025-03-27 12:06:28.721 [info] [Info  - 12:06:28 PM] (16401) Auto-excluding **/.*
+2025-03-27 12:06:29.485 [info] [Info  - 12:06:29 PM] (16401) Assuming Python version 3.9.2.final.0
+2025-03-27 12:06:31.325 [info] [Error - 12:06:31 PM] (16401) File or directory "/<default workspace root>" does not exist.
+2025-03-27 12:06:31.329 [info] [Info  - 12:06:31 PM] (16401) No source files found.
+2025-03-27 12:06:40.524 [info] [Info  - 12:06:40 PM] (16401) [BG(1)] Long operation: SemanticTokens delta previousResultId:1743091588063 at file:///home/blackjack/src/Blackjack/table.py (2661ms)
+2025-03-27 12:06:43.777 [info] [Info  - 12:06:43 PM] (16401) Priority queue background worker(5) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2/dist
+2025-03-27 12:06:43.779 [info] [Info  - 12:06:43 PM] (16401) Priority queue background worker(5) started
+2025-03-27 12:06:43.859 [info] [Info  - 12:06:43 PM] (16401) [BG(1)] Long operation: SemanticTokens delta previousResultId:1743091588063 at file:///home/blackjack/src/Blackjack/table.py (5096ms)
+2025-03-27 12:09:12.478 [info] [Info  - 12:09:12 PM] (16401) [BG(1)] Long operation: SemanticTokens full at file:///home/blackjack/src/Blackjack/game.py (4590ms)

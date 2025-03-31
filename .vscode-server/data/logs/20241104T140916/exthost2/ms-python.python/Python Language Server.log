@@ -1,0 +1,38 @@
+2024-11-04 15:28:11.479 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.18.0)
+2024-11-04 15:28:17.216 [info] [Info  - 3:28:16 PM] (3290) Server root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-04 15:28:17.218 [info] [Info  - 3:28:17 PM] (3290) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-11-04 15:28:17.219 [info] [Info  - 3:28:17 PM] (3290) Starting service instance "blackjack"
+2024-11-04 15:28:17.615 [info] [Info  - 3:28:17 PM] (3290) Setting environmentName for service "blackjack": "3.9.2 (global)"
+2024-11-04 15:28:17.619 [info] [Info  - 3:28:17 PM] (3290) Setting pythonPath for service "blackjack": "/usr/bin/python"
+2024-11-04 15:28:17.622 [info] [Info  - 3:28:17 PM] (3290) No include entries specified; assuming /home/blackjack
+2024-11-04 15:28:17.627 [info] [Info  - 3:28:17 PM] (3290) Auto-excluding **/node_modules
+2024-11-04 15:28:17.628 [info] [Info  - 3:28:17 PM] (3290) Auto-excluding **/__pycache__
+2024-11-04 15:28:17.630 [info] [Info  - 3:28:17 PM] (3290) Auto-excluding **/.*
+2024-11-04 15:28:18.059 [info] [Info  - 3:28:18 PM] (3290) Assuming Python version 3.9.2.final.0
+2024-11-04 15:28:19.699 [info] [Info  - 3:28:19 PM] (3290) Found 12 source files
+2024-11-04 15:28:23.224 [info] [Info  - 3:28:23 PM] (3290) [FG] Long operation: parsing: file:///home/blackjack/src/Blackjack/leaderboard.py (2349ms)
+2024-11-04 15:28:25.331 [info] [Info  - 3:28:25 PM] (3290) [FG] Long operation: parsing: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist/typeshed-fallback/stdlib/builtins.pyi (2086ms)
+2024-11-04 15:28:27.044 [info] [Info  - 3:28:27 PM] (3290) Background analysis(1) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-04 15:28:27.047 [info] [Info  - 3:28:27 PM] (3290) Background analysis(1) started
+2024-11-04 15:28:28.534 [info] [Info  - 3:28:28 PM] (3290) Indexer background runner(2) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-11-04 15:28:28.535 [info] [Info  - 3:28:28 PM] (3290) Indexing(2) started
+2024-11-04 15:28:29.455 [info] [Info  - 3:28:29 PM] (3290) [BG(1)] Long operation: indexing: file:///home/blackjack/src/create_keys.py (2313ms)
+2024-11-04 15:28:37.572 [info] [Info  - 3:28:37 PM] (3290) [BG(1)] Long operation: checking: file:///home/blackjack/src/Blackjack/leaderboard.py (6133ms)
+2024-11-04 15:28:37.575 [info] [Info  - 3:28:37 PM] (3290) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/leaderboard.py (6189ms)
+2024-11-04 15:28:37.747 [info] [Info  - 3:28:37 PM] (3290) [IDX(2)] Long operation: scan packages file:///home/blackjack (8644ms)
+2024-11-04 15:28:37.750 [info] [Info  - 3:28:37 PM] (3290) scanned(2) 125 files over 1 exec env
+2024-11-04 15:28:41.380 [info] [Info  - 3:28:41 PM] (3290) indexed(2) 125 files over 1 exec env
+2024-11-04 15:28:41.753 [info] [Info  - 3:28:41 PM] (3290) Indexing finished(2).
+2024-11-04 15:48:38.997 [info] [Info  - 3:48:38 PM] (3290) Starting service instance "<default>"
+2024-11-04 15:48:39.769 [info] [Info  - 3:48:39 PM] (3290) Setting environmentName for service "<default>": "3.9.2 (global)"
+2024-11-04 15:48:39.775 [info] [Info  - 3:48:39 PM] (3290) Setting pythonPath for service "<default>": "/usr/bin/python"
+2024-11-04 15:48:39.793 [info] [Info  - 3:48:39 PM] (3290) No include entries specified; assuming /<default workspace root>
+2024-11-04 15:48:39.807 [info] [Info  - 3:48:39 PM] (3290) Auto-excluding **/node_modules
+2024-11-04 15:48:39.808 [info] [Info  - 3:48:39 PM] (3290) Auto-excluding **/__pycache__
+2024-11-04 15:48:39.810 [info] [Info  - 3:48:39 PM] (3290) Auto-excluding **/.*
+2024-11-04 15:48:40.628 [info] [Info  - 3:48:40 PM] (3290) Assuming Python version 3.9.2.final.0
+2024-11-04 15:48:41.583 [info] [Error - 3:48:41 PM] (3290) File or directory "/<default workspace root>" does not exist.
+2024-11-04 15:48:41.586 [info] [Info  - 3:48:41 PM] (3290) No source files found.
+2024-11-04 15:48:48.150 [info] [Info  - 3:48:48 PM] (3290) Background analysis(3) root directory: file:///home/blackjack/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-11-04 15:48:48.176 [info] [Info  - 3:48:48 PM] (3290) Background analysis(3) started
+2024-11-04 15:51:14.303 [info] [Info  - 3:51:14 PM] (3290) [BG(1)] Long operation: analyzing: file:///home/blackjack/src/Blackjack/leaderboard.py (2087ms)
