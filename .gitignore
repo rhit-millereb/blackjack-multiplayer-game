@@ -1,0 +1,11 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache
+.config
+.dotnet/
+.local/
+.vscode/
+.vscode-server/
+.profile
+.mkshrc

@@ -1696,3 +1696,37 @@ cd Blackjack/
 ls
 clear
 python main.py
+clear
+htop
+ls
+cd ..
+ls
+cp blackjack blackjack-backup
+cp -r blackjack blackjack-backup
+sudo su millereb
+su millereb
+cd blackjack
+ls
+git
+git init
+ls
+git add .
+git remote
+git remote help
+git remote add origin https://github.com/rhit-millereb/blackjack-multiplayer-game.git
+git push origin
+git push --set-upstream origin master
+git remote set-head master
+git remote set-head master -a
+git push -u origin master
+git push -u origin main
+git branch main
+git branch -M main
+git push -u origin main
+git commit -m "backing up files"
+git config --global user.email millereb@rose-hulman.edu
+git commit -m "backing up files"
+git config --global user.name rhit-millereb
+git config --global user.email "millereb@rose-hulman.edu"
+git commit -m "backing up files"
+git push -u origin main
