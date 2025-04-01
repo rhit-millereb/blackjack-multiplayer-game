@@ -1,1 +1,0 @@
-name:user 2|code:1234|bank:10|wins:0|losses:0

@@ -1,6 +1,0 @@
-Listening on 127.0.0.1:46029
-[2025-03-27 14:23:47] info Disposed of connection to running server.
-looking for token 3bff633f-1205-4342-b2ea-71f4f4f58ba8, got Some("3bff633f-1205-4342-b2ea-71f4f4f58ba8")
-[2025-03-27 14:23:47] info Checking /home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/log.txt and /home/blackjack/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/pid.txt for a running server...
-[2025-03-27 14:23:47] info Found running server (pid=16187)
-[2025-03-27 14:58:02] info Disposed of connection to running server.

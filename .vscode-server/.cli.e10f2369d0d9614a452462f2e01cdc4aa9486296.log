@@ -1,6 +1,0 @@
-Listening on 127.0.0.1:40923
-[2024-10-30 13:56:37] info Disposed of connection to running server.
-looking for token 8a2b5962-8d8d-4328-a672-4efb2d9e193e, got Some("8a2b5962-8d8d-4328-a672-4efb2d9e193e")
-[2024-10-30 13:56:38] info Checking /home/blackjack/.vscode-server/cli/servers/Stable-e10f2369d0d9614a452462f2e01cdc4aa9486296/log.txt and /home/blackjack/.vscode-server/cli/servers/Stable-e10f2369d0d9614a452462f2e01cdc4aa9486296/pid.txt for a running server...
-[2024-10-30 13:56:38] info Found running server (pid=3964)
-[2024-10-30 14:16:21] info Disposed of connection to running server.

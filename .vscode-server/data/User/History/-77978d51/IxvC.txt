@@ -1,4 +1,0 @@
-Chat Update:
-- Added chat
-- Added leaderboard
-- Changed default timeout to 60 seconds

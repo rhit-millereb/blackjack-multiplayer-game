@@ -1,9 +1,0 @@
-2024-11-04 14:09:40.223 [info] Experiment 'pythonRecommendTensorboardExt' is active
-2024-11-04 14:09:40.223 [info] Experiment 'pythonTerminalEnvVarActivation' is active
-2024-11-04 14:09:40.223 [info] Experiment 'pythonTestAdapter' is active
-2024-11-04 14:09:40.223 [warning] Dir "/home/blackjack/.pixi/envs" is not watchable (directory does not exist)
-2024-11-04 14:09:40.223 [info] Python interpreter path: /usr/bin/python
-2024-11-04 14:09:41.142 [info] > pyenv which python
-2024-11-04 14:09:41.142 [info] cwd: .
-2024-11-04 14:09:47.381 [info] Starting Pylance language server.
-2024-11-04 14:09:57.062 [info] Discover tests for workspace name: blackjack - uri: /home/blackjack/src/Blackjack/leaderboard.py

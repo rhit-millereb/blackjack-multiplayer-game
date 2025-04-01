@@ -1,1 +1,0 @@
-name:coach_mills|code:2626|bank:2400|wins:16|losses:13|pushes:0

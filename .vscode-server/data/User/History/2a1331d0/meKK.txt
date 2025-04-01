@@ -1,3 +1,0 @@
-allowNewUsers:1:
-maxAccounts:25:
-maxConnectedUsers:6:
